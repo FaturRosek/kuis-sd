@@ -1,0 +1,962 @@
+[
+  {
+    "id": "ipas-k3-m01",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Akar Tumbuhan",
+    "level": "mudah",
+    "question": "Bagian tumbuhan yang berfungsi menyerap air dan zat hara dari dalam tanah adalah ...",
+    "options": [
+      "Akar",
+      "Daun",
+      "Batang",
+      "Bunga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akar menyerap air dan nutrisi dari tanah serta memperkokoh berdirinya tumbuhan."
+  },
+  {
+    "id": "ipas-k3-m02",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Daun Hijau",
+    "level": "mudah",
+    "question": "Bagian tumbuhan yang menjadi tempat berlangsungnya proses pembuatan makanan (fotosintesis) adalah ...",
+    "options": [
+      "Daun",
+      "Akar",
+      "Batang",
+      "Biji"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Daun mengandung klorofil untuk memasak makanan melalui fotosintesis."
+  },
+  {
+    "id": "ipas-k3-m03",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Batang Tumbuhan",
+    "level": "mudah",
+    "question": "Bagian tumbuhan yang berfungsi mengangkut air dari akar ke daun serta menopang daun dan buah adalah ...",
+    "options": [
+      "Batang",
+      "Bunga",
+      "Akar",
+      "Biji"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Batang berfungsi sebagai jalur transportasi cairan dan penopang organ tumbuhan."
+  },
+  {
+    "id": "ipas-k3-m04",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Wujud Benda Padat",
+    "level": "mudah",
+    "question": "Benda yang memiliki bentuk dan volume yang tetap meskipun dipindahkan ke tempat yang berbeda adalah benda ...",
+    "options": [
+      "Padat",
+      "Cair",
+      "Gas",
+      "Udara"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benda padat memiliki bentuk dan volume yang tetap."
+  },
+  {
+    "id": "ipas-k3-m05",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Wujud Benda Cair",
+    "level": "mudah",
+    "question": "Benda yang bentuknya selalu berubah mengikuti bentuk wadahnya tetapi volumenya tetap adalah benda ...",
+    "options": [
+      "Cair",
+      "Padat",
+      "Gas",
+      "Beku"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benda cair mengalir dan menyesuaikan bentuk wadahnya dengan volume tetap."
+  },
+  {
+    "id": "ipas-k3-m06",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Wujud Benda Gas",
+    "level": "mudah",
+    "question": "Benda yang memiliki bentuk dan volume yang selalu berubah memenuhi seluruh ruangan yang ditempatinya adalah benda ...",
+    "options": [
+      "Gas",
+      "Padat",
+      "Cair",
+      "Logam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zat gas mengisi seluruh ruang dan partikelnya bergerak bebas."
+  },
+  {
+    "id": "ipas-k3-m07",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Mencair",
+    "level": "mudah",
+    "question": "Perubahan wujud benda dari padat menjadi cair akibat pengaruh kenaikan suhu panas dinamakan ...",
+    "options": [
+      "Mencair (melebur)",
+      "Membeku",
+      "Menguap",
+      "Menyublim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Es batu yang dipanaskan akan mencair menjadi air."
+  },
+  {
+    "id": "ipas-k3-m08",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Membeku",
+    "level": "mudah",
+    "question": "Perubahan wujud benda dari cair menjadi padat akibat pendinginan disebut ...",
+    "options": [
+      "Membeku",
+      "Mencair",
+      "Mengembun",
+      "Menguap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Air yang didinginkan di freezer akan membeku menjadi es batu."
+  },
+  {
+    "id": "ipas-k3-m09",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Empat Arah Mata Angin Pokok",
+    "level": "mudah",
+    "question": "Empat arah mata angin pokok terdiri dari ...",
+    "options": [
+      "Utara, Timur, Selatan, Barat",
+      "Kiri, Kanan, Depan, Belakang",
+      "Atas, Bawah, Samping, Tengah",
+      "Tenggara, Barat Daya, Timur Laut, Barat Laut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arah mata angin utama adalah Utara, Timur, Selatan, dan Barat."
+  },
+  {
+    "id": "ipas-k3-m10",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Arah Terbitnya Matahari",
+    "level": "mudah",
+    "question": "Matahari selalu tampak terbit di pagi hari dari sebelah arah ...",
+    "options": [
+      "Timur",
+      "Barat",
+      "Utara",
+      "Selatan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Matahari terbit di sebelah timur dan terbenam di sebelah barat."
+  },
+  {
+    "id": "ipas-k3-s01",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Metamorfosis Sempurna Kupu-Kupu",
+    "level": "sedang",
+    "question": "Urutan tahapan siklus hidup (metamorfosis sempurna) kupu-kupu yang benar adalah ...",
+    "options": [
+      "Telur -> Ulat (larva) -> Kepompong (pupa) -> Kupu-kupu dewasa",
+      "Telur -> Kepompong -> Ulat -> Kupu-kupu",
+      "Ulat -> Telur -> Kepompong -> Kupu-kupu",
+      "Kupu-kupu -> Kepompong -> Ulat -> Telur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kupu-kupu mengalami 4 tahapan metamorfosis sempurna: telur, ulat, kepompong, imago."
+  },
+  {
+    "id": "ipas-k3-s02",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Metamorfosis Tidak Sempurna Kecoak",
+    "level": "sedang",
+    "question": "Hewan berikut yang mengalami metamorfosis TIDAK sempurna (tanpa tahap kepompong) adalah ...",
+    "options": [
+      "Kecoak dan belalang",
+      "Kupu-kupu dan lalat",
+      "Nyamuk dan katak",
+      "Lebah dan semut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kecoak dan belalang berkembang dari telur menjadi nimfa lalu serangga dewasa."
+  },
+  {
+    "id": "ipas-k3-s03",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Siklus Hidup Katak",
+    "level": "sedang",
+    "question": "Pada siklus hidup katak, setelah telur menetas akan menjadi ... yang bernapas menggunakan insang di air.",
+    "options": [
+      "Berudu (kecebong)",
+      "Katak berekor",
+      "Katak dewasa",
+      "Pupa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Telur katak menetas menjadi berudu (kecebong) yang hidup di air."
+  },
+  {
+    "id": "ipas-k3-s04",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Menguap",
+    "level": "sedang",
+    "question": "Baju basah yang dijemur di bawah terik matahari lama-kelamaan menjadi kering karena air mengalami perubahan wujud ...",
+    "options": [
+      "Menguap",
+      "Membeku",
+      "Menyublim",
+      "Mengkristal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Air pada pakaian basah terkena panas matahari menguap menjadi uap air."
+  },
+  {
+    "id": "ipas-k3-s05",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Mengembun",
+    "level": "sedang",
+    "question": "Titik-titik butiran air yang muncul di bagian luar gelas berisi es sirup dingin terjadi karena proses ...",
+    "options": [
+      "Mengembun (kondensasi)",
+      "Mencair",
+      "Menguap",
+      "Meresap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Uap air di udara sekitar gelas yang dingin berubah wujud menjadi butiran air embun."
+  },
+  {
+    "id": "ipas-k3-s06",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Menyublim",
+    "level": "sedang",
+    "question": "Kapur barus (kamfer) yang diletakkan di dalam lemari pakaian lama-kelamaan mengecil dan habis karena berubah wujud ...",
+    "options": [
+      "Menyublim (padat menjadi gas)",
+      "Mencair",
+      "Membeku",
+      "Mengembun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menyublim adalah perubahan wujud dari padat langsung menjadi gas."
+  },
+  {
+    "id": "ipas-k3-s07",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Membaca Kompas",
+    "level": "sedang",
+    "question": "Jarum penunjuk magnet pada alat kompas dalam keadaan tenang akan selalu mengarah ke kutub ...",
+    "options": [
+      "Utara dan Selatan",
+      "Timur dan Barat",
+      "Tenggara dan Barat Laut",
+      "Atas dan Bawah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medan magnet bumi membuat jarum kompas selalu menunjuk arah utara-selatan."
+  },
+  {
+    "id": "ipas-k3-s08",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Kenampakan Alam Dataran Tinggi",
+    "level": "sedang",
+    "question": "Kenampakan alam berupa wilayah daratan luas yang terletak pada ketinggian lebih dari 500 meter di atas permukaan laut dan berudara sejuk dinamakan ...",
+    "options": [
+      "Dataran tinggi (plato)",
+      "Dataran rendah",
+      "Pantai",
+      "Lembah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dataran tinggi berada di atas 500 mdpl dan cocok untuk perkebunan teh/sayur."
+  },
+  {
+    "id": "ipas-k3-s09",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Kenampakan Alam Pantai",
+    "level": "sedang",
+    "question": "Wilayah perbatasan langsung antara daratan dengan lautan yang banyak dimanfaatkan warga sebagai objek wisata dan tambak garam adalah ...",
+    "options": [
+      "Pantai",
+      "Gunung",
+      "Danau",
+      "Ngarai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pantai adalah zona pertemuan antara darat dan laut."
+  },
+  {
+    "id": "ipas-k3-s10",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Kenampakan Buatan Waduk",
+    "level": "sedang",
+    "question": "Danau buatan manusia yang dibangun dengan membendung aliran sungai besar untuk irigasi sawah dan pembangkit listrik disebut ...",
+    "options": [
+      "Waduk (bendungan)",
+      "Selokan",
+      "Sungai alami",
+      "Laut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Waduk adalah kenampakan buatan multifungsi untuk irigasi dan PLTA."
+  },
+  {
+    "id": "ipas-k3-s11",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Jenis Akar Serabut",
+    "level": "sedang",
+    "question": "Tumbuhan berpembuluh yang memiliki sistem perakaran serabut berbentuk seperti serabut anyaman adalah tanaman ...",
+    "options": [
+      "Padi, jagung, dan kelapa",
+      "Mangga, durian, dan rambutan",
+      "Bayam dan singkong",
+      "Wortel dan lobak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tumbuhan monokotil (seperti padi, jagung, kelapa) berakar serabut."
+  },
+  {
+    "id": "ipas-k3-s12",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Jenis Akar Tunggang",
+    "level": "sedang",
+    "question": "Pohon mangga dan jambu memiliki satu akar utama yang kokoh menghujam dalam ke tanah dengan cabang-cabang akar kecil, yang dinamakan akar ...",
+    "options": [
+      "Tunggang",
+      "Serabut",
+      "Gantung",
+      "Napas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tumbuhan dikotil berkambium memiliki sistem akar tunggang."
+  },
+  {
+    "id": "ipas-k3-s13",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Akar Khusus Pohon Beringin",
+    "level": "sedang",
+    "question": "Akar gantung yang menjulur dari dahan pohon beringin ke arah tanah berfungsi untuk ...",
+    "options": [
+      "Menyerap uap air dan gas oksigen dari udara",
+      "Menangkap lalat",
+      "Menggugurkan daun",
+      "Membuat biji"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akar gantung beringin berfungsi menyerap air dan udara (akar napas)."
+  },
+  {
+    "id": "ipas-k3-s14",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Denah Lingkungan Sekolah",
+    "level": "sedang",
+    "question": "Gambar sederhana yang menunjukkan letak posisi ruang kelas, perpustakaan, dan lapangan upacara di sekolah disebut ...",
+    "options": [
+      "Denah",
+      "Peta dunia",
+      "Lukisan",
+      "Brosur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Denah menggambarkan lokasi ruangan secara sederhana dalam skala lokal."
+  },
+  {
+    "id": "ipas-k3-s15",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Kebutuhan Primer Manusia",
+    "level": "sedang",
+    "question": "Kebutuhan paling mendasar yang harus dipenuhi manusia agar dapat bertahan hidup layak (sandang, pangan, papan) disebut kebutuhan ...",
+    "options": [
+      "Primer (pokok)",
+      "Sekunder",
+      "Tersier",
+      "Tambahan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kebutuhan primer adalah sandang (pakaian), pangan (makanan), dan papan (tempat tinggal)."
+  },
+  {
+    "id": "ipas-k3-s16",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Contoh Kebutuhan Sekunder",
+    "level": "sedang",
+    "question": "Kebutuhan yang dipenuhi setelah kebutuhan pokok terpenuhi, seperti meja belajar, lemari, dan sepeda santai dinamakan kebutuhan ...",
+    "options": [
+      "Sekunder",
+      "Primer",
+      "Mewah",
+      "Darurat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kebutuhan sekunder melengkapi kenyamanan hidup."
+  },
+  {
+    "id": "ipas-k3-s17",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pengaruh Cuaca Terhadap Kegiatan",
+    "level": "sedang",
+    "question": "Saat cuaca cerah dan terik di pesisir pantai, kegiatan masyarakat yang paling banyak dilakukan adalah ...",
+    "options": [
+      "Menjemur ikan asin dan mengeringkan garam",
+      "Menanam bibit padi di sawah",
+      "Membeli jaket tebal berbulu",
+      "Membuat api unggun di jalan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinar matahari terik dimanfaatkan nelayan untuk menjemur hasil tangkapan laut."
+  },
+  {
+    "id": "ipas-k3-s18",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Interaksi Sosial Tolong Menolong",
+    "level": "sedang",
+    "question": "Pak RT mengajak seluruh bapak-bapak membersihkan selokan tersumbat menjelang musim penghujan. Tindakan warga yang berpartisipasi merupakan wujud kerja sama dalam ...",
+    "options": [
+      "Kerja bakti lingkungan",
+      "Pesta rakyat",
+      "Arisan keluarga",
+      "Rapat partai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kerja bakti adalah kerja sama menjaga kebersihan dan mencegah banjir di pemukiman."
+  },
+  {
+    "id": "ipas-k3-s19",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Bunga pada Tumbuhan",
+    "level": "sedang",
+    "question": "Bagian bunga yang memiliki serbuk sari dan putik berfungsi sebagai alat ...",
+    "options": [
+      "Perkembangbiakan secara kawin (generatif)",
+      "Pernapasan tumbuhan",
+      "Menyerap pupuk",
+      "Menyimpan cadangan air"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bunga adalah alat reproduksi generatif tumbuhan penghasil biji."
+  },
+  {
+    "id": "ipas-k3-s20",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Hewan Pemakan Tumbuhan (Herbivora)",
+    "level": "sedang",
+    "question": "Sapi, kambing, dan kelinci dikelompokkan ke dalam hewan herbivora karena makanan utamanya adalah ...",
+    "options": [
+      "Tumbuhan (rumput, daun, buah)",
+      "Daging hewan lain",
+      "Bangkai ikan",
+      "Kotoran"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Herbivora adalah golongan satwa pemakan material nabati/tumbuhan."
+  },
+  {
+    "id": "ipas-k3-u01",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Analisis Percobaan Fotosintesis Daun Tertutup Kertas Timah",
+    "level": "sulit",
+    "question": "Sebuah daun tanaman ditutup sebagian dengan kertas timah lalu dijemur di bawah matahari selama 5 jam. Setelah direbus alkohol dan ditetesi iodin, bagian daun yang tertutup kertas timah tidak berubah warna menjadi biru kehitaman. Hal ini membuktikan bahwa ...",
+    "options": [
+      "Proses fotosintesis memerlukan cahaya matahari untuk menghasilkan zat tepung (amilum)",
+      "Kertas timah beracun bagi daun",
+      "Daun tidak membutuhkan klorofil",
+      "Air tidak mengalir ke daun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tanpa sinar matahari, fotosintesis terhambat sehingga tidak terbentuk zat amilum."
+  },
+  {
+    "id": "ipas-k3-u02",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Daur Hidup Nyamuk Vektor DBD",
+    "level": "sulit",
+    "question": "Fase daur hidup nyamuk Aedes aegypti yang hidup menggantung di permukaan air tenang dan paling efektif diberantas dengan cara menguras bak mandi adalah fase ...",
+    "options": [
+      "Jentik-jentik (larva nyamuk)",
+      "Telur",
+      "Nyamuk dewasa",
+      "Kepompong terbang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menguras dan menutup bak penampungan air memutus siklus hidup pada tahap jentik."
+  },
+  {
+    "id": "ipas-k3-u03",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perubahan Wujud Menghablur (Mengkristal)",
+    "level": "sulit",
+    "question": "Terbentuknya butiran salju di awan atau jelaga hitam di dalam cerobong asap merupakan contoh perubahan wujud dari ...",
+    "options": [
+      "Gas langsung menjadi benda padat (mengkristal/menghablur)",
+      "Padat menjadi cair",
+      "Cair menjadi gas",
+      "Cair menjadi padat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mengkristal/menghablur adalah proses perubahan wujud gas langsung menjadi padat."
+  },
+  {
+    "id": "ipas-k3-u04",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perbedaan Penyerbukan dan Pembuahan",
+    "level": "sulit",
+    "question": "Pada proses reproduksi bunga, jatuhnya serbuk sari ke kepala putik dinamakan penyerbukan, sedangkan bersatunya sel kelamin jantan dengan sel telur di dalam bakal biji disebut ...",
+    "options": [
+      "Pembuahan (fertilisasi)",
+      "Metamorfosis",
+      "Pencangkokan",
+      "Fotosintesis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pembuahan adalah peleburan inti sel sperma serbuk sari dengan ovum bakal biji."
+  },
+  {
+    "id": "ipas-k3-u05",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Analisis Arah Mata Angin Antara",
+    "level": "sulit",
+    "question": "Jika kamu sedang berdiri menghadap lurus ke arah Timur, maka arah mata angin yang berada tepat di sebelah kiri lenganmu adalah arah ...",
+    "options": [
+      "Utara",
+      "Selatan",
+      "Barat",
+      "Barat Laut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bila menghadap Timur, tangan kiri menunjuk Utara dan tangan kanan menunjuk Selatan."
+  },
+  {
+    "id": "ipas-k3-u06",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Arah Mata Angin Barat Daya",
+    "level": "sulit",
+    "question": "Arah mata angin yang berada persis di antara arah Barat dan arah Selatan dinamakan arah ...",
+    "options": [
+      "Barat Daya",
+      "Barat Laut",
+      "Tenggara",
+      "Timur Laut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Di antara Barat dan Selatan adalah Barat Daya."
+  },
+  {
+    "id": "ipas-k3-u07",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Arah Mata Angin Timur Laut",
+    "level": "sulit",
+    "question": "Arah mata angin yang terletak di antara arah Utara dan arah Timur disebut ...",
+    "options": [
+      "Timur Laut",
+      "Tenggara",
+      "Barat Laut",
+      "Barat Daya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Di antara Utara dan Timur adalah Timur Laut."
+  },
+  {
+    "id": "ipas-k3-u08",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pemanfaatan Dataran Rendah",
+    "level": "sulit",
+    "question": "Wilayah dataran rendah dengan ketinggian 0-200 mdpl biasanya menjadi pusat pemukiman padat dan industri perkotaan karena ...",
+    "options": [
+      "Tanahnya relatif datar, mudah dibangun jalur transportasi, dan dekat sumber air",
+      "Udara sangat dingin bersalju",
+      "Jauh dari jangkauan manusia",
+      "Dikelilingi tebing jurang terjal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Relief datar memudahkan mobilitas mobilitas manusia, perdagangan, dan pembangunan fasilitas."
+  },
+  {
+    "id": "ipas-k3-u09",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Hutan Bakau (Mangrove) di Pesisir Pantai",
+    "level": "sulit",
+    "question": "Penanaman pohon bakau (mangrove) di sepanjang garis pantai pesisir sangat penting karena akar tunjang bakau mampu ...",
+    "options": [
+      "Mencegah abrasi pengikisan daratan oleh gelombang ombak laut dan menjadi habitat udang ikan kecil",
+      "Membuat air laut menjadi tawar",
+      "Menghalangi perahu nelayan mencari nafkah",
+      "Menyerap minyak bumi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akar mangrove mengikat lumpur, memecah gelombang tsunami/abrasi, dan menjadi nursery ground fauna laut."
+  },
+  {
+    "id": "ipas-k3-u10",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perbedaan Kenampakan Alam Danau Tektonik dan Vulkanik",
+    "level": "sulit",
+    "question": "Danau Toba terbentuk akibat letusan gunung berapi dahsyat purba (vulkanik), sedangkan Danau Singkarak terbentuk karena pergeseran patahan lempeng kerak bumi yang disebut danau ...",
+    "options": [
+      "Tektonik",
+      "Buatan",
+      "Waduk",
+      "Gletser"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Danau tektonik terjadi karena patahan/pergeseran lempeng bumi."
+  },
+  {
+    "id": "ipas-k3-u11",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Studi Kasus Banjir di Kawasan Hilir",
+    "level": "sulit",
+    "question": "Alih fungsi hutan di perbukitan hulu menjadi villa mewah beton menyebabkan banjir bandang di kota hilir saat musim hujan karena ...",
+    "options": [
+      "Air hujan tidak terserap tanah (infiltrasi berkurang) sehingga menjadi limpasan air permukaan yang deras",
+      "Air sungai mengalir mundur ke atas bukit",
+      "Hujan hanya turun di daerah villa",
+      "Kota hilir membuang air ke atas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hilangnya akar pohon penahan air menyebabkan berkurangnya resapan air ke dalam tanah."
+  },
+  {
+    "id": "ipas-k3-u12",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Ciri Daun Teratai Mengapung di Air",
+    "level": "sulit",
+    "question": "Tumbuhan teratai dapat hidup mengapung di permukaan air kolam karena memiliki ciri adaptasi berupa ...",
+    "options": [
+      "Daun lebar tipis dan batang berongga udara",
+      "Akar tunggang tebal menusuk batu",
+      "Daun berbentuk duri kering",
+      "Batang berlapis lilin tebal tanpa pori"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Daun lebar mempercepat penguapan dan batang berongga membantunya mengapung."
+  },
+  {
+    "id": "ipas-k3-u13",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Ciri Tumbuhan Kaktus di Padang Pasir",
+    "level": "sulit",
+    "question": "Tanaman kaktus mampu bertahan hidup di gurun pasir yang sangat gersang karena daunnya bermodifikasi menjadi ...",
+    "options": [
+      "Duri untuk mengurangi penguapan air dan batangnya tebal menyimpan cadangan air",
+      "Bunga raksasa penampung embun",
+      "Daun lebar tipis penyerap matahari",
+      "Akar serabut mengapung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Duri mengurangi transpirasi dan batang spons kaktus menyimpan air."
+  },
+  {
+    "id": "ipas-k3-u14",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Kantung Semar Tumbuhan Insektivora",
+    "level": "sulit",
+    "question": "Tumbuhan kantung semar menangkap serangga kecil ke dalam kantungnya bertujuan untuk memenuhi kebutuhan unsur ...",
+    "options": [
+      "Nitrogen yang minim di habitat tanah rawa asam",
+      "Karbohidrat",
+      "Klorofil buatan",
+      "Air murni"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kantung semar mencerna serangga untuk memperoleh nitrogen yang miskin di tanah rawa."
+  },
+  {
+    "id": "ipas-k3-u15",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Dampak Pembuangan Sampah Plastik ke Saluran Air",
+    "level": "sulit",
+    "question": "Sampah plastik yang dibuang sembarangan ke selokan membutuhkan waktu ratusan tahun untuk terurai. Akibat langsungnya pada musim hujan adalah ...",
+    "options": [
+      "Menyumbat gorong-gorong air hingga air meluap menggenangi pemukiman",
+      "Membuat air selokan menjadi jernih",
+      "Menjadi pupuk penyubur ikan",
+      "Mengurangi debit air hujan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sampah anorganik menyumbat drainase dan memicu genangan banjir."
+  },
+  {
+    "id": "ipas-k3-u16",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Perbedaan Siklus Hidup Belalang dan Kupu-Kupu",
+    "level": "sulit",
+    "question": "Perbedaan mendasar antara metamorfosis belalang dengan metamorfosis kupu-kupu adalah belalang tidak mengalami tahap ...",
+    "options": [
+      "Pupa (kepompong)",
+      "Telur",
+      "Hewan dewasa",
+      "Makan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Belalang metamorfosis tidak sempurna: telur -> nimfa -> imago (tanpa tahap kepompong)."
+  },
+  {
+    "id": "ipas-k3-u17",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Fungsi Tudung Akar (Kaliptra)",
+    "level": "sulit",
+    "question": "Pada ujung akar tumbuhan terdapat tudung akar (kaliptra) yang berfungsi melindungi sel-sel meristem akar saat ...",
+    "options": [
+      "Menembus lapisan tanah keras dan bebatuan",
+      "Menyerap sinar matahari",
+      "Menggugurkan daun",
+      "Menghasilkan bunga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kaliptra melindungi ujung akar aktif yang menembus tanah."
+  },
+  {
+    "id": "ipas-k3-u18",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Hubungan Batang Berkayu dan Kambium",
+    "level": "sulit",
+    "question": "Pohon mangga batangnya bisa bertambah besar diameter lingkarannya dari tahun ke tahun karena memiliki jaringan aktif yang disebut ...",
+    "options": [
+      "Kambium",
+      "Klorofil",
+      "Kaliptra",
+      "Stomata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aktivitas pembelahan sel kambium ke luar membentuk kulit dan ke dalam membentuk kayu."
+  },
+  {
+    "id": "ipas-k3-u19",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Analisis Kebutuhan Berdasarkan Waktu Pemenuhan",
+    "level": "sulit",
+    "question": "Obat bagi orang yang sedang sakit gawat merupakan contoh kebutuhan ...",
+    "options": [
+      "Sekarang (mendesak dan tidak dapat ditunda)",
+      "Masa depan",
+      "Sepanjang masa",
+      "Tersier"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kebutuhan sekarang harus dipenuhi seketika demi keselamatan jiwa."
+  },
+  {
+    "id": "ipas-k3-u20",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Alat Pemenuhan Kebutuhan Barang Bebas vs Barang Ekonomi",
+    "level": "sulit",
+    "question": "Udara oksigen di alam terbuka dapat dihirup cuma-cuma sebagai barang bebas, tetapi tabung gas oksigen di rumah sakit menjadi barang ekonomi karena ...",
+    "options": [
+      "Memerlukan pengorbanan biaya dan tenaga untuk memproses dan menyediakannya",
+      "Oksigen rumah sakit dibuat dari air murni",
+      "Lebih harum daripada udara luar",
+      "Dijual oleh dokter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Barang ekonomi langka dan memerlukan biaya produksi/distribusi."
+  },
+  {
+    "id": "ipas-k3-u21",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Tradisi Membaca Tanda-Tanda Alam Petani",
+    "level": "sulit",
+    "question": "Kearifan lokal petani Jawa menggunakan sistem penanggalan musim 'Pranata Mangsa' untuk menentukan waktu yang tepat dalam ...",
+    "options": [
+      "Mulai menanam padi dan mengantisipasi hama atau kekeringan",
+      "Merayakan ulang tahun",
+      "Menjual tanah warisan",
+      "Membuat sumur bor industri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pranata mangsa adalah kalender ekologis agraris tradisional memandu masa tanam."
+  },
+  {
+    "id": "ipas-k3-u22",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Eksperimen Air Merambat Melalui Pembuluh Kapiler",
+    "level": "sulit",
+    "question": "Tangkai bunga mawar putih yang direndam dalam segelas air berwarna merah selama semalam berubah warna kelopaknya menjadi merah muda. Peristiwa ini membuktikan bahwa ...",
+    "options": [
+      "Air dan zat hara diangkut naik melalui pembuluh kayu (xilem) batang tumbuhan",
+      "Bunga mawar bisa mengecat dirinya sendiri",
+      "Pewarna merusak kelopak mawar",
+      "Daun menyerap warna merah dari udara"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Xilem mentranspor air dan mineral dari pangkal batang ke mahkota bunga."
+  },
+  {
+    "id": "ipas-k3-u23",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pengaruh Suhu Panas pada Pemuaian Gas",
+    "level": "sulit",
+    "question": "Balon karet yang dipasang pada mulut botol kosong yang dipanaskan di dalam mangkuk air panas akan mengembang. Hal ini membuktikan bahwa zat gas ...",
+    "options": [
+      "Memuai (volumenya membesar) saat dipanaskan",
+      "Menyusut jika terkena panas",
+      "Mencair menjadi air panas",
+      "Kehilangan massa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zat gas memuai dan membesar volumenya jika suhunya meningkat."
+  },
+  {
+    "id": "ipas-k3-u24",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pengembunan di Alam: Terbentuknya Awan",
+    "level": "sulit",
+    "question": "Uap air dari permukaan laut naik ke atmosfer tinggi yang bersuhu dingin lalu mengalami kondensasi membentuk kumpulan titik air yang kita kenal sebagai ...",
+    "options": [
+      "Awan",
+      "Pelangi",
+      "Petir",
+      "Angin topan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Awan adalah uap air yang mengembun membentuk jutaan tetes air kecil di atmosfer."
+  },
+  {
+    "id": "ipas-k3-u25",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pengertian Skala pada Peta Sederhana",
+    "level": "sulit",
+    "question": "Jika pada denah tertulis skala 1 : 100, artinya setiap 1 sentimeter jarak pada denah mewakili jarak sebenarnya di lapangan sebesar ...",
+    "options": [
+      "100 sentimeter (1 meter)",
+      "100 meter",
+      "100 kilometer",
+      "10 milimeter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Skala 1:100 berarti 1 cm di gambar setara dengan 100 cm jarak nyata."
+  },
+  {
+    "id": "ipas-k3-u26",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Dampak Pembalakan Liar Terhadap Satwa Hutan",
+    "level": "sulit",
+    "question": "Penebangan pohon secara liar di hutan lindung dapat memicu kepunahan satwa langka karena ...",
+    "options": [
+      "Menghilangkan habitat tempat tinggal, sumber makanan, dan daerah jelajah satwa",
+      "Membuat satwa pindah ke kebun binatang",
+      "Hewan menjadi lebih mudah berburu",
+      "Pohon yang tersisa berbuah lebat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deforestasi merusak daya dukung ekosistem bagi satwa endemik."
+  },
+  {
+    "id": "ipas-k3-u27",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Pemanfaatan Energi Angin Tradisional",
+    "level": "sulit",
+    "question": "Nelayan tradisional menggunakan perahu layar yang memanfaatkan tenaga hembusan angin laut dan angin darat. Angin darat berhembus pada ...",
+    "options": [
+      "Malam hari dari darat ke laut sehingga nelayan berangkat melaut",
+      "Siang hari dari laut ke darat",
+      "Sore hari saat matahari terbenam",
+      "Tengah hari saat terik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angin darat bertiup malam hari karena daratan lebih cepat dingin daripada lautan."
+  },
+  {
+    "id": "ipas-k3-u28",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Terjadinya Angin Laut di Pesisir",
+    "level": "sulit",
+    "question": "Nelayan tradisional memanfaatkan angin laut untuk kembali pulang ke pantai dari berlayar. Angin laut terjadi pada waktu ...",
+    "options": [
+      "Siang hari karena udara di daratan lebih cepat panas dan naik ke atas",
+      "Malam hari saat suhu dingin",
+      "Subuh hari sebelum fajar",
+      "Tengah malam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Siang hari daratan lebih panas, udara panas naik digantikan angin sejuk dari laut."
+  },
+  {
+    "id": "ipas-k3-u29",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Keuntungan Membeli Barang Produksi Lokal",
+    "level": "sulit",
+    "question": "Membeli sayur-mayur dan buah-buahan segar hasil panen petani di pasar lokal daerah sendiri lebih menguntungkan karena ...",
+    "options": [
+      "Meningkatkan pendapatan petani lokal dan mendapatkan makanan yang lebih segar",
+      "Membuat pedagang asing menjadi kaya",
+      "Menaikkan biaya transportasi impor",
+      "Membuat pasar cepat tutup"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Membeli produk lokal menggerakkan perekonomian rakyat setempat."
+  },
+  {
+    "id": "ipas-k3-u30",
+    "grade": 3,
+    "subject": "ipas",
+    "topic": "Tanggung Jawab Pemeliharaan Fasilitas Taman Kota",
+    "level": "sulit",
+    "question": "Taman kota dibangun dengan fasilitas bangku taman, lampu hias, dan arena bermain anak. Perilaku pengunjung yang bertanggung jawab adalah ...",
+    "options": [
+      "Menggunakan fasilitas dengan baik, tidak merusak, dan membuang sampah pada tempatnya",
+      "Mematahkan dahan pohon hias",
+      "Mencoret bangku taman dengan tip-ex",
+      "Membawa pulang ayunan ke rumah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menjaga ruang terbuka hijau merupakan kewajiban moral seluruh pengguna taman."
+  }
+]

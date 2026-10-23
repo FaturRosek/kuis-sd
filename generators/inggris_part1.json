@@ -1,0 +1,962 @@
+[
+  {
+    "id": "ing-k1-m01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Greetings Morning",
+    "level": "mudah",
+    "question": "Ketika bertemu ibu guru pada pagi hari jam 07.00, kita mengucapkan sapaan ...",
+    "options": [
+      "Good morning",
+      "Good night",
+      "Good afternoon",
+      "Good evening"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good morning' digunakan untuk menyapa di pagi hari."
+  },
+  {
+    "id": "ing-k1-m02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number One",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '1' adalah ...",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 1 dalam bahasa Inggris adalah 'one'."
+  },
+  {
+    "id": "ing-k1-m03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number Two",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '2' adalah ...",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "Five"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 2 dalam bahasa Inggris adalah 'two'."
+  },
+  {
+    "id": "ing-k1-m04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number Three",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '3' adalah ...",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 3 dalam bahasa Inggris adalah 'three'."
+  },
+  {
+    "id": "ing-k1-m05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Red",
+    "level": "mudah",
+    "question": "Warna merah dalam bahasa Inggris disebut warna ...",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merah adalah 'red'."
+  },
+  {
+    "id": "ing-k1-m06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Blue",
+    "level": "mudah",
+    "question": "Warna biru langit dalam bahasa Inggris disebut warna ...",
+    "options": [
+      "Blue",
+      "Red",
+      "Black",
+      "White"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biru adalah 'blue'."
+  },
+  {
+    "id": "ing-k1-m07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Yellow",
+    "level": "mudah",
+    "question": "Warna kuning seperti buah pisang matang dalam bahasa Inggris adalah ...",
+    "options": [
+      "Yellow",
+      "Green",
+      "Purple",
+      "Pink"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kuning adalah 'yellow'."
+  },
+  {
+    "id": "ing-k1-m08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Green",
+    "level": "mudah",
+    "question": "Warna hijau seperti dedaunan pohon dalam bahasa Inggris adalah ...",
+    "options": [
+      "Green",
+      "Blue",
+      "Orange",
+      "Red"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hijau adalah 'green'."
+  },
+  {
+    "id": "ing-k1-m09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Cat",
+    "level": "mudah",
+    "question": "Hewan kucing yang mengeong lucu dalam bahasa Inggris dinamakan ...",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kucing adalah 'cat'."
+  },
+  {
+    "id": "ing-k1-m10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Dog",
+    "level": "mudah",
+    "question": "Hewan anjing yang menggonggong dalam bahasa Inggris dinamakan ...",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Duck"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Anjing adalah 'dog'."
+  },
+  {
+    "id": "ing-k1-s01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Asking Name",
+    "level": "sedang",
+    "question": "Pertanyaan bahasa Inggris yang digunakan untuk menanyakan nama seseorang adalah ...",
+    "options": [
+      "What is your name?",
+      "How are you?",
+      "How old are you?",
+      "Where do you live?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'What is your name?' digunakan untuk menanyakan nama."
+  },
+  {
+    "id": "ing-k1-s02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Answering Name",
+    "level": "sedang",
+    "question": "Jika seseorang bertanya 'What is your name?', jawaban yang tepat untuk Budi adalah ...",
+    "options": [
+      "My name is Budi",
+      "I am fine",
+      "I am six years old",
+      "Good bye"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'My name is Budi' artinya namaku adalah Budi."
+  },
+  {
+    "id": "ing-k1-s03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Asking Condition",
+    "level": "sedang",
+    "question": "Ungkapan 'How are you?' dalam bahasa Indonesia memiliki arti ...",
+    "options": [
+      "Bagaimana kabarmu?",
+      "Siapa namamu?",
+      "Berapa umurmu?",
+      "Di mana rumahmu?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'How are you?' menanyakan kabar kesehatan seseorang."
+  },
+  {
+    "id": "ing-k1-s04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Answering Condition Fine",
+    "level": "sedang",
+    "question": "Ketika seseorang menyapa 'How are you?', jawaban yang sopan adalah ...",
+    "options": [
+      "I am fine, thank you",
+      "Good night",
+      "I am eating",
+      "No, thank you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I am fine, thank you' artinya saya baik-baik saja, terima kasih."
+  },
+  {
+    "id": "ing-k1-s05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Family Father",
+    "level": "sedang",
+    "question": "Kata 'ayah' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Father",
+      "Mother",
+      "Brother",
+      "Sister"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayah adalah 'father'."
+  },
+  {
+    "id": "ing-k1-s06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Family Mother",
+    "level": "sedang",
+    "question": "Kata 'ibu' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Mother",
+      "Father",
+      "Grandfather",
+      "Uncle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ibu adalah 'mother'."
+  },
+  {
+    "id": "ing-k1-s07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Book",
+    "level": "sedang",
+    "question": "Benda di dalam tas sekolah yang berarti 'buku tulis' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Book",
+      "Pencil",
+      "Ruler",
+      "Eraser"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Buku adalah 'book'."
+  },
+  {
+    "id": "ing-k1-s08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Pencil",
+    "level": "sedang",
+    "question": "Alat untuk menulis di atas buku adalah pensil, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Pencil",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pensil adalah 'pencil'."
+  },
+  {
+    "id": "ing-k1-s09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Ruler",
+    "level": "sedang",
+    "question": "Alat penggaris untuk membuat garis lurus dalam bahasa Inggris disebut ...",
+    "options": [
+      "Ruler",
+      "Eraser",
+      "Sharpener",
+      "Pencil case"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penggaris adalah 'ruler'."
+  },
+  {
+    "id": "ing-k1-s10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Eraser",
+    "level": "sedang",
+    "question": "Alat penghapus karet untuk menghapus tulisan pensil dalam bahasa Inggris adalah ...",
+    "options": [
+      "Eraser",
+      "Ruler",
+      "Book",
+      "Scissors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penghapus adalah 'eraser'."
+  },
+  {
+    "id": "ing-k1-s11",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Eyes",
+    "level": "sedang",
+    "question": "Anggota tubuh di wajah yang berarti 'mata' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Eyes",
+      "Nose",
+      "Mouth",
+      "Ears"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mata adalah 'eyes'."
+  },
+  {
+    "id": "ing-k1-s12",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Nose",
+    "level": "sedang",
+    "question": "Bagian wajah yang berfungsi untuk mencium aroma harum adalah hidung, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Nose",
+      "Mouth",
+      "Eyes",
+      "Hair"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidung adalah 'nose'."
+  },
+  {
+    "id": "ing-k1-s13",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Mouth",
+    "level": "sedang",
+    "question": "Bagian wajah yang digunakan untuk berbicara dan makan adalah mulut, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Mouth",
+      "Ears",
+      "Teeth",
+      "Tongue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mulut adalah 'mouth'."
+  },
+  {
+    "id": "ing-k1-s14",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Ears",
+    "level": "sedang",
+    "question": "Bagian tubuh di sisi kepala yang berfungsi untuk mendengar suara adalah telinga, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Cheek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Telinga adalah 'ears'."
+  },
+  {
+    "id": "ing-k1-s15",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Apple",
+    "level": "sedang",
+    "question": "Buah apel yang manis dan renyah dalam bahasa Inggris adalah ...",
+    "options": [
+      "Apple",
+      "Orange",
+      "Banana",
+      "Grape"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Apel adalah 'apple'."
+  },
+  {
+    "id": "ing-k1-s16",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Banana",
+    "level": "sedang",
+    "question": "Buah pisang yang disukai monyet berwarna kuning dalam bahasa Inggris adalah ...",
+    "options": [
+      "Banana",
+      "Apple",
+      "Mango",
+      "Papaya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pisang adalah 'banana'."
+  },
+  {
+    "id": "ing-k1-s17",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Orange",
+    "level": "sedang",
+    "question": "Buah jeruk yang kaya vitamin C dan berasa manis asam dalam bahasa Inggris adalah ...",
+    "options": [
+      "Orange",
+      "Watermelon",
+      "Pineapple",
+      "Strawberry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jeruk adalah 'orange'."
+  },
+  {
+    "id": "ing-k1-s18",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Farewell Good Bye",
+    "level": "sedang",
+    "question": "Ucapan perpisahan saat hendak pulang sekolah kepada teman adalah ...",
+    "options": [
+      "Good bye",
+      "Good morning",
+      "Hello",
+      "Thank you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good bye' berarti selamat tinggal / sampai jumpa."
+  },
+  {
+    "id": "ing-k1-s19",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Night Greeting",
+    "level": "sedang",
+    "question": "Ucapan selamat tidur pada malam hari sebelum terlelap adalah ...",
+    "options": [
+      "Good night",
+      "Good afternoon",
+      "Good morning",
+      "Good day"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good night' digunakan untuk ucapan selamat malam menjelang tidur."
+  },
+  {
+    "id": "ing-k1-s20",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Expressing Gratitude Thank You",
+    "level": "sedang",
+    "question": "Setelah diberi hadiah oleh teman, kita mengucapkan kata terima kasih dalam bahasa Inggris yaitu ...",
+    "options": [
+      "Thank you",
+      "I am sorry",
+      "Excuse me",
+      "You are welcome"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Thank you' adalah ungkapan terima kasih."
+  },
+  {
+    "id": "ing-k1-u01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Stand Up",
+    "level": "sulit",
+    "question": "Ketika guru berkata 'Stand up, please!', tindakan murid yang tepat adalah ...",
+    "options": [
+      "Berdiri dari tempat duduk",
+      "Duduk di lantai",
+      "Membuka buku",
+      "Berlari ke luar kelas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Stand up' adalah instruksi untuk berdiri."
+  },
+  {
+    "id": "ing-k1-u02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Sit Down",
+    "level": "sulit",
+    "question": "Perintah guru 'Sit down, please!' memiliki arti instruksi untuk ...",
+    "options": [
+      "Duduk kembali dengan tertib",
+      "Berdiri tegak",
+      "Menyanyi lagu",
+      "Menutup pintu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Sit down' bermakna silakan duduk."
+  },
+  {
+    "id": "ing-k1-u03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Open Book",
+    "level": "sulit",
+    "question": "Instruksi guru 'Open your book, please!' artinya adalah ...",
+    "options": [
+      "Buka bukumu",
+      "Tutup bukumu",
+      "Tulis namamu",
+      "Simpan bukumu di tas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Open your book' berarti bukalah bukumu."
+  },
+  {
+    "id": "ing-k1-u04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Close Door",
+    "level": "sulit",
+    "question": "Kalimat perintah 'Close the door, please!' meminta murid untuk ...",
+    "options": [
+      "Menutup pintu ruangan",
+      "Membuka jendela",
+      "Menghapus papan tulis",
+      "Mematikan lampu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Close the door' berarti tutuplah pintu."
+  },
+  {
+    "id": "ing-k1-u05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Noun Two Cats",
+    "level": "sulit",
+    "question": "Bentuk jamak (lebih dari satu) dalam bahasa Inggris: jika satu kucing adalah 'one cat', maka dua kucing ditulis ...",
+    "options": [
+      "Two cats",
+      "Two cates",
+      "Two cat",
+      "Two caties"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata benda jamak beraturan ditambah akhiran -s: two cats."
+  },
+  {
+    "id": "ing-k1-u06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Noun Three Books",
+    "level": "sulit",
+    "question": "Bentuk jamak untuk 'tiga buku' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Three books",
+      "Three book",
+      "Three bookes",
+      "Three bookies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tiga buku adalah 'three books' (menambahkan -s)."
+  },
+  {
+    "id": "ing-k1-u07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Purple",
+    "level": "sulit",
+    "question": "If you mix red and blue paint, you will get the color ...",
+    "options": [
+      "Purple",
+      "Green",
+      "Orange",
+      "Brown"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Percampuran warna red (merah) dan blue (biru) menghasilkan purple (ungu)."
+  },
+  {
+    "id": "ing-k1-u08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Orange",
+    "level": "sulit",
+    "question": "If you mix red and yellow paint, you will get the color ...",
+    "options": [
+      "Orange",
+      "Green",
+      "Black",
+      "Pink"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Campuran red (merah) dan yellow (kuning) menghasilkan orange (oranye)."
+  },
+  {
+    "id": "ing-k1-u09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Green",
+    "level": "sulit",
+    "question": "If you mix blue and yellow colors, you will get ...",
+    "options": [
+      "Green",
+      "Purple",
+      "White",
+      "Gray"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Campuran blue (biru) dan yellow (kuning) menghasilkan green (hijau)."
+  },
+  {
+    "id": "ing-k1-u10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Demonstrative This Is",
+    "level": "sulit",
+    "question": "Lengkapilah kalimat: '... is my pencil.' (menunjuk benda pensil yang sedang dipegang dekat).",
+    "options": [
+      "This",
+      "These",
+      "Those",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'This is' digunakan untuk menunjuk satu benda tunggal yang dekat."
+  },
+  {
+    "id": "ing-k1-u11",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Demonstrative That Is",
+    "level": "sulit",
+    "question": "Lengkapilah kalimat: '... is an airplane in the sky.' (menunjuk satu pesawat terbang yang jauh di langit).",
+    "options": [
+      "That",
+      "This",
+      "These",
+      "There"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'That is' digunakan untuk satu benda tunggal yang posisinya jauh."
+  },
+  {
+    "id": "ing-k1-u12",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition In Box",
+    "level": "sulit",
+    "question": "The apple is ... the box. (Gambar menunjukkan apel berada tepat di dalam kotak tertutup).",
+    "options": [
+      "In",
+      "On",
+      "Under",
+      "Behind"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'in' berarti di dalam."
+  },
+  {
+    "id": "ing-k1-u13",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition On Table",
+    "level": "sulit",
+    "question": "The cat is sleeping ... the table. (Kucing tidur di atas permukaan meja).",
+    "options": [
+      "On",
+      "In",
+      "Under",
+      "Between"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'on' berarti di atas permukaan benda."
+  },
+  {
+    "id": "ing-k1-u14",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition Under Chair",
+    "level": "sulit",
+    "question": "The ball is ... the chair. (Bola berada di bawah kolong kursi).",
+    "options": [
+      "Under",
+      "On",
+      "In",
+      "Next to"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'under' berarti di bawah."
+  },
+  {
+    "id": "ing-k1-u15",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Counting Objects Sum 2+3",
+    "level": "sulit",
+    "question": "I have two red apples and my mother gives me three green apples. How many apples do I have now?",
+    "options": [
+      "Five apples",
+      "Four apples",
+      "Six apples",
+      "Seven apples"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2 + 3 = 5 (five apples)."
+  },
+  {
+    "id": "ing-k1-u16",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Counting Objects Sum 4+4",
+    "level": "sulit",
+    "question": "There are four birds on the tree and four birds on the roof. How many birds are there altogether?",
+    "options": [
+      "Eight birds",
+      "Six birds",
+      "Seven birds",
+      "Nine birds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "4 + 4 = 8 (eight birds)."
+  },
+  {
+    "id": "ing-k1-u17",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Boy He",
+    "level": "sulit",
+    "question": "Ali is a diligent student. ... goes to school every morning.",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk anak laki-laki tunggal (Ali) adalah 'He'."
+  },
+  {
+    "id": "ing-k1-u18",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Girl She",
+    "level": "sulit",
+    "question": "Siti likes to read fairy tales. ... is a smart girl.",
+    "options": [
+      "She",
+      "He",
+      "It",
+      "We"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk perempuan tunggal (Siti) adalah 'She'."
+  },
+  {
+    "id": "ing-k1-u19",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Object It",
+    "level": "sulit",
+    "question": "I have a cute pet cat. ... has soft white fur.",
+    "options": [
+      "It",
+      "He",
+      "She",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk seekor hewan/benda tunggal adalah 'It'."
+  },
+  {
+    "id": "ing-k1-u20",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Question Word What",
+    "level": "sulit",
+    "question": "'... is this?' - 'This is a sharpener.' Kata tanya yang tepat untuk melengkapi kalimat adalah ...",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "How"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'What' digunakan untuk menanyakan nama benda."
+  },
+  {
+    "id": "ing-k1-u21",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Question Word Who",
+    "level": "sulit",
+    "question": "'... is that woman?' - 'She is my English teacher, Mrs. Ratna.' Kata tanya yang tepat adalah ...",
+    "options": [
+      "Who",
+      "What",
+      "When",
+      "Which"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Who' digunakan untuk menanyakan identitas orang."
+  },
+  {
+    "id": "ing-k1-u22",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Apologizing I Am Sorry",
+    "level": "sulit",
+    "question": "When you accidentally drop your friend's ruler, what should you say?",
+    "options": [
+      "I am sorry",
+      "You are welcome",
+      "Good morning",
+      "Nice to meet you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I am sorry' diucapkan saat meminta maaf atas kekhilafan."
+  },
+  {
+    "id": "ing-k1-u23",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Responding Apology That Is Okay",
+    "level": "sulit",
+    "question": "When someone says 'I am sorry', you can politely reply by saying ...",
+    "options": [
+      "That is okay / Never mind",
+      "No, you are bad",
+      "Thank you very much",
+      "Good bye"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'That is okay' atau 'Never mind' adalah balasan santun menerima permohonan maaf."
+  },
+  {
+    "id": "ing-k1-u24",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Responding Gratitude You Are Welcome",
+    "level": "sulit",
+    "question": "When your friend says 'Thank you for the pencil', you should respond with ...",
+    "options": [
+      "You are welcome",
+      "I am sorry",
+      "Good night",
+      "Excuse me"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'You are welcome' berarti sama-sama / terima kasih kembali."
+  },
+  {
+    "id": "ing-k1-u25",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Eyes",
+    "level": "sulit",
+    "question": "We use our two eyes to ...",
+    "options": [
+      "See",
+      "Hear",
+      "Smell",
+      "Taste"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fungsi mata adalah untuk melihat ('see')."
+  },
+  {
+    "id": "ing-k1-u26",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Ears",
+    "level": "sulit",
+    "question": "We use our ears to ... beautiful music.",
+    "options": [
+      "Hear",
+      "See",
+      "Touch",
+      "Eat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Telinga digunakan untuk mendengar ('hear')."
+  },
+  {
+    "id": "ing-k1-u27",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Nose",
+    "level": "sulit",
+    "question": "We use our nose to ... fragrant flowers.",
+    "options": [
+      "Smell",
+      "Eat",
+      "Hear",
+      "Walk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidung digunakan untuk membaui/mencium aroma ('smell')."
+  },
+  {
+    "id": "ing-k1-u28",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Mouth",
+    "level": "sulit",
+    "question": "We use our mouth and tongue to ... delicious food.",
+    "options": [
+      "Taste and eat",
+      "See",
+      "Smell",
+      "Run"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mulut dan lidah digunakan untuk mengecap rasa dan makan ('taste and eat')."
+  },
+  {
+    "id": "ing-k1-u29",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Big vs Small",
+    "level": "sulit",
+    "question": "An elephant is big, but a little ant is ...",
+    "options": [
+      "Small",
+      "Tall",
+      "Long",
+      "Heavy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'big' (besar) adalah 'small' (kecil)."
+  },
+  {
+    "id": "ing-k1-u30",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Long vs Short",
+    "level": "sulit",
+    "question": "The snake is long, but the caterpillar is ...",
+    "options": [
+      "Short",
+      "Fat",
+      "Hot",
+      "Cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'long' (panjang) adalah 'short' (pendek)."
+  }
+]

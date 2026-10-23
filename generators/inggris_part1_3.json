@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "ing-k1-m01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Greetings Morning",
+    "level": "mudah",
+    "question": "Ketika bertemu ibu guru pada pagi hari jam 07.00, kita mengucapkan sapaan ...",
+    "options": [
+      "Good morning",
+      "Good night",
+      "Good afternoon",
+      "Good evening"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good morning' digunakan untuk menyapa di pagi hari."
+  },
+  {
+    "id": "ing-k1-m02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number One",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '1' adalah ...",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 1 dalam bahasa Inggris adalah 'one'."
+  },
+  {
+    "id": "ing-k1-m03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number Two",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '2' adalah ...",
+    "options": [
+      "Two",
+      "Three",
+      "One",
+      "Five"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 2 dalam bahasa Inggris adalah 'two'."
+  },
+  {
+    "id": "ing-k1-m04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Number Three",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '3' adalah ...",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 3 dalam bahasa Inggris adalah 'three'."
+  },
+  {
+    "id": "ing-k1-m05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Red",
+    "level": "mudah",
+    "question": "Warna merah dalam bahasa Inggris disebut warna ...",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merah adalah 'red'."
+  },
+  {
+    "id": "ing-k1-m06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Blue",
+    "level": "mudah",
+    "question": "Warna biru langit dalam bahasa Inggris disebut warna ...",
+    "options": [
+      "Blue",
+      "Red",
+      "Black",
+      "White"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biru adalah 'blue'."
+  },
+  {
+    "id": "ing-k1-m07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Yellow",
+    "level": "mudah",
+    "question": "Warna kuning seperti buah pisang matang dalam bahasa Inggris adalah ...",
+    "options": [
+      "Yellow",
+      "Green",
+      "Purple",
+      "Pink"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kuning adalah 'yellow'."
+  },
+  {
+    "id": "ing-k1-m08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Green",
+    "level": "mudah",
+    "question": "Warna hijau seperti dedaunan pohon dalam bahasa Inggris adalah ...",
+    "options": [
+      "Green",
+      "Blue",
+      "Orange",
+      "Red"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hijau adalah 'green'."
+  },
+  {
+    "id": "ing-k1-m09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Cat",
+    "level": "mudah",
+    "question": "Hewan kucing yang mengeong lucu dalam bahasa Inggris dinamakan ...",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kucing adalah 'cat'."
+  },
+  {
+    "id": "ing-k1-m10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Dog",
+    "level": "mudah",
+    "question": "Hewan anjing yang menggonggong dalam bahasa Inggris dinamakan ...",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Duck"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Anjing adalah 'dog'."
+  },
+  {
+    "id": "ing-k1-s01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Asking Name",
+    "level": "sedang",
+    "question": "Pertanyaan bahasa Inggris yang digunakan untuk menanyakan nama seseorang adalah ...",
+    "options": [
+      "What is your name?",
+      "How are you?",
+      "How old are you?",
+      "Where do you live?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'What is your name?' digunakan untuk menanyakan nama."
+  },
+  {
+    "id": "ing-k1-s02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Answering Name",
+    "level": "sedang",
+    "question": "Jika seseorang bertanya 'What is your name?', jawaban yang tepat untuk Budi adalah ...",
+    "options": [
+      "My name is Budi",
+      "I am fine",
+      "I am six years old",
+      "Good bye"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'My name is Budi' artinya namaku adalah Budi."
+  },
+  {
+    "id": "ing-k1-s03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Asking Condition",
+    "level": "sedang",
+    "question": "Ungkapan 'How are you?' dalam bahasa Indonesia memiliki arti ...",
+    "options": [
+      "Bagaimana kabarmu?",
+      "Siapa namamu?",
+      "Berapa umurmu?",
+      "Di mana rumahmu?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'How are you?' menanyakan kabar kesehatan seseorang."
+  },
+  {
+    "id": "ing-k1-s04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Answering Condition Fine",
+    "level": "sedang",
+    "question": "Ketika seseorang menyapa 'How are you?', jawaban yang sopan adalah ...",
+    "options": [
+      "I am fine, thank you",
+      "Good night",
+      "I am eating",
+      "No, thank you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I am fine, thank you' artinya saya baik-baik saja, terima kasih."
+  },
+  {
+    "id": "ing-k1-s05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Family Father",
+    "level": "sedang",
+    "question": "Kata 'ayah' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Father",
+      "Mother",
+      "Brother",
+      "Sister"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayah adalah 'father'."
+  },
+  {
+    "id": "ing-k1-s06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Family Mother",
+    "level": "sedang",
+    "question": "Kata 'ibu' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Mother",
+      "Father",
+      "Grandfather",
+      "Uncle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ibu adalah 'mother'."
+  },
+  {
+    "id": "ing-k1-s07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Book",
+    "level": "sedang",
+    "question": "Benda di dalam tas sekolah yang berarti 'buku tulis' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Book",
+      "Pencil",
+      "Ruler",
+      "Eraser"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Buku adalah 'book'."
+  },
+  {
+    "id": "ing-k1-s08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Pencil",
+    "level": "sedang",
+    "question": "Alat untuk menulis di atas buku adalah pensil, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Pencil",
+      "Pen",
+      "Bag",
+      "Desk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pensil adalah 'pencil'."
+  },
+  {
+    "id": "ing-k1-s09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Ruler",
+    "level": "sedang",
+    "question": "Alat penggaris untuk membuat garis lurus dalam bahasa Inggris disebut ...",
+    "options": [
+      "Ruler",
+      "Eraser",
+      "Sharpener",
+      "Pencil case"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penggaris adalah 'ruler'."
+  },
+  {
+    "id": "ing-k1-s10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Eraser",
+    "level": "sedang",
+    "question": "Alat penghapus karet untuk menghapus tulisan pensil dalam bahasa Inggris adalah ...",
+    "options": [
+      "Eraser",
+      "Ruler",
+      "Book",
+      "Scissors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penghapus adalah 'eraser'."
+  },
+  {
+    "id": "ing-k1-s11",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Eyes",
+    "level": "sedang",
+    "question": "Anggota tubuh di wajah yang berarti 'mata' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Eyes",
+      "Nose",
+      "Mouth",
+      "Ears"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mata adalah 'eyes'."
+  },
+  {
+    "id": "ing-k1-s12",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Nose",
+    "level": "sedang",
+    "question": "Bagian wajah yang berfungsi untuk mencium aroma harum adalah hidung, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Nose",
+      "Mouth",
+      "Eyes",
+      "Hair"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidung adalah 'nose'."
+  },
+  {
+    "id": "ing-k1-s13",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Mouth",
+    "level": "sedang",
+    "question": "Bagian wajah yang digunakan untuk berbicara dan makan adalah mulut, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Mouth",
+      "Ears",
+      "Teeth",
+      "Tongue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mulut adalah 'mouth'."
+  },
+  {
+    "id": "ing-k1-s14",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Part of Face Ears",
+    "level": "sedang",
+    "question": "Bagian tubuh di sisi kepala yang berfungsi untuk mendengar suara adalah telinga, dalam bahasa Inggris disebut ...",
+    "options": [
+      "Ears",
+      "Eyes",
+      "Nose",
+      "Cheek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Telinga adalah 'ears'."
+  },
+  {
+    "id": "ing-k1-s15",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Apple",
+    "level": "sedang",
+    "question": "Buah apel yang manis dan renyah dalam bahasa Inggris adalah ...",
+    "options": [
+      "Apple",
+      "Orange",
+      "Banana",
+      "Grape"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Apel adalah 'apple'."
+  },
+  {
+    "id": "ing-k1-s16",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Banana",
+    "level": "sedang",
+    "question": "Buah pisang yang disukai monyet berwarna kuning dalam bahasa Inggris adalah ...",
+    "options": [
+      "Banana",
+      "Apple",
+      "Mango",
+      "Papaya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pisang adalah 'banana'."
+  },
+  {
+    "id": "ing-k1-s17",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Fruit Orange",
+    "level": "sedang",
+    "question": "Buah jeruk yang kaya vitamin C dan berasa manis asam dalam bahasa Inggris adalah ...",
+    "options": [
+      "Orange",
+      "Watermelon",
+      "Pineapple",
+      "Strawberry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jeruk adalah 'orange'."
+  },
+  {
+    "id": "ing-k1-s18",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Farewell Good Bye",
+    "level": "sedang",
+    "question": "Ucapan perpisahan saat hendak pulang sekolah kepada teman adalah ...",
+    "options": [
+      "Good bye",
+      "Good morning",
+      "Hello",
+      "Thank you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good bye' berarti selamat tinggal / sampai jumpa."
+  },
+  {
+    "id": "ing-k1-s19",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Night Greeting",
+    "level": "sedang",
+    "question": "Ucapan selamat tidur pada malam hari sebelum terlelap adalah ...",
+    "options": [
+      "Good night",
+      "Good afternoon",
+      "Good morning",
+      "Good day"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Good night' digunakan untuk ucapan selamat malam menjelang tidur."
+  },
+  {
+    "id": "ing-k1-s20",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Expressing Gratitude Thank You",
+    "level": "sedang",
+    "question": "Setelah diberi hadiah oleh teman, kita mengucapkan kata terima kasih dalam bahasa Inggris yaitu ...",
+    "options": [
+      "Thank you",
+      "I am sorry",
+      "Excuse me",
+      "You are welcome"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Thank you' adalah ungkapan terima kasih."
+  },
+  {
+    "id": "ing-k1-u01",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Stand Up",
+    "level": "sulit",
+    "question": "Ketika guru berkata 'Stand up, please!', tindakan murid yang tepat adalah ...",
+    "options": [
+      "Berdiri dari tempat duduk",
+      "Duduk di lantai",
+      "Membuka buku",
+      "Berlari ke luar kelas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Stand up' adalah instruksi untuk berdiri."
+  },
+  {
+    "id": "ing-k1-u02",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Sit Down",
+    "level": "sulit",
+    "question": "Perintah guru 'Sit down, please!' memiliki arti instruksi untuk ...",
+    "options": [
+      "Duduk kembali dengan tertib",
+      "Berdiri tegak",
+      "Menyanyi lagu",
+      "Menutup pintu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Sit down' bermakna silakan duduk."
+  },
+  {
+    "id": "ing-k1-u03",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Open Book",
+    "level": "sulit",
+    "question": "Instruksi guru 'Open your book, please!' artinya adalah ...",
+    "options": [
+      "Buka bukumu",
+      "Tutup bukumu",
+      "Tulis namamu",
+      "Simpan bukumu di tas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Open your book' berarti bukalah bukumu."
+  },
+  {
+    "id": "ing-k1-u04",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Classroom Instruction Close Door",
+    "level": "sulit",
+    "question": "Kalimat perintah 'Close the door, please!' meminta murid untuk ...",
+    "options": [
+      "Menutup pintu ruangan",
+      "Membuka jendela",
+      "Menghapus papan tulis",
+      "Mematikan lampu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Close the door' berarti tutuplah pintu."
+  },
+  {
+    "id": "ing-k1-u05",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Noun Two Cats",
+    "level": "sulit",
+    "question": "Bentuk jamak (lebih dari satu) dalam bahasa Inggris: jika satu kucing adalah 'one cat', maka dua kucing ditulis ...",
+    "options": [
+      "Two cats",
+      "Two cates",
+      "Two cat",
+      "Two caties"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata benda jamak beraturan ditambah akhiran -s: two cats."
+  },
+  {
+    "id": "ing-k1-u06",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Noun Three Books",
+    "level": "sulit",
+    "question": "Bentuk jamak untuk 'tiga buku' dalam bahasa Inggris adalah ...",
+    "options": [
+      "Three books",
+      "Three book",
+      "Three bookes",
+      "Three bookies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tiga buku adalah 'three books' (menambahkan -s)."
+  },
+  {
+    "id": "ing-k1-u07",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Purple",
+    "level": "sulit",
+    "question": "If you mix red and blue paint, you will get the color ...",
+    "options": [
+      "Purple",
+      "Green",
+      "Orange",
+      "Brown"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Percampuran warna red (merah) dan blue (biru) menghasilkan purple (ungu)."
+  },
+  {
+    "id": "ing-k1-u08",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Orange",
+    "level": "sulit",
+    "question": "If you mix red and yellow paint, you will get the color ...",
+    "options": [
+      "Orange",
+      "Green",
+      "Black",
+      "Pink"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Campuran red (merah) dan yellow (kuning) menghasilkan orange (oranye)."
+  },
+  {
+    "id": "ing-k1-u09",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Color Combination Green",
+    "level": "sulit",
+    "question": "If you mix blue and yellow colors, you will get ...",
+    "options": [
+      "Green",
+      "Purple",
+      "White",
+      "Gray"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Campuran blue (biru) dan yellow (kuning) menghasilkan green (hijau)."
+  },
+  {
+    "id": "ing-k1-u10",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Demonstrative This Is",
+    "level": "sulit",
+    "question": "Lengkapilah kalimat: '... is my pencil.' (menunjuk benda pensil yang sedang dipegang dekat).",
+    "options": [
+      "This",
+      "These",
+      "Those",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'This is' digunakan untuk menunjuk satu benda tunggal yang dekat."
+  },
+  {
+    "id": "ing-k1-u11",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Demonstrative That Is",
+    "level": "sulit",
+    "question": "Lengkapilah kalimat: '... is an airplane in the sky.' (menunjuk satu pesawat terbang yang jauh di langit).",
+    "options": [
+      "That",
+      "This",
+      "These",
+      "There"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'That is' digunakan untuk satu benda tunggal yang posisinya jauh."
+  },
+  {
+    "id": "ing-k1-u12",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition In Box",
+    "level": "sulit",
+    "question": "The apple is ... the box. (Gambar menunjukkan apel berada tepat di dalam kotak tertutup).",
+    "options": [
+      "In",
+      "On",
+      "Under",
+      "Behind"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'in' berarti di dalam."
+  },
+  {
+    "id": "ing-k1-u13",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition On Table",
+    "level": "sulit",
+    "question": "The cat is sleeping ... the table. (Kucing tidur di atas permukaan meja).",
+    "options": [
+      "On",
+      "In",
+      "Under",
+      "Between"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'on' berarti di atas permukaan benda."
+  },
+  {
+    "id": "ing-k1-u14",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition Under Chair",
+    "level": "sulit",
+    "question": "The ball is ... the chair. (Bola berada di bawah kolong kursi).",
+    "options": [
+      "Under",
+      "On",
+      "In",
+      "Next to"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposisi 'under' berarti di bawah."
+  },
+  {
+    "id": "ing-k1-u15",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Counting Objects Sum 2+3",
+    "level": "sulit",
+    "question": "I have two red apples and my mother gives me three green apples. How many apples do I have now?",
+    "options": [
+      "Five apples",
+      "Four apples",
+      "Six apples",
+      "Seven apples"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2 + 3 = 5 (five apples)."
+  },
+  {
+    "id": "ing-k1-u16",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Counting Objects Sum 4+4",
+    "level": "sulit",
+    "question": "There are four birds on the tree and four birds on the roof. How many birds are there altogether?",
+    "options": [
+      "Eight birds",
+      "Six birds",
+      "Seven birds",
+      "Nine birds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "4 + 4 = 8 (eight birds)."
+  },
+  {
+    "id": "ing-k1-u17",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Boy He",
+    "level": "sulit",
+    "question": "Ali is a diligent student. ... goes to school every morning.",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk anak laki-laki tunggal (Ali) adalah 'He'."
+  },
+  {
+    "id": "ing-k1-u18",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Girl She",
+    "level": "sulit",
+    "question": "Siti likes to read fairy tales. ... is a smart girl.",
+    "options": [
+      "She",
+      "He",
+      "It",
+      "We"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk perempuan tunggal (Siti) adalah 'She'."
+  },
+  {
+    "id": "ing-k1-u19",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Subject Pronoun Object It",
+    "level": "sulit",
+    "question": "I have a cute pet cat. ... has soft white fur.",
+    "options": [
+      "It",
+      "He",
+      "She",
+      "They"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti subjek untuk seekor hewan/benda tunggal adalah 'It'."
+  },
+  {
+    "id": "ing-k1-u20",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Question Word What",
+    "level": "sulit",
+    "question": "'... is this?' - 'This is a sharpener.' Kata tanya yang tepat untuk melengkapi kalimat adalah ...",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "How"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'What' digunakan untuk menanyakan nama benda."
+  },
+  {
+    "id": "ing-k1-u21",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Question Word Who",
+    "level": "sulit",
+    "question": "'... is that woman?' - 'She is my English teacher, Mrs. Ratna.' Kata tanya yang tepat adalah ...",
+    "options": [
+      "Who",
+      "What",
+      "When",
+      "Which"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Who' digunakan untuk menanyakan identitas orang."
+  },
+  {
+    "id": "ing-k1-u22",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Apologizing I Am Sorry",
+    "level": "sulit",
+    "question": "When you accidentally drop your friend's ruler, what should you say?",
+    "options": [
+      "I am sorry",
+      "You are welcome",
+      "Good morning",
+      "Nice to meet you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I am sorry' diucapkan saat meminta maaf atas kekhilafan."
+  },
+  {
+    "id": "ing-k1-u23",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Responding Apology That Is Okay",
+    "level": "sulit",
+    "question": "When someone says 'I am sorry', you can politely reply by saying ...",
+    "options": [
+      "That is okay / Never mind",
+      "No, you are bad",
+      "Thank you very much",
+      "Good bye"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'That is okay' atau 'Never mind' adalah balasan santun menerima permohonan maaf."
+  },
+  {
+    "id": "ing-k1-u24",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Responding Gratitude You Are Welcome",
+    "level": "sulit",
+    "question": "When your friend says 'Thank you for the pencil', you should respond with ...",
+    "options": [
+      "You are welcome",
+      "I am sorry",
+      "Good night",
+      "Excuse me"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'You are welcome' berarti sama-sama / terima kasih kembali."
+  },
+  {
+    "id": "ing-k1-u25",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Eyes",
+    "level": "sulit",
+    "question": "We use our two eyes to ...",
+    "options": [
+      "See",
+      "Hear",
+      "Smell",
+      "Taste"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fungsi mata adalah untuk melihat ('see')."
+  },
+  {
+    "id": "ing-k1-u26",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Ears",
+    "level": "sulit",
+    "question": "We use our ears to ... beautiful music.",
+    "options": [
+      "Hear",
+      "See",
+      "Touch",
+      "Eat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Telinga digunakan untuk mendengar ('hear')."
+  },
+  {
+    "id": "ing-k1-u27",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Nose",
+    "level": "sulit",
+    "question": "We use our nose to ... fragrant flowers.",
+    "options": [
+      "Smell",
+      "Eat",
+      "Hear",
+      "Walk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidung digunakan untuk membaui/mencium aroma ('smell')."
+  },
+  {
+    "id": "ing-k1-u28",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Function Mouth",
+    "level": "sulit",
+    "question": "We use our mouth and tongue to ... delicious food.",
+    "options": [
+      "Taste and eat",
+      "See",
+      "Smell",
+      "Run"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mulut dan lidah digunakan untuk mengecap rasa dan makan ('taste and eat')."
+  },
+  {
+    "id": "ing-k1-u29",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Big vs Small",
+    "level": "sulit",
+    "question": "An elephant is big, but a little ant is ...",
+    "options": [
+      "Small",
+      "Tall",
+      "Long",
+      "Heavy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'big' (besar) adalah 'small' (kecil)."
+  },
+  {
+    "id": "ing-k1-u30",
+    "grade": 1,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Long vs Short",
+    "level": "sulit",
+    "question": "The snake is long, but the caterpillar is ...",
+    "options": [
+      "Short",
+      "Fat",
+      "Hot",
+      "Cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'long' (panjang) adalah 'short' (pendek)."
+  },
+  {
+    "id": "ing-k2-m01",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Number Eleven",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '11' adalah ...",
+    "options": [
+      "Eleven",
+      "Twelve",
+      "Twenty",
+      "Ten"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 11 adalah 'eleven'."
+  },
+  {
+    "id": "ing-k2-m02",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Number Twelve",
+    "level": "mudah",
+    "question": "Bahasa Inggris dari angka '12' adalah ...",
+    "options": [
+      "Twelve",
+      "Eleven",
+      "Twenty",
+      "Thirteen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 12 adalah 'twelve'."
+  },
+  {
+    "id": "ing-k2-m03",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Days Monday",
+    "level": "mudah",
+    "question": "Hari Senin dalam bahasa Inggris disebut hari ...",
+    "options": [
+      "Monday",
+      "Sunday",
+      "Friday",
+      "Tuesday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Senin adalah 'Monday'."
+  },
+  {
+    "id": "ing-k2-m04",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Days Sunday",
+    "level": "mudah",
+    "question": "Hari Minggu saat libur sekolah dalam bahasa Inggris disebut ...",
+    "options": [
+      "Sunday",
+      "Saturday",
+      "Monday",
+      "Wednesday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Minggu adalah 'Sunday'."
+  },
+  {
+    "id": "ing-k2-m05",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Elephant",
+    "level": "mudah",
+    "question": "Hewan gajah berbelalai panjang dan bertubuh besar dalam bahasa Inggris adalah ...",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Tiger",
+      "Rabbit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gajah adalah 'elephant'."
+  },
+  {
+    "id": "ing-k2-m06",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Lion",
+    "level": "mudah",
+    "question": "Hewan singa yang dijuluki si raja hutan dalam bahasa Inggris adalah ...",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Bear",
+      "Wolf"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Singa adalah 'lion'."
+  },
+  {
+    "id": "ing-k2-m07",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Head",
+    "level": "mudah",
+    "question": "Bagian tubuh kepala dalam bahasa Inggris adalah ...",
+    "options": [
+      "Head",
+      "Hand",
+      "Foot",
+      "Arm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kepala adalah 'head'."
+  },
+  {
+    "id": "ing-k2-m08",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Body Part Hand",
+    "level": "mudah",
+    "question": "Anggota tubuh tangan yang kita gunakan untuk menulis dan memegang sendok adalah ...",
+    "options": [
+      "Hand",
+      "Leg",
+      "Eye",
+      "Ear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tangan adalah 'hand'."
+  },
+  {
+    "id": "ing-k2-m09",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Food Bread",
+    "level": "mudah",
+    "question": "Makanan roti tawar untuk sarapan pagi dalam bahasa Inggris adalah ...",
+    "options": [
+      "Bread",
+      "Rice",
+      "Noodles",
+      "Meat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Roti adalah 'bread'."
+  },
+  {
+    "id": "ing-k2-m10",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Drink Milk",
+    "level": "mudah",
+    "question": "Minuman susu putih yang sehat dan kaya kalsium dalam bahasa Inggris adalah ...",
+    "options": [
+      "Milk",
+      "Tea",
+      "Coffee",
+      "Water"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Susu adalah 'milk'."
+  },
+  {
+    "id": "ing-k2-s01",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Days of the Week Tuesday",
+    "level": "sedang",
+    "question": "The day after Monday is ...",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Sunday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hari setelah Senin adalah Selasa (Tuesday)."
+  },
+  {
+    "id": "ing-k2-s02",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Days of the Week Friday",
+    "level": "sedang",
+    "question": "The day before Saturday is ...",
+    "options": [
+      "Friday",
+      "Thursday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hari sebelum Sabtu adalah Jumat (Friday)."
+  },
+  {
+    "id": "ing-k2-s03",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Giraffe",
+    "level": "sedang",
+    "question": "A wild animal that has a very long neck to eat leaves from tall trees is a ...",
+    "options": [
+      "Giraffe",
+      "Zebra",
+      "Elephant",
+      "Kangaroo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jerapah (giraffe) memiliki leher yang sangat panjang."
+  },
+  {
+    "id": "ing-k2-s04",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Monkey",
+    "level": "sedang",
+    "question": "An animal that likes to climb trees and loves eating bananas is a ...",
+    "options": [
+      "Monkey",
+      "Crocodile",
+      "Snake",
+      "Duck"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Monyet (monkey) pandai memanjat pohon dan menyukai pisang."
+  },
+  {
+    "id": "ing-k2-s05",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Feeling Happy",
+    "level": "sedang",
+    "question": "When Budi gets a new bicycle as a birthday present, he feels very ...",
+    "options": [
+      "Happy",
+      "Sad",
+      "Angry",
+      "Tired"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mendapat hadiah sepeda membuat Budi merasa bahagia ('happy')."
+  },
+  {
+    "id": "ing-k2-s06",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Feeling Sad",
+    "level": "sedang",
+    "question": "When Siti loses her favorite doll, she cries because she feels ...",
+    "options": [
+      "Sad",
+      "Happy",
+      "Hungry",
+      "Bored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kehilangan boneka kesayangan membuatnya sedih ('sad')."
+  },
+  {
+    "id": "ing-k2-s07",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Feeling Hungry",
+    "level": "sedang",
+    "question": "I have not eaten lunch yet. My stomach is rumbling. I am ...",
+    "options": [
+      "Hungry",
+      "Thirsty",
+      "Sleepy",
+      "Cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Belum makan siang membuat kita merasa lapar ('hungry')."
+  },
+  {
+    "id": "ing-k2-s08",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Feeling Thirsty",
+    "level": "sedang",
+    "question": "After running in the field on a hot sunny day, Edo wants a glass of cold water because he is ...",
+    "options": [
+      "Thirsty",
+      "Hungry",
+      "Full",
+      "Angry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Butuh minum air menandakan Edo merasa haus ('thirsty')."
+  },
+  {
+    "id": "ing-k2-s09",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Shape Circle",
+    "level": "sedang",
+    "question": "The shape of a coin or a round clock is a ...",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Star"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Koin berbentuk lingkaran ('circle')."
+  },
+  {
+    "id": "ing-k2-s10",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Shape Triangle",
+    "level": "sedang",
+    "question": "A geometric shape that has three sides and three corners is a ...",
+    "options": [
+      "Triangle",
+      "Square",
+      "Rectangle",
+      "Circle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bentuk bangun datar yang memiliki tiga sisi adalah segitiga ('triangle')."
+  },
+  {
+    "id": "ing-k2-s11",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Clothes Shirt",
+    "level": "sedang",
+    "question": "Pakaian kemeja berkerah yang kita kenakan di badan bagian atas disebut ...",
+    "options": [
+      "Shirt",
+      "Pants",
+      "Socks",
+      "Shoes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kemeja adalah 'shirt'."
+  },
+  {
+    "id": "ing-k2-s12",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Clothes Pants",
+    "level": "sedang",
+    "question": "Pakaian celana panjang dalam bahasa Inggris dinamakan ...",
+    "options": [
+      "Pants (trousers)",
+      "Shirt",
+      "Dress",
+      "Hat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Celana panjang adalah 'pants'."
+  },
+  {
+    "id": "ing-k2-s13",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Clothes Shoes",
+    "level": "sedang",
+    "question": "Alas kaki sepatu yang dipakai untuk melindungi kaki saat berjalan ke sekolah adalah ...",
+    "options": [
+      "Shoes",
+      "Hat",
+      "Gloves",
+      "Tie"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sepatu adalah 'shoes'."
+  },
+  {
+    "id": "ing-k2-s14",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Clothes Hat",
+    "level": "sedang",
+    "question": "Aksesoris topi yang dipakai di atas kepala untuk melindungi dari sinar panas matahari adalah ...",
+    "options": [
+      "Hat",
+      "Belt",
+      "Scarf",
+      "Skirt"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Topi adalah 'hat'."
+  },
+  {
+    "id": "ing-k2-s15",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Asking Age",
+    "level": "sedang",
+    "question": "Pertanyaan bahasa Inggris untuk menanyakan usia atau umur seseorang adalah ...",
+    "options": [
+      "How old are you?",
+      "How are you?",
+      "What is your hobby?",
+      "Where are you from?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'How old are you?' digunakan untuk menanyakan umur."
+  },
+  {
+    "id": "ing-k2-s16",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Answering Age Eight",
+    "level": "sedang",
+    "question": "Jika Budi berumur delapan tahun, kalimat bahasa Inggris yang tepat adalah ...",
+    "options": [
+      "I am eight years old",
+      "I am in grade eight",
+      "I have eight apples",
+      "My name is eight"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I am eight years old' artinya saya berumur delapan tahun."
+  },
+  {
+    "id": "ing-k2-s17",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Expressing Like",
+    "level": "sedang",
+    "question": "Rani suka makan buah semangka. Kalimat bahasa Inggris yang benar adalah ...",
+    "options": [
+      "Rani likes watermelons",
+      "Rani does not like watermelon",
+      "Rani hate watermelon",
+      "Rani is watermelon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Likes' menyatakan kesukaan untuk subjek orang ketiga tunggal."
+  },
+  {
+    "id": "ing-k2-s18",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Expressing Dislike",
+    "level": "sedang",
+    "question": "Saya tidak suka minum kopi pahit. Kalimat bahasa Inggrisnya adalah ...",
+    "options": [
+      "I do not like bitter coffee",
+      "I like coffee very much",
+      "I drink coffee every day",
+      "Coffee likes me"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I do not like' digunakan untuk menyatakan tidak suka."
+  },
+  {
+    "id": "ing-k2-s19",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Number Twenty",
+    "level": "sedang",
+    "question": "Bahasa Inggris dari angka '20' adalah ...",
+    "options": [
+      "Twenty",
+      "Twelve",
+      "Two",
+      "Thirty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 20 adalah 'twenty'."
+  },
+  {
+    "id": "ing-k2-s20",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Number Fifteen",
+    "level": "sedang",
+    "question": "Bahasa Inggris dari angka '15' adalah ...",
+    "options": [
+      "Fifteen",
+      "Fifty",
+      "Five",
+      "Fourteen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angka 15 adalah 'fifteen'."
+  },
+  {
+    "id": "ing-k2-u01",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Ability Can Fly",
+    "level": "sulit",
+    "question": "A bird ... fly high in the sky with its wings.",
+    "options": [
+      "Can",
+      "Cannot",
+      "Is not",
+      "Are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Burung bisa terbang ('can fly')."
+  },
+  {
+    "id": "ing-k2-u02",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Inability Cannot Swim",
+    "level": "sulit",
+    "question": "A domestic cat dislikes water and ... swim like a fish.",
+    "options": [
+      "Cannot",
+      "Can",
+      "Are",
+      "Does"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kucing umumnya tidak bisa berenang ('cannot swim')."
+  },
+  {
+    "id": "ing-k2-u03",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Action Verb Jump Kangaroo",
+    "level": "sulit",
+    "question": "A kangaroo has powerful back legs. It uses them to ... far.",
+    "options": [
+      "Jump",
+      "Fly",
+      "Slither",
+      "Sing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kangguru melompat ('jump')."
+  },
+  {
+    "id": "ing-k2-u04",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Action Verb Slither Snake",
+    "level": "sulit",
+    "question": "A snake does not have legs. It moves by ... on the ground.",
+    "options": [
+      "Slithering (crawling)",
+      "Flying",
+      "Running",
+      "Hopping"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ular bergerak dengan melata ('slithering')."
+  },
+  {
+    "id": "ing-k2-u05",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Time In the Morning",
+    "level": "sulit",
+    "question": "We eat our breakfast and get ready for school in the ...",
+    "options": [
+      "Morning",
+      "Evening",
+      "Night",
+      "Midnight"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sarapan pagi disantap di pagi hari ('in the morning')."
+  },
+  {
+    "id": "ing-k2-u06",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Time At Night",
+    "level": "sulit",
+    "question": "The moon and shining stars appear in the sky at ...",
+    "options": [
+      "Night",
+      "Noon",
+      "Morning",
+      "Afternoon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bulan dan bintang tampak di malam hari ('at night')."
+  },
+  {
+    "id": "ing-k2-u07",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Possessive Adjective My",
+    "level": "sulit",
+    "question": "This is ... bag. My mother bought it for me yesterday.",
+    "options": [
+      "My",
+      "His",
+      "Her",
+      "Their"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti kepemilikan 'saya' adalah 'my'."
+  },
+  {
+    "id": "ing-k2-u08",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Possessive Adjective His",
+    "level": "sulit",
+    "question": "Budi is riding ... new bicycle to the playground.",
+    "options": [
+      "His",
+      "Her",
+      "My",
+      "Its"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti kepemilikan laki-laki tunggal (Budi) adalah 'his'."
+  },
+  {
+    "id": "ing-k2-u09",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Possessive Adjective Her",
+    "level": "sulit",
+    "question": "Siti wears ... pretty pink dress to the birthday party.",
+    "options": [
+      "Her",
+      "His",
+      "Our",
+      "Its"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata ganti kepemilikan perempuan tunggal (Siti) adalah 'her'."
+  },
+  {
+    "id": "ing-k2-u10",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition Next To",
+    "level": "sulit",
+    "question": "Budi sits ... Edo. They share the same study desk.",
+    "options": [
+      "Next to (beside)",
+      "Under",
+      "Behind",
+      "In"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Next to' berarti di sebelah / di samping."
+  },
+  {
+    "id": "ing-k2-u11",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition Between",
+    "level": "sulit",
+    "question": "The teacher's desk is located ... the blackboard and the student rows.",
+    "options": [
+      "Between",
+      "On",
+      "Inside",
+      "Under"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Between' berarti di antara dua objek."
+  },
+  {
+    "id": "ing-k2-u12",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Pronoun Plural They Are",
+    "level": "sulit",
+    "question": "The children are in the schoolyard. ... playing hide and seek.",
+    "options": [
+      "They are",
+      "He is",
+      "She is",
+      "It is"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek jamak (the children) menggunakan kata ganti 'They are'."
+  },
+  {
+    "id": "ing-k2-u13",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Pronoun Plural We Are",
+    "level": "sulit",
+    "question": "My brother and I love sports. ... swimming in the pool.",
+    "options": [
+      "We are",
+      "They are",
+      "He is",
+      "She is"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'My brother and I' diganti dengan subjek 'We are' (kami)."
+  },
+  {
+    "id": "ing-k2-u14",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Irregular Feet",
+    "level": "sulit",
+    "question": "One foot on the floor, but two ... on the shoes.",
+    "options": [
+      "Feet",
+      "Foots",
+      "Footes",
+      "Feets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bentuk jamak dari 'foot' adalah 'feet' (bukan foots)."
+  },
+  {
+    "id": "ing-k2-u15",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Plural Irregular Teeth",
+    "level": "sulit",
+    "question": "We brush our ... twice a day to keep them clean and healthy.",
+    "options": [
+      "Teeth",
+      "Tooths",
+      "Toothes",
+      "Teethes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bentuk jamak dari 'tooth' adalah 'teeth'."
+  },
+  {
+    "id": "ing-k2-u16",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Question How Many",
+    "level": "sulit",
+    "question": "'... pencils are there in your pencil case?' - 'There are three pencils.'",
+    "options": [
+      "How many",
+      "How much",
+      "How old",
+      "How long"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'How many' digunakan untuk menanyakan jumlah benda yang dapat dihitung (countable)."
+  },
+  {
+    "id": "ing-k2-u17",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Fast vs Slow",
+    "level": "sulit",
+    "question": "A cheetah runs very fast, but a little snail crawls very ...",
+    "options": [
+      "Slow",
+      "Quick",
+      "High",
+      "Loud"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'fast' (cepat) adalah 'slow' (lambat)."
+  },
+  {
+    "id": "ing-k2-u18",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Clean vs Dirty",
+    "level": "sulit",
+    "question": "Doni washes his muddy boots because they are ...",
+    "options": [
+      "Dirty",
+      "Clean",
+      "Dry",
+      "Soft"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'clean' (bersih) adalah 'dirty' (kotor)."
+  },
+  {
+    "id": "ing-k2-u19",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Hot vs Cold",
+    "level": "sulit",
+    "question": "Hot tea is warm, but ice cream is very ...",
+    "options": [
+      "Cold",
+      "Spicy",
+      "Sweet",
+      "Hard"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'hot' (panas) adalah 'cold' (dingin)."
+  },
+  {
+    "id": "ing-k2-u20",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Present Verb Has He",
+    "level": "sulit",
+    "question": "Doni ... a pair of black leather shoes for school.",
+    "options": [
+      "Has",
+      "Have",
+      "Having",
+      "Had"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek orang ketiga tunggal (Doni) menggunakan 'has'."
+  },
+  {
+    "id": "ing-k2-u21",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Present Verb Have I",
+    "level": "sulit",
+    "question": "I ... three storybooks on my wooden desk.",
+    "options": [
+      "Have",
+      "Has",
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek 'I' menggunakan kata kerja bantu kepemilikan 'have'."
+  },
+  {
+    "id": "ing-k2-u22",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Colors Flag of Indonesia",
+    "level": "sulit",
+    "question": "The national flag of Indonesia consists of two colors: ...",
+    "options": [
+      "Red and white",
+      "Blue and white",
+      "Red and yellow",
+      "Green and white"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bendera Indonesia terdiri atas warna red (merah) dan white (putih)."
+  },
+  {
+    "id": "ing-k2-u23",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Habitat Fish",
+    "level": "sulit",
+    "question": "Fish live and breathe in the ...",
+    "options": [
+      "Water (ocean or river)",
+      "Tree",
+      "Desert sand",
+      "Sky"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Habitat hidup ikan adalah di air ('water')."
+  },
+  {
+    "id": "ing-k2-u24",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Sound Duck",
+    "level": "sulit",
+    "question": "What sound does a duck make in English rhymes?",
+    "options": [
+      "Quack quack",
+      "Meow meow",
+      "Moo moo",
+      "Woof woof"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suara bebek dalam bahasa Inggris ditirukan dengan 'quack quack'."
+  },
+  {
+    "id": "ing-k2-u25",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Animal Sound Cow",
+    "level": "sulit",
+    "question": "What sound does a cow make in the pasture?",
+    "options": [
+      "Moo moo",
+      "Oink oink",
+      "Baa baa",
+      "Cluck cluck"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suara sapi ditirukan dengan 'moo moo'."
+  },
+  {
+    "id": "ing-k2-u26",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Reading Short Passage Budi's Pet",
+    "level": "sulit",
+    "question": "Read: 'Budi has a small rabbit. Its name is Snowy. It likes eating carrots.' What does Snowy like to eat?",
+    "options": [
+      "Carrots",
+      "Fish",
+      "Apples",
+      "Meat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Berdasarkan teks, Snowy suka makan wortel ('carrots')."
+  },
+  {
+    "id": "ing-k2-u27",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Reading Short Passage Rabbit Color",
+    "level": "sulit",
+    "question": "Read: 'Snowy is a rabbit. It has white fur and long ears.' What color is Snowy's fur?",
+    "options": [
+      "White",
+      "Black",
+      "Brown",
+      "Grey"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bulu Snowy berwarna putih ('white')."
+  },
+  {
+    "id": "ing-k2-u28",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Math English Sum 10+5",
+    "level": "sulit",
+    "question": "What is ten plus five?",
+    "options": [
+      "Fifteen",
+      "Fifty",
+      "Twenty",
+      "Fourteen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "10 + 5 = 15 (fifteen)."
+  },
+  {
+    "id": "ing-k2-u29",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Math English Subtraction 20-8",
+    "level": "sulit",
+    "question": "What is twenty minus eight?",
+    "options": [
+      "Twelve",
+      "Eleven",
+      "Thirteen",
+      "Ten"
+    ],
+    "correctAnswer": 0,
+    "explanation": "20 - 8 = 12 (twelve)."
+  },
+  {
+    "id": "ing-k2-u30",
+    "grade": 2,
+    "subject": "bahasa-inggris",
+    "topic": "Polite Request May I",
+    "level": "sulit",
+    "question": "When you want to borrow your classmate's sharpener politely, you say: '... borrow your sharpener, please?'",
+    "options": [
+      "May I",
+      "Must I",
+      "Will you go",
+      "Do you see"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'May I ... please?' adalah bentuk permohonan izin yang sangat sopan."
+  },
+  {
+    "id": "ing-k3-m01",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Telling Time Seven O Clock",
+    "level": "mudah",
+    "question": "It is 07.00 in the morning. In English, we say: 'It is ...'",
+    "options": [
+      "Seven o'clock",
+      "Eight o'clock",
+      "Six o'clock",
+      "Seven thirty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jam 07.00 tepat dinyatakan dengan 'seven o'clock'."
+  },
+  {
+    "id": "ing-k3-m02",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Telling Time Nine O Clock",
+    "level": "mudah",
+    "question": "It is 09.00 at night. In English, we say: 'It is ...'",
+    "options": [
+      "Nine o'clock",
+      "Ten o'clock",
+      "Eight o'clock",
+      "Nine fifteen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jam 09.00 tepat dinyatakan dengan 'nine o'clock'."
+  },
+  {
+    "id": "ing-k3-m03",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Room Living Room",
+    "level": "mudah",
+    "question": "Ruangan di dalam rumah tempat menerima tamu dan berkumpul menonton televisi adalah ...",
+    "options": [
+      "Living room",
+      "Kitchen",
+      "Bathroom",
+      "Garage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ruang tamu / ruang keluarga adalah 'living room'."
+  },
+  {
+    "id": "ing-k3-m04",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Room Kitchen",
+    "level": "mudah",
+    "question": "Ruangan di rumah tempat ibu memasak makanan adalah ...",
+    "options": [
+      "Kitchen",
+      "Bedroom",
+      "Bathroom",
+      "Garden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dapur adalah 'kitchen'."
+  },
+  {
+    "id": "ing-k3-m05",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Room Bedroom",
+    "level": "mudah",
+    "question": "Ruangan tempat kita tidur dan beristirahat di atas kasur adalah ...",
+    "options": [
+      "Bedroom",
+      "Dining room",
+      "Kitchen",
+      "Living room"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kamar tidur adalah 'bedroom'."
+  },
+  {
+    "id": "ing-k3-m06",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Room Bathroom",
+    "level": "mudah",
+    "question": "Ruangan tempat mandi dan mencuci muka dengan air bersih adalah ...",
+    "options": [
+      "Bathroom",
+      "Kitchen",
+      "Garage",
+      "Yard"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kamar mandi adalah 'bathroom'."
+  },
+  {
+    "id": "ing-k3-m07",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Transportation Bicycle",
+    "level": "mudah",
+    "question": "Kendaraan roda dua ramah lingkungan yang dikayuh dengan pedal kaki adalah ...",
+    "options": [
+      "Bicycle (bike)",
+      "Car",
+      "Bus",
+      "Train"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sepeda kayuh adalah 'bicycle'."
+  },
+  {
+    "id": "ing-k3-m08",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Transportation Airplane",
+    "level": "mudah",
+    "question": "Kendaraan udara bersayap yang terbang mengangkut penumpang di langit adalah ...",
+    "options": [
+      "Airplane (plane)",
+      "Ship",
+      "Train",
+      "Truck"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pesawat terbang adalah 'airplane'."
+  },
+  {
+    "id": "ing-k3-m09",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Weather Sunny",
+    "level": "mudah",
+    "question": "Ketika matahari bersinar terang di langit biru tanpa awan mendung, cuaca hari itu adalah ...",
+    "options": [
+      "Sunny",
+      "Rainy",
+      "Snowy",
+      "Stormy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cuaca cerah panas adalah 'sunny'."
+  },
+  {
+    "id": "ing-k3-m10",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Weather Rainy",
+    "level": "mudah",
+    "question": "Ketika rintik-rintik air hujan turun deras dari awan abu-abu gelap, cuaca hari itu adalah ...",
+    "options": [
+      "Rainy",
+      "Sunny",
+      "Windy",
+      "Foggy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cuaca hujan adalah 'rainy'."
+  },
+  {
+    "id": "ing-k3-s01",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Hobby Reading",
+    "level": "sedang",
+    "question": "Budi likes spending his free time with books at the library. His hobby is ...",
+    "options": [
+      "Reading",
+      "Swimming",
+      "Fishing",
+      "Cooking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hobi membaca buku adalah 'reading'."
+  },
+  {
+    "id": "ing-k3-s02",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Hobby Swimming",
+    "level": "sedang",
+    "question": "Siti likes to splash in the water at the swimming pool. Her hobby is ...",
+    "options": [
+      "Swimming",
+      "Dancing",
+      "Painting",
+      "Singing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hobi berenang adalah 'swimming'."
+  },
+  {
+    "id": "ing-k3-s03",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Hobby Cooking",
+    "level": "sedang",
+    "question": "Mother and Maya like making delicious cakes in the kitchen. Their hobby is ...",
+    "options": [
+      "Cooking",
+      "Cycling",
+      "Gardening",
+      "Drawing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hobi memasak adalah 'cooking'."
+  },
+  {
+    "id": "ing-k3-s04",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Hobby Playing Football",
+    "level": "sedang",
+    "question": "Edo and his friends kick a ball on the grass field every afternoon. Their hobby is ...",
+    "options": [
+      "Playing football",
+      "Playing chess",
+      "Playing guitar",
+      "Running"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hobi bermain sepak bola adalah 'playing football'."
+  },
+  {
+    "id": "ing-k3-s05",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Daily Routine Wake Up",
+    "level": "sedang",
+    "question": "Every day, I ... at five o'clock in the morning.",
+    "options": [
+      "Wake up",
+      "Go to bed",
+      "Eat dinner",
+      "Do homework"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Wake up' berarti bangun tidur di pagi hari."
+  },
+  {
+    "id": "ing-k3-s06",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Daily Routine Take a Bath",
+    "level": "sedang",
+    "question": "After waking up, I go to the bathroom to ... with soap and water.",
+    "options": [
+      "Take a bath (shower)",
+      "Have breakfast",
+      "Read a novel",
+      "Play game"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Take a bath' berarti mandi."
+  },
+  {
+    "id": "ing-k3-s07",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Daily Routine Have Breakfast",
+    "level": "sedang",
+    "question": "Before going to school at 06.30, my family always ... at the dining table.",
+    "options": [
+      "Have breakfast",
+      "Have dinner",
+      "Go to sleep",
+      "Play football"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Have breakfast' berarti sarapan pagi."
+  },
+  {
+    "id": "ing-k3-s08",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Daily Routine Go to School",
+    "level": "sedang",
+    "question": "Students wear their uniform and ... on foot or by bicycle.",
+    "options": [
+      "Go to school",
+      "Go to market",
+      "Go to cinema",
+      "Go to hospital"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Go to school' berarti berangkat ke sekolah."
+  },
+  {
+    "id": "ing-k3-s09",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Months January",
+    "level": "sedang",
+    "question": "The very first month of the year is ...",
+    "options": [
+      "January",
+      "February",
+      "December",
+      "March"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bulan pertama dalam setahun adalah Januari ('January')."
+  },
+  {
+    "id": "ing-k3-s10",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Months August",
+    "level": "sedang",
+    "question": "Indonesia celebrates its Independence Day on the seventeenth of ...",
+    "options": [
+      "August",
+      "July",
+      "September",
+      "October"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hari Kemerdekaan Indonesia diperingati pada 17 Agustus ('August')."
+  },
+  {
+    "id": "ing-k3-s11",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Months December",
+    "level": "sedang",
+    "question": "The twelfth and last month of the year is ...",
+    "options": [
+      "December",
+      "November",
+      "October",
+      "January"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bulan ke-12 atau terakhir adalah Desember ('December')."
+  },
+  {
+    "id": "ing-k3-s12",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Vegetable Carrot",
+    "level": "sedang",
+    "question": "A long orange root vegetable that rabbits love to eat is a ...",
+    "options": [
+      "Carrot",
+      "Spinach",
+      "Tomato",
+      "Potato"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Wortel berwarna oranye adalah 'carrot'."
+  },
+  {
+    "id": "ing-k3-s13",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Vegetable Spinach",
+    "level": "sedang",
+    "question": "A green leafy vegetable that makes Popeye strong is ...",
+    "options": [
+      "Spinach (bayam)",
+      "Chili",
+      "Corn",
+      "Eggplant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sayur bayam hijau adalah 'spinach'."
+  },
+  {
+    "id": "ing-k3-s14",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Vegetable Tomato",
+    "level": "sedang",
+    "question": "A round red juicy vegetable used to make sauce and soup is a ...",
+    "options": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Garlic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tomat adalah 'tomato'."
+  },
+  {
+    "id": "ing-k3-s15",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Weather Windy",
+    "level": "sedang",
+    "question": "Children like to fly their colorful kites in the field when the weather is ...",
+    "options": [
+      "Windy",
+      "Rainy",
+      "Foggy",
+      "Snowy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bermain layang-layang membutuhkan hembusan angin ('windy')."
+  },
+  {
+    "id": "ing-k3-s16",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Weather Cloudy",
+    "level": "sedang",
+    "question": "When the sky is full of grey clouds and the sun is hidden, it is ...",
+    "options": [
+      "Cloudy",
+      "Sunny",
+      "Clear",
+      "Dry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Langit dipenuhi awan mendung berarti 'cloudy'."
+  },
+  {
+    "id": "ing-k3-s17",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Transportation Train",
+    "level": "sedang",
+    "question": "A long vehicle that runs on railway tracks and stops at railway stations is a ...",
+    "options": [
+      "Train",
+      "Bus",
+      "Helicopter",
+      "Submarine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kereta api yang berjalan di atas rel adalah 'train'."
+  },
+  {
+    "id": "ing-k3-s18",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Transportation Ship",
+    "level": "sedang",
+    "question": "A large vehicle that sails on the ocean waters carrying goods and passengers is a ...",
+    "options": [
+      "Ship",
+      "Airplane",
+      "Motorcycle",
+      "Cart"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kapal laut adalah 'ship'."
+  },
+  {
+    "id": "ing-k3-s19",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Question Word Where",
+    "level": "sedang",
+    "question": "'... do you live?' - 'I live in Surabaya.' Kata tanya yang tepat adalah ...",
+    "options": [
+      "Where",
+      "When",
+      "Why",
+      "Who"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Where' digunakan untuk menanyakan lokasi tempat tinggal."
+  },
+  {
+    "id": "ing-k3-s20",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Question Word When",
+    "level": "sedang",
+    "question": "'... do you go to sleep?' - 'I go to sleep at nine o'clock.' Kata tanya yang tepat adalah ...",
+    "options": [
+      "When",
+      "Where",
+      "What",
+      "Who"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'When' digunakan untuk menanyakan keterangan waktu."
+  },
+  {
+    "id": "ing-k3-u01",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Present Continuous Playing",
+    "level": "sulit",
+    "question": "Look at the field! The boys ... football right now.",
+    "options": [
+      "Are playing",
+      "Is playing",
+      "Am playing",
+      "Plays"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek jamak 'The boys' menggunakan to be 'are' + V-ing: 'are playing'."
+  },
+  {
+    "id": "ing-k3-u02",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Present Continuous Reading",
+    "level": "sulit",
+    "question": "Listen! Shinta ... an English storybook in the library.",
+    "options": [
+      "Is reading",
+      "Are reading",
+      "Am reading",
+      "Read"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek tunggal 'Shinta' menggunakan 'is reading'."
+  },
+  {
+    "id": "ing-k3-u03",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Present Continuous Cooking",
+    "level": "sulit",
+    "question": "Mother is in the kitchen. She ... fried rice for our dinner.",
+    "options": [
+      "Is cooking",
+      "Are cooking",
+      "Cooks",
+      "Cooked"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kegiatan yang sedang berlangsung saat ini menggunakan 'is cooking'."
+  },
+  {
+    "id": "ing-k3-u04",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Comparative Degree Bigger",
+    "level": "sulit",
+    "question": "An elephant is ... than a goat.",
+    "options": [
+      "Bigger",
+      "Big",
+      "Biggest",
+      "More big"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perbandingan dua benda (comparative) untuk kata sifat bersuku kata satu: 'bigger than'."
+  },
+  {
+    "id": "ing-k3-u05",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Comparative Degree Taller",
+    "level": "sulit",
+    "question": "A giraffe is ... than a zebra.",
+    "options": [
+      "Taller",
+      "Tall",
+      "Tallest",
+      "More tall"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jerapah lebih tinggi dari zebra ('taller than')."
+  },
+  {
+    "id": "ing-k3-u06",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Comparative Degree Faster",
+    "level": "sulit",
+    "question": "A cheetah runs ... than a turtle.",
+    "options": [
+      "Faster",
+      "Fast",
+      "Fastest",
+      "Slowly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Faster than' berarti berlari lebih cepat daripada."
+  },
+  {
+    "id": "ing-k3-u07",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Telling Time Half Past Eight",
+    "level": "sulit",
+    "question": "The clock shows 08.30. In English, we say: 'It is ...'",
+    "options": [
+      "Half past eight",
+      "Half to eight",
+      "Eight o'clock",
+      "Eight to thirty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pukul 08.30 dinyatakan dengan 'half past eight' (lewat 30 menit dari jam 8)."
+  },
+  {
+    "id": "ing-k3-u08",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Telling Time A Quarter Past Ten",
+    "level": "sulit",
+    "question": "The clock shows 10.15. In English, we say: 'It is ...'",
+    "options": [
+      "A quarter past ten",
+      "A quarter to ten",
+      "Ten fifteen o'clock",
+      "Half past ten"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pukul 10.15 adalah 'a quarter past ten' (lewat 15 menit dari jam 10)."
+  },
+  {
+    "id": "ing-k3-u09",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Telling Time A Quarter To Six",
+    "level": "sulit",
+    "question": "The clock shows 05.45 (15 minutes before 6). In English, we say: 'It is ...'",
+    "options": [
+      "A quarter to six",
+      "A quarter past five",
+      "Half past six",
+      "Six forty-five o'clock"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pukul 05.45 dinyatakan dengan 'a quarter to six' (kurang 15 menit menuju jam 6)."
+  },
+  {
+    "id": "ing-k3-u10",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Adverb of Frequency Always",
+    "level": "sulit",
+    "question": "Budi never misses praying. He ... prays on time every day.",
+    "options": [
+      "Always (100%)",
+      "Never (0%)",
+      "Rarely",
+      "Seldom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Always' menyatakan frekuensi selalu dilakukan 100%."
+  },
+  {
+    "id": "ing-k3-u11",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Adverb of Frequency Never",
+    "level": "sulit",
+    "question": "Siti is a vegetarian. She ... eats meat or chicken.",
+    "options": [
+      "Never",
+      "Always",
+      "Usually",
+      "Often"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Never' bermakna tidak pernah sama sekali (0%)."
+  },
+  {
+    "id": "ing-k3-u12",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Adverb of Frequency Sometimes",
+    "level": "sulit",
+    "question": "I usually walk to school, but ... when it rains, my father drives me by car.",
+    "options": [
+      "Sometimes",
+      "Never",
+      "Always",
+      "Every second"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Sometimes' bermakna kadang-kadang."
+  },
+  {
+    "id": "ing-k3-u13",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Cardinal Direction North",
+    "level": "sulit",
+    "question": "The top direction on a printed map is always ...",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arah atas pada peta adalah Utara ('North')."
+  },
+  {
+    "id": "ing-k3-u14",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Cardinal Direction East",
+    "level": "sulit",
+    "question": "The sun rises in the morning in the ...",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Matahari terbit di sebelah Timur ('East')."
+  },
+  {
+    "id": "ing-k3-u15",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Cardinal Direction West",
+    "level": "sulit",
+    "question": "The sun sets in the late afternoon in the ...",
+    "options": [
+      "West",
+      "East",
+      "North",
+      "South"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Matahari terbenam di sebelah Barat ('West')."
+  },
+  {
+    "id": "ing-k3-u16",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Question Word Why Reason",
+    "level": "sulit",
+    "question": "'... are you crying, Lina?' - 'Because I fell down and hurt my knee.'",
+    "options": [
+      "Why",
+      "Where",
+      "When",
+      "What"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Why' digunakan untuk menanyakan alasan (dijawab dengan 'because')."
+  },
+  {
+    "id": "ing-k3-u17",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Present Negative He Does Not",
+    "level": "sulit",
+    "question": "Edo ... like spicy chili food because his stomach hurts.",
+    "options": [
+      "Does not",
+      "Do not",
+      "Are not",
+      "Is not"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bentuk negatif simple present untuk subjek orang ketiga tunggal (Edo) adalah 'does not'."
+  },
+  {
+    "id": "ing-k3-u18",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Simple Present Negative We Do Not",
+    "level": "sulit",
+    "question": "We ... have class on Sunday because it is a holiday.",
+    "options": [
+      "Do not",
+      "Does not",
+      "Is not",
+      "Are not"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Subjek 'We' menggunakan kata kerja bantu 'do not'."
+  },
+  {
+    "id": "ing-k3-u19",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Reading Comprehension Dino The Dog",
+    "level": "sulit",
+    "question": "Read: 'Dino is a brown dog. He has floppy ears. He likes to chase tennis balls in the garden.' What game does Dino like to play in the garden?",
+    "options": [
+      "Chasing tennis balls",
+      "Swimming in the river",
+      "Catching mice",
+      "Climbing trees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Berdasarkan teks, Dino suka mengejar bola tenis ('chasing tennis balls')."
+  },
+  {
+    "id": "ing-k3-u20",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Reading Comprehension Dino Ear Feature",
+    "level": "sulit",
+    "question": "Based on the text: 'Dino is a brown dog. He has floppy ears.' What kind of ears does Dino have?",
+    "options": [
+      "Floppy ears",
+      "Pointy ears",
+      "Small ears",
+      "No ears"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Teks menyebutkan 'He has floppy ears'."
+  },
+  {
+    "id": "ing-k3-u21",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Finding Grammatical Error",
+    "level": "sulit",
+    "question": "Find the INCORRECT sentence among the choices below:",
+    "options": [
+      "She are singing a song in the room.",
+      "He is reading a novel.",
+      "They are playing badminton.",
+      "I am writing a letter."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'She are' salah secara tata bahasa, seharusnya 'She is'."
+  },
+  {
+    "id": "ing-k3-u22",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Finding Correct Sentence",
+    "level": "sulit",
+    "question": "Choose the sentence that has the CORRECT grammar:",
+    "options": [
+      "They are studying English together.",
+      "They is studying English together.",
+      "They am studying English together.",
+      "They studies English together."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'They are studying' adalah kalimat yang benar secara subjek-predikat."
+  },
+  {
+    "id": "ing-k3-u23",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition of Place Behind",
+    "level": "sulit",
+    "question": "The car is parked ... the house. You cannot see it from the front street.",
+    "options": [
+      "Behind",
+      "In front of",
+      "On",
+      "Above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Di belakang rumah sehingga tak terlihat dari depan adalah 'behind'."
+  },
+  {
+    "id": "ing-k3-u24",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Preposition of Place In Front Of",
+    "level": "sulit",
+    "question": "The flagpole stands proudly ... the school building in the middle of the yard.",
+    "options": [
+      "In front of",
+      "Under",
+      "Behind",
+      "Inside"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tiang bendera berdiri di depan gedung sekolah ('in front of')."
+  },
+  {
+    "id": "ing-k3-u25",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Heavy vs Light",
+    "level": "sulit",
+    "question": "A heavy stone weighs ten kilograms, but a bird's feather is very ...",
+    "options": [
+      "Light",
+      "Dark",
+      "Hard",
+      "Thick"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata 'heavy' (berat) adalah 'light' (ringan)."
+  },
+  {
+    "id": "ing-k3-u26",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Sweet vs Sour",
+    "level": "sulit",
+    "question": "Honey is sweet, but fresh lemon juice is ...",
+    "options": [
+      "Sour",
+      "Salty",
+      "Spicy",
+      "Bitter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rasa asam lemon adalah 'sour', lawan dari manis ('sweet')."
+  },
+  {
+    "id": "ing-k3-u27",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Opposite Sharp vs Blunt",
+    "level": "sulit",
+    "question": "A new knife is sharp, but an old unsharpened pencil is ...",
+    "options": [
+      "Blunt (dull)",
+      "Long",
+      "Clean",
+      "Cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata tajam ('sharp') adalah tumpul ('blunt' atau 'dull')."
+  },
+  {
+    "id": "ing-k3-u28",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Action Verb Borrow vs Lend",
+    "level": "sulit",
+    "question": "'May I ... your eraser, please?' - 'Sure, I will lend it to you.'",
+    "options": [
+      "Borrow",
+      "Buy",
+      "Break",
+      "Sell"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Borrow' berarti meminjam dari orang lain."
+  },
+  {
+    "id": "ing-k3-u29",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Weather Umbrella Need",
+    "level": "sulit",
+    "question": "Don't forget to take an umbrella before going outside because it is raining ... outside.",
+    "options": [
+      "Heavily",
+      "Sunny",
+      "Brightly",
+      "Dry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hujan deras turun dinyatakan dengan 'raining heavily'."
+  },
+  {
+    "id": "ing-k3-u30",
+    "grade": 3,
+    "subject": "bahasa-inggris",
+    "topic": "Math English Word Problem",
+    "level": "sulit",
+    "question": "Rina has twelve colored pencils. She gives four pencils to her sister. How many colored pencils does Rina have left?",
+    "options": [
+      "Eight pencils",
+      "Sixteen pencils",
+      "Ten pencils",
+      "Seven pencils"
+    ],
+    "correctAnswer": 0,
+    "explanation": "12 - 4 = 8 (eight pencils left)."
+  }
+]

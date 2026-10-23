@@ -1,0 +1,962 @@
+[
+  {
+    "id": "pjo-k1-m01",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Lokomotor Berjalan",
+    "level": "mudah",
+    "question": "Gerakan berpindah tempat dengan melangkahkan kaki secara bergantian ke depan dinamakan ...",
+    "options": [
+      "Berjalan",
+      "Duduk",
+      "Diam",
+      "Membungkuk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Berjalan adalah gerak lokomotor memindahkan tubuh dengan langkah kaki."
+  },
+  {
+    "id": "pjo-k1-m02",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Lokomotor Berlari",
+    "level": "mudah",
+    "question": "Gerakan melangkahkan kaki dengan kecepatan tinggi dan ada saat kedua kaki melayang di udara disebut ...",
+    "options": [
+      "Berlari",
+      "Berdiri",
+      "Merangkak",
+      "Tidur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Berlari adalah gerakan memindahkan tubuh dengan langkah cepat melayang."
+  },
+  {
+    "id": "pjo-k1-m03",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Non-Lokomotor Memutar",
+    "level": "mudah",
+    "question": "Gerakan memutar lengan tangan atau memutar pinggang tanpa berpindah tempat disebut gerak ...",
+    "options": [
+      "Non-lokomotor",
+      "Lokomotor",
+      "Manipulatif",
+      "Otomatis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gerak non-lokomotor dilakukan tanpa memindahkan posisi tubuh."
+  },
+  {
+    "id": "pjo-k1-m04",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Manipulatif Menendang Bola",
+    "level": "mudah",
+    "question": "Aktivitas menendang bola ke arah gawang menggunakan kaki merupakan contoh gerak ...",
+    "options": [
+      "Manipulatif",
+      "Non-lokomotor",
+      "Pasif",
+      "Refleks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gerak manipulatif melibatkan penguasaan terhadap suatu objek/alat."
+  },
+  {
+    "id": "pjo-k1-m05",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Sikap Berdiri Tegap",
+    "level": "mudah",
+    "question": "Saat melakukan sikap berdiri sempurna, posisi kedua tangan berada di ...",
+    "options": [
+      "Samping paha lurus merapat",
+      "Atas kepala",
+      "Dalam saku",
+      "Depan dada terlipat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sikap sempurna berdiri tegap: tangan lurus merapat di samping paha."
+  },
+  {
+    "id": "pjo-k1-m06",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Waktu Mencuci Tangan",
+    "level": "mudah",
+    "question": "Sebelum makan dan setelah menggunakan kamar kecil, kita harus mencuci tangan menggunakan ...",
+    "options": [
+      "Air bersih mengalir dan sabun",
+      "Kain lap kotor",
+      "Minyak goreng",
+      "Pasir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mencuci tangan dengan sabun membunuh kuman dan bakteri penyakit."
+  },
+  {
+    "id": "pjo-k1-m07",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Frekuensi Mandi Sehat",
+    "level": "mudah",
+    "question": "Untuk menjaga kebersihan dan kesehatan badan, kita sebaiknya mandi minimal sebanyak ...",
+    "options": [
+      "2 kali sehari",
+      "1 kali seminggu",
+      "3 hari sekali",
+      "1 kali sebulan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mandi pagi dan sore (2 kali sehari) menjaga kesegaran tubuh."
+  },
+  {
+    "id": "pjo-k1-m08",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Kebersihan Kuku Tangan",
+    "level": "mudah",
+    "question": "Kuku tangan yang panjang dan hitam harus segera dipotong karena menjadi tempat bersarangnya ...",
+    "options": [
+      "Kuman dan cacing penyakit",
+      "Vitamin",
+      "Oksigen",
+      "Minyak wangi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kuku kotor mengandung telur cacing dan bakteri pathogen."
+  },
+  {
+    "id": "pjo-k1-m09",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Waktu Menggosok Gigi",
+    "level": "mudah",
+    "question": "Kita dianjurkan menggosok gigi secara teratur terutama setelah makan dan sebelum ...",
+    "options": [
+      "Tidur malam",
+      "Bermain sepeda",
+      "Mandi hujan",
+      "Membaca komik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menggosok gigi sebelum tidur mencegah pertumbuhan bakteri perusak email gigi."
+  },
+  {
+    "id": "pjo-k1-m10",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pakaian Saat Olahraga",
+    "level": "mudah",
+    "question": "Saat mengikuti pelajaran olahraga di lapangan, pakaian yang tepat dipakai adalah seragam ...",
+    "options": [
+      "Olahraga yang menyerap keringat",
+      "Seragam batik pesta",
+      "Jaket tebal musim dingin",
+      "Jas hujan plastik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Baju olahraga berbahan katun menyerap keringat dan memudahkan gerak."
+  },
+  {
+    "id": "pjo-k1-s01",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Melompat vs Meloncat",
+    "level": "sedang",
+    "question": "Gerakan menolak tubuh ke atas menggunakan tumpuan SATU kaki dinamakan gerak ...",
+    "options": [
+      "Melompat",
+      "Meloncat",
+      "Meluncur",
+      "Mendarat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Melompat bertumpu pada satu kaki, sedangkan meloncat bertumpu pada dua kaki."
+  },
+  {
+    "id": "pjo-k1-s02",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Meloncat Dua Kaki",
+    "level": "sedang",
+    "question": "Gerakan katak yang menolak tubuh ke depan menggunakan tumpuan DUA kaki secara bersamaan disebut ...",
+    "options": [
+      "Meloncat",
+      "Melompat",
+      "Merayap",
+      "Berguling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meloncat menggunakan tolakan dua kaki sekaligus."
+  },
+  {
+    "id": "pjo-k1-s03",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Sikap Tubuh Saat Duduk Belajar",
+    "level": "sedang",
+    "question": "Posisi punggung saat duduk belajar di kursi sekolah yang benar adalah ...",
+    "options": [
+      "Tegak dan rileks tidak membungkuk",
+      "Membungkuk sangat dekat dengan meja",
+      "Miring ke sebelah kiri",
+      "Tidur telungkup"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Duduk tegak menjaga bentuk kelengkungan tulang belakang tetap sehat."
+  },
+  {
+    "id": "pjo-k1-s04",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Sikap Berjalan yang Benar",
+    "level": "sedang",
+    "question": "Saat berjalan ke depan, pandangan mata kita harus terarah lurus ke ...",
+    "options": [
+      "Depan",
+      "Bawah sepatu terus",
+      "Atas awan",
+      "Belakang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pandangan lurus ke depan menjaga keseimbangan dan keselamatan dari rintangan."
+  },
+  {
+    "id": "pjo-k1-s05",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Mengayun Lengan",
+    "level": "sedang",
+    "question": "Gerakan mengayunkan kedua lengan tangan ke depan dan ke belakang secara bergantian saat berjalan melatih ...",
+    "options": [
+      "Kelenturan dan keseimbangan tubuh",
+      "Kekuatan gigi",
+      "Ketajaman mata",
+      "Kecepatan makan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayunan lengan menyelaraskan ritme langkah dan keseimbangan."
+  },
+  {
+    "id": "pjo-k1-s06",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Menekuk Lutut",
+    "level": "sedang",
+    "question": "Menekuk kedua lutut saat mendarat setelah melompat bertujuan untuk ...",
+    "options": [
+      "Meredam benturan agar tidak cedera (gerak mengeper)",
+      "Membuat bunyi keras di tanah",
+      "Menjatuhkan badan",
+      "Mengotori celana"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mengeper dengan menekuk lutut menyerap gaya tumbukan pada persendian."
+  },
+  {
+    "id": "pjo-k1-s07",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Menangkap Bola Melambung",
+    "level": "sedang",
+    "question": "Saat menangkap bola kasti yang melambung dari atas, posisi kedua telapak tangan membentuk ...",
+    "options": [
+      "Mangkok terbuka menghadap arah datangnya bola",
+      "Kepalan tinju rapat",
+      "Tangan dimasukkan ke saku",
+      "Satu tangan di belakang punggung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kedua tangan membentuk mangkok siap meredam laju bola."
+  },
+  {
+    "id": "pjo-k1-s08",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerak Melempar Bola Melambung",
+    "level": "sedang",
+    "question": "Agar lemparan bola dapat melambung jauh dan tinggi ke atas, ayunan tangan dimulai dari arah ...",
+    "options": [
+      "Bawah belakang ditarik kuat ke atas depan",
+      "Depan dada didorong lurus",
+      "Bawah lantai",
+      "Atas kepala didorong ke bawah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayunan parabola ke atas melontarkan bola melambung tinggi."
+  },
+  {
+    "id": "pjo-k1-s09",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pemanasan Sebelum Berolahraga",
+    "level": "sedang",
+    "question": "Sebelum memulai kegiatan inti olahraga fisik, kita wajib melakukan gerakan pemanasan untuk ...",
+    "options": [
+      "Menaikkan suhu tubuh dan mencegah terjadinya cedera otot",
+      "Membuat tubuh cepat lelah",
+      "Menghabiskan waktu jam pelajaran",
+      "Mengantuk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemanasan menyiapkan otot dan sendi menghadapi kerja fisik berat."
+  },
+  {
+    "id": "pjo-k1-s10",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pendinginan Setelah Berolahraga",
+    "level": "sedang",
+    "question": "Setelah selesai berolahraga berat, kita melakukan gerakan pendinginan (cooling down) yang bertujuan untuk ...",
+    "options": [
+      "Mengembalikan denyut jantung dan meregangkan otot kembali rileks",
+      "Membuat otot kram tegang",
+      "Menaikkan suhu tubuh setinggi mungkin",
+      "Menghentikan pernapasan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pendinginan menormalkan kembali sirkulasi darah dan merelaksasi otot."
+  },
+  {
+    "id": "pjo-k1-s11",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Latihan Keseimbangan Berdiri Satu Kaki",
+    "level": "sedang",
+    "question": "Berdiri dengan satu kaki diangkat dan kedua tangan direntangkan ke samping meniru gerakan ...",
+    "options": [
+      "Pesawat terbang",
+      "Kereta api",
+      "Mobil balap",
+      "Perahu layar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sikap meniru pesawat terbang melatih keseimbangan statis."
+  },
+  {
+    "id": "pjo-k1-s12",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Latihan Keseimbangan Berjalan di Balok Titian",
+    "level": "sedang",
+    "question": "Berjalan perlahan di atas papan balok titian yang sempit berguna untuk melatih ...",
+    "options": [
+      "Keseimbangan dinamis tubuh",
+      "Kekuatan gigi",
+      "Daya ingat",
+      "Kecepatan berlari"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balok titian melatih kontrol keseimbangan dinamis saat bergerak."
+  },
+  {
+    "id": "pjo-k1-s13",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Permainan Menirukan Gerak Katak",
+    "level": "sedang",
+    "question": "Dalam permainan menirukan gerakan hewan katak, murid meloncat ke depan dengan posisi awal ...",
+    "options": [
+      "Jongkok dengan kedua tangan menyentuh lantai",
+      "Berdiri tegak kaku",
+      "Tidur terlentang",
+      "Duduk bersila"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loncat katak diawali dari posisi jongkok bertolak kuat ke depan."
+  },
+  {
+    "id": "pjo-k1-s14",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Permainan Menirukan Burung Terbang",
+    "level": "sedang",
+    "question": "Gerakan menirukan burung terbang dilakukan dengan cara berjalan jinjit sambil ...",
+    "options": [
+      "Mengepak-ngepakkan kedua lengan tangan ke atas dan ke bawah",
+      "Menggelengkan kepala kencang",
+      "Melipat tangan di dada",
+      "Berteriak kencang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mengepakkan lengan melatih kelenturan persendian bahu."
+  },
+  {
+    "id": "pjo-k1-s15",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Menjaga Kebersihan Rambut",
+    "level": "sedang",
+    "question": "Untuk membersihkan debu, keringat, dan ketombe di kulit kepala, kita mencuci rambut menggunakan ...",
+    "options": [
+      "Sampo",
+      "Sabun colek",
+      "Pasta gigi",
+      "Minyak tanah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sampo diformulasikan khusus membersihkan rambut dan kulit kepala."
+  },
+  {
+    "id": "pjo-k1-s16",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Menjaga Kebersihan Telinga",
+    "level": "sedang",
+    "question": "Membersihkan daun telinga bagian luar sebaiknya dilakukan menggunakan ...",
+    "options": [
+      "Kain lap basah atau handuk bersih lembut",
+      "Benda logam runcing keras",
+      "Batang lidi tajam",
+      "Paku kecil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benda runcing keras dapat melukai dan merobek gendang telinga."
+  },
+  {
+    "id": "pjo-k1-s17",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Menjaga Kebersihan Hidung",
+    "level": "sedang",
+    "question": "Cara membersihkan kotoran di rongga hidung yang aman dan benar adalah ...",
+    "options": [
+      "Menggunakan tisu bersih atau sapu tangan lembut yang dibasahi air",
+      "Memasukkan biji jagung",
+      "Mengorek dengan kawat tajam",
+      "Memasukkan pensil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tisu lembut basah membersihkan lendir hidung tanpa melukai mukosa."
+  },
+  {
+    "id": "pjo-k1-s18",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Manfaat Tidur Cukup Bagi Anak SD",
+    "level": "sedang",
+    "question": "Anak usia sekolah dasar membutuhkan waktu tidur malam sekitar 8 sampai 9 jam sehari agar ...",
+    "options": [
+      "Tubuh dapat tumbuh kembang optimal dan otak segar saat belajar",
+      "Menjadi anak yang malas",
+      "Ketinggalan jam pelajaran",
+      "Mimpi buruk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hormon pertumbuhan aktif diproduksi saat tidur malam nyenyak."
+  },
+  {
+    "id": "pjo-k1-s19",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Minum Air Putih yang Cukup",
+    "level": "sedang",
+    "question": "Setelah berolahraga lari di lapangan, kita harus minum air putih yang cukup untuk ...",
+    "options": [
+      "Menggantikan cairan tubuh yang hilang lewat keringat dan mencegah dehidrasi",
+      "Membuat perut kembung",
+      "Mendinginkan sepatu",
+      "Membuat lemas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehidrasi air putih menjaga keseimbangan cairan metabolisme tubuh."
+  },
+  {
+    "id": "pjo-k1-s20",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Makan Makanan Bergizi 4 Sehat 5 Sempurna",
+    "level": "sedang",
+    "question": "Makanan bergizi seimbang terdiri dari makanan pokok, lauk pauk berprotein, sayur mayur, buah-buahan, dan disempurnakan dengan ...",
+    "options": [
+      "Susu",
+      "Minuman bersoda manis",
+      "Permen gulali",
+      "Keripik asin micin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Susu melengkapi kecukupan kalsium dan nutrisi anak."
+  },
+  {
+    "id": "pjo-k1-u01",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Analisis Gerak Lokomotor Melompati Rintangan Ban",
+    "level": "sulit",
+    "question": "Saat berlari cepat melompati ban sepeda yang disusun di tanah, tolakan kaki harus kuat dan pandangan mata fokus ke ...",
+    "options": [
+      "Arah rintangan di depan agar kaki tidak tersangkut ban",
+      "Atas langit",
+      "Arah teman di belakang",
+      "Sepatu teman"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fokus visual ke rintangan memastikan penempatan kaki yang tepat."
+  },
+  {
+    "id": "pjo-k1-u02",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Dampak Buruk Posisi Duduk Membungkuk Menahun",
+    "level": "sulit",
+    "question": "Kebiasaan duduk belajar dengan posisi punggung membungkuk ke depan secara terus menerus dapat menyebabkan kelainan tulang belakang yang disebut ...",
+    "options": [
+      "Kifosis (tulang punggung bengkok ke belakang / bungkuk)",
+      "Skoliosis",
+      "Lordosis",
+      "Fraktura"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kifosis adalah kelainan kelengkungan tulang belakang melengkung bungkuk."
+  },
+  {
+    "id": "pjo-k1-u03",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Kelainan Tulang Skoliosis",
+    "level": "sulit",
+    "question": "Kebiasaan sering membawa tas ransel berat hanya pada satu sisi pundak kanan saja dapat memicu tulang belakang melengkung ke samping huruf S yang disebut ...",
+    "options": [
+      "Skoliosis",
+      "Kifosis",
+      "Lordosis",
+      "Rakitis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beban asimetris memicu kemiringan tulang belakang lateral (skoliosis)."
+  },
+  {
+    "id": "pjo-k1-u04",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Kelainan Tulang Lordosis",
+    "level": "sulit",
+    "question": "Kebiasaan duduk dengan posisi perut terlalu dibusungkan ke depan hingga pinggang melengkung berlebihan dinamakan kelainan ...",
+    "options": [
+      "Lordosis",
+      "Kifosis",
+      "Skoliosis",
+      "Osteoporosis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lordosis adalah kelengkungan berlebih pada tulang belakang area lumbal ke depan."
+  },
+  {
+    "id": "pjo-k1-u05",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Kombinasi Gerak Lari dan Lempar",
+    "level": "sulit",
+    "question": "Saat melakukan permainan lempar tangkap bola berpasangan, koordinasi gerak yang dilatih secara bersamaan adalah ...",
+    "options": [
+      "Koordinasi mata, tangan, dan kelincahan kaki",
+      "Kekuatan rahang gigi",
+      "Ketajaman indera penciuman",
+      "Kelembutan suara"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lempar tangkap memadukan koordinasi visual-motorik (eye-hand coordination)."
+  },
+  {
+    "id": "pjo-k1-u06",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Penyebab Otot Kram Saat Olahraga",
+    "level": "sulit",
+    "question": "Kram otot betis saat berolahraga lari paling sering disebabkan oleh ...",
+    "options": [
+      "Kurang melakukan pemanasan dan kekurangan cairan/elektrolit tubuh",
+      "Terlalu banyak tidur",
+      "Memakai sepatu bersih",
+      "Makan buah pisang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Otot yang belum siap berkontraksi berat rentan mengalami spasme kram."
+  },
+  {
+    "id": "pjo-k1-u07",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pertolongan Pertama Luka Lecet Lutut",
+    "level": "sulit",
+    "question": "Jika teman terjatuh di lapangan dan lututnya lecet berpasir, tindakan pertama yang benar adalah ...",
+    "options": [
+      "Membasuh luka dengan air bersih mengalir lalu memberi obat antiseptik",
+      "Menaburkan pasir kering",
+      "Menutup rapat dengan plastik hitam",
+      "Membiarkan darah mengering bersama tanah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mencuci kotoran dengan air mengalir mencegah infeksi bakteri tetanus."
+  },
+  {
+    "id": "pjo-k1-u08",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Bahaya Membaca Buku Sambil Tiduran",
+    "level": "sulit",
+    "question": "Membaca buku dengan posisi tidur terlentang dan jarak buku terlalu dekat ke mata dapat menyebabkan ...",
+    "options": [
+      "Otot mata lelah dan memicu kerusakan ketajaman penglihatan (rabun)",
+      "Mata bertambah jernih berkilau",
+      "Kekuatan tangan bertambah",
+      "Tidur menjadi nyenyak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Jarak pandang yang terlalu dekat membebani otot akomodasi lensa mata."
+  },
+  {
+    "id": "pjo-k1-u09",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Adab Batuk dan Bersin di Kelas",
+    "level": "sulit",
+    "question": "Saat batuk atau bersin di dalam ruang kelas yang ramai, etika kesehatan yang benar untuk mencegah penyebaran kuman flu adalah ...",
+    "options": [
+      "Menutup mulut dan hidung menggunakan tisu atau lengan baju bagian dalam",
+      "Bersin langsung ke arah wajah teman sebangku",
+      "Membuka mulut selebar-lebarnya tanpa ditutup",
+      "Berteriak kencang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menutup dengan siku bagian dalam mencegah droplet kuman melayang di udara."
+  },
+  {
+    "id": "pjo-k1-u10",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pentingnya Mengganti Pakaian Dalam Bersih",
+    "level": "sulit",
+    "question": "Pakaian dalam (celana dalam) harus diganti minimal 2 kali sehari setelah mandi dengan tujuan utama untuk ...",
+    "options": [
+      "Mencegah kelembapan berlebih, iritasi jamur, dan infeksi bakteri pada area pribadi",
+      "Menghemat detergen cucian",
+      "Pamer pakaian baru",
+      "Membuat celana menjadi tebal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Area lipatan tubuh yang lembap memicu perkembangbiakan jamur kulit gatal."
+  },
+  {
+    "id": "pjo-k1-u11",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Bahaya Makanan Jajanan Sembarangan Terbuka",
+    "level": "sulit",
+    "question": "Membeli makanan jajanan di pinggir jalan raya yang dibiarkan terbuka tanpa penutup sangat berisiko karena ...",
+    "options": [
+      "Tercemar debu asap knalpot beracun dan dihinggapi lalat pembawa bakteri diare",
+      "Rasanya menjadi semakin lezat gurih",
+      "Harganya menjadi lebih murah",
+      "Mengandung banyak vitamin alami"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lalat dan debu polutan membawa bakteri Salmonella dan E. coli pemicu tifus dan diare."
+  },
+  {
+    "id": "pjo-k1-u12",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Ciri Makanan Sehat Bebas Pengawet Berbahaya",
+    "level": "sulit",
+    "question": "Ciri makanan olahan basah yang aman dikonsumsi dan bebas dari zat kimia berbahaya formalin/boraks adalah ...",
+    "options": [
+      "Teksturnya wajar tidak terlalu kenyal membal seperti karet dan memiliki aroma alami",
+      "Bisa bertahan berbulan-bulan di udara terbuka tanpa basi",
+      "Warnanya menyala mencolok berpendar",
+      "Tidak pernah dihinggapi semut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Makanan alami memiliki masa simpan wajar dan tidak berbau bahan kimia menyengat."
+  },
+  {
+    "id": "pjo-k1-u13",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Latihan Kelenturan Otot Pinggang",
+    "level": "sulit",
+    "question": "Gerakan mencium lutut dari posisi duduk selonjor lurus di atas matras bermanfaat untuk melatih kelenturan otot ...",
+    "options": [
+      "Punggung, pinggang, dan paha bagian belakang (hamstring)",
+      "Leher depan",
+      "Jari tangan",
+      "Tulang hidung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mencium lutut meregangkan fleksibilitas otot vertebra punggung dan hamstring."
+  },
+  {
+    "id": "pjo-k1-u14",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Latihan Kekuatan Otot Lengan Gerak Merayap",
+    "level": "sulit",
+    "question": "Gerakan merayap di bawah jaring rintangan melatih kekuatan otot ...",
+    "options": [
+      "Lengan tangan, bahu, dan tungkai kaki",
+      "Gigi dan lidah",
+      "Rambut",
+      "Telinga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merayap melibatkan koordinasi gaya dorong tungkai dan tarikan lengan bahu."
+  },
+  {
+    "id": "pjo-k1-u15",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Tata Tertib Keselamatan di Lapangan Olahraga",
+    "level": "sulit",
+    "question": "Sebelum memulai kegiatan olahraga lari cepat di lapangan rumput, murid harus memeriksa permukaan lapangan untuk memastikan ...",
+    "options": [
+      "Tidak ada pecahan kaca, batu runcing, atau lubang yang dapat membahayakan kaki",
+      "Ada genangan lumpur yang dalam",
+      "Banyak duri rumput",
+      "Permukaannya licin berminyak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Memeriksa arena bermain mencegah risiko luka robek dan patah tulang."
+  },
+  {
+    "id": "pjo-k1-u16",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Sikap Menghargai Giliran Bermain",
+    "level": "sulit",
+    "question": "Saat bermain perosotan di taman bermain sekolah, sikap aman yang benar adalah ...",
+    "options": [
+      "Mengantre dari tangga perosotan dan meluncur setelah teman di bawah sudah berdiri aman",
+      "Mendorong teman yang sedang bersiap di atas perosotan",
+      "Memanjat dari arah papan seluncuran depan",
+      "Meluncur bertumpukan beramai-ramai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disiplin mengantre mencegah kecelakaan tubrukan pada anak."
+  },
+  {
+    "id": "pjo-k1-u17",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pentingnya Menggunakan Sepatu Olahraga Pas",
+    "level": "sulit",
+    "question": "Menggunakan sepatu olahraga yang ukurannya pas di kaki dan bertali kencang bertujuan untuk ...",
+    "options": [
+      "Mencegah cedera terkilir pada pergelangan kaki dan lecet kulit",
+      "Membuat kaki terasa sempit sakit",
+      "Agar sepatu tidak bisa dilepas selamanya",
+      "Supaya bisa berlari tanpa menyentuh tanah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sepatu pas menopang arkus telapak kaki dan menstabilkan pergelangan kaki."
+  },
+  {
+    "id": "pjo-k1-u18",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Bahaya Membawa Benda Tajam Saat Berolahraga",
+    "level": "sulit",
+    "question": "Siswa dilarang menyimpan benda tajam (seperti gunting, jangka, atau penggaris besi runcing) di dalam saku celana saat olahraga karena ...",
+    "options": [
+      "Dapat menusuk dan melukai paha tubuh saat terjatuh atau melompat",
+      "Membuat kantong celana robek saja",
+      "Membuat lari menjadi terlalu cepat",
+      "Benda tersebut bisa patah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benda runcing di saku berisiko menusuk organ tubuh saat benturan fisik."
+  },
+  {
+    "id": "pjo-k1-u19",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Pentingnya Sarapan Pagi Sebelum Sekolah",
+    "level": "sulit",
+    "question": "Murid yang tidak sarapan pagi sebelum berangkat sekolah rentan mengalami kondisi ...",
+    "options": [
+      "Hipoglikemia (lemas, pusing, dan sulit berkonsentrasi saat belajar)",
+      "Badan terasa sangat segar bertenaga",
+      "Dapat berpikir dua kali lebih cepat",
+      "Mata menjadi sangat tajam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sarapan pagi menyediakan glukosa esensial bagi fungsi kognitif otak."
+  },
+  {
+    "id": "pjo-k1-u20",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Manfaat Menjemur Kasur di Bawah Terik Matahari",
+    "level": "sulit",
+    "question": "Menjemur kasur dan bantal kapuk di bawah panas matahari secara berkala bermanfaat untuk ...",
+    "options": [
+      "Membunuh tungau debu rumah dan jamur penyebab alergi kulit gatal",
+      "Membuat kasur menjadi basah",
+      "Menghilangkan warna kasur",
+      "Menambah debu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinar UV panas matahari membasmi tungau mikroskopis pemicu asma dan gatal."
+  },
+  {
+    "id": "pjo-k1-u21",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Menjaga Ventilasi Udara Kamar Tidur",
+    "level": "sulit",
+    "question": "Membuka jendela kamar tidur di pagi hari bertujuan agar terjadi pertukaran udara segar sehingga kamar ...",
+    "options": [
+      "Mendapatkan oksigen segar dan tidak pengap berbau lembap",
+      "Kemasukan banyak debu jalanan",
+      "Menjadi sarang laba-laba",
+      "Selalu gelap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sirkulasi udara mengganti karbon dioksida kamar dengan udara kaya oksigen."
+  },
+  {
+    "id": "pjo-k1-u22",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Bahaya Menahan Buang Air Kecil (Kencing)",
+    "level": "sulit",
+    "question": "Kebiasaan buruk sering menahan buang air kecil saat jam pelajaran di sekolah dapat memicu penyakit ...",
+    "options": [
+      "Infeksi saluran kemih (anyang-anyangan)",
+      "Penyakit gigi berlubang",
+      "Batuk pilek menahun",
+      "Kaki terkilir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Urine yang tertahan di kandung kemih menjadi media perkembangbiakan bakteri infeksi."
+  },
+  {
+    "id": "pjo-k1-u23",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Adab Makan yang Baik untuk Pencernaan",
+    "level": "sulit",
+    "question": "Mengunyah makanan secara perlahan sampai lumat lembut di mulut sebelum ditelan bermanfaat untuk ...",
+    "options": [
+      "Meringankan kerja organ lambung dan mengoptimalkan penyerapan sari makanan",
+      "Membuat makanan tidak terasa enak",
+      "Memperpanjang jam makan hingga larut",
+      "Menghabiskan air liur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mastikasi mekanis air liur mempermudah kinerja enzim digestif saluran pencernaan."
+  },
+  {
+    "id": "pjo-k1-u24",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Permainan Tradisional Engklek (Lompat Kotak)",
+    "level": "sulit",
+    "question": "Permainan tradisional engklek (sunda manda) yang dimainkan dengan melompati kotak-kotak petak tanah menggunakan satu kaki melatih ...",
+    "options": [
+      "Kekuatan otot tungkai kaki, keseimbangan, dan ketangkasan anak",
+      "Kecepatan mengayuh sepeda",
+      "Kekuatan pernapasan dada",
+      "Ketajaman indera pendengaran"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Engklek melatih tumpuan kaki tunggal dan kelincahan motorik kasar."
+  },
+  {
+    "id": "pjo-k1-u25",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Permainan Tradisional Ular Naga",
+    "level": "sulit",
+    "question": "Nilai karakter sosial yang dikembangkan saat bermain permainan tradisional 'Ular Naga Panjang' bersama teman sekelas adalah ...",
+    "options": [
+      "Kekompakan, sportivitas, dan kegembiraan bermain bersama",
+      "Persaingan memusuhi teman",
+      "Keinginan menyakiti regu lawan",
+      "Kecurangan sembunyi-sembunyi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permainan komunal menumbuhkan sosialisasi dan sportivitas ceria."
+  },
+  {
+    "id": "pjo-k1-u26",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Bahaya Bermain Game Online Berlebihan Tanpa Gerak",
+    "level": "sulit",
+    "question": "Anak yang menghabiskan waktu berjam-jam duduk diam bermain game di ponsel tanpa berolahraga berisiko mengalami ...",
+    "options": [
+      "Obesitas (kegemukan berlebih) dan melemahnya kebugaran otot jantung",
+      "Tubuh bertambah tinggi dan kekar",
+      "Menjadi juara atletik",
+      "Tulang menjadi sangat kuat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sedentary lifestyle (gaya hidup malas gerak) memicu obesitas dini dan kelesuan fisik."
+  },
+  {
+    "id": "pjo-k1-u27",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Gerakan Meliukkan Badan",
+    "level": "sulit",
+    "question": "Gerakan meliukkan tubuh ke kanan dan ke kiri secara ritmis melatih fleksibilitas otot ...",
+    "options": [
+      "Pinggang dan persendian tulang belakang",
+      "Betis kaki bagian bawah",
+      "Jari kelingking",
+      "Tulang pipi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meliukkan badan melatih mobilitas sendi thoracolumbar."
+  },
+  {
+    "id": "pjo-k1-u28",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Penyebab Terjadinya Keseleo (Sprain)",
+    "level": "sulit",
+    "question": "Keseleo atau terkilir pada sendi pergelangan kaki saat berlari terjadi apabila ligamen sendi mengalami ...",
+    "options": [
+      "Peregangan atau robekan akibat salah posisi mendarat atau tumpuan terpeleset",
+      "Kekurangan asupan zat gula",
+      "Patah tulang utuh",
+      "Kenaikan suhu tubuh mendadak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sprain adalah cedera ligamen penyangga persendian akibat torsi berlebih."
+  },
+  {
+    "id": "pjo-k1-u29",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Menjaga Kebersihan Bak Mandi dari Nyamuk",
+    "level": "sulit",
+    "question": "Menguras dan menyikat bak mandi seminggu sekali merupakan bagian dari gerakan 3M Plus untuk mencegah penularan penyakit ...",
+    "options": [
+      "Demam Berdarah Dengue (DBD)",
+      "Penyakit flu burung",
+      "Penyakit cacar air",
+      "Sakit mata merah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menguras bak memusnahkan jentik nyamuk Aedes aegypti."
+  },
+  {
+    "id": "pjo-k1-u30",
+    "grade": 1,
+    "subject": "pjok",
+    "topic": "Tindakan Benar Saat Tubuh Berkeringat Deras",
+    "level": "sulit",
+    "question": "Setelah selesai berolahraga berat dengan badan basah oleh keringat, tindakan yang tepat sebelum mandi air dingin adalah ...",
+    "options": [
+      "Mengelap keringat dengan handuk kering dan menunggu hingga suhu tubuh normal kembali",
+      "Langsung menceburkan diri ke air es dingin seketika",
+      "Memakai jaket wol tebal berbulu",
+      "Tidur di lantai semen dingin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menunggu suhu tubuh turun menstabilkan ritme denyut jantung dan pembuluh darah."
+  }
+]

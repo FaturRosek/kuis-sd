@@ -1,0 +1,962 @@
+[
+  {
+    "id": "sen-k1-m01",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Unsur Rupa Garis Lurus",
+    "level": "mudah",
+    "question": "Unsur seni rupa yang terbentuk dari goresan memanjang lurus tegak atau mendatar dinamakan ...",
+    "options": [
+      "Garis",
+      "Warna",
+      "Tekstur",
+      "Bunyi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Garis adalah goresan batas dari suatu benda atau bidang."
+  },
+  {
+    "id": "sen-k1-m02",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Tiga Warna Primer Pokok",
+    "level": "mudah",
+    "question": "Tiga warna primer (warna pokok) yang tidak dapat dihasilkan dari campuran warna lain adalah ...",
+    "options": [
+      "Merah, Kuning, dan Biru",
+      "Hitam, Putih, dan Abu-abu",
+      "Hijau, Oranye, dan Ungu",
+      "Cokelat, Emas, dan Perak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Warna primer adalah merah, kuning, dan biru."
+  },
+  {
+    "id": "sen-k1-m03",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Warna Campuran Hijau",
+    "level": "mudah",
+    "question": "Campuran antara warna biru dan warna kuning akan menghasilkan warna sekunder ...",
+    "options": [
+      "Hijau",
+      "Merah",
+      "Ungu",
+      "Hitam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biru + kuning = hijau."
+  },
+  {
+    "id": "sen-k1-m04",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Warna Campuran Oranye",
+    "level": "mudah",
+    "question": "Pencampuran antara cat warna merah dengan cat warna kuning menghasilkan warna ...",
+    "options": [
+      "Oranye (jingga)",
+      "Hijau",
+      "Ungu",
+      "Cokelat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merah + kuning = oranye (jingga)."
+  },
+  {
+    "id": "sen-k1-m05",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Warna Campuran Ungu",
+    "level": "mudah",
+    "question": "Campuran antara warna merah dan warna biru menghasilkan warna ...",
+    "options": [
+      "Ungu",
+      "Hijau",
+      "Oranye",
+      "Abu-abu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merah + biru = ungu (purple)."
+  },
+  {
+    "id": "sen-k1-m06",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bunyi Alami Alam",
+    "level": "mudah",
+    "question": "Contoh bunyi yang dihasilkan secara alami oleh alam tanpa alat buatan manusia adalah bunyi ...",
+    "options": [
+      "Deburan ombak laut dan hembusan angin",
+      "Klakson mobil",
+      "Peluit wasit",
+      "Gitar listrik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suara ombak dan angin adalah fenomena bunyi alami alam."
+  },
+  {
+    "id": "sen-k1-m07",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bunyi Buatan Manusia",
+    "level": "mudah",
+    "question": "Contoh bunyi buatan yang dihasilkan dari alat buatan manusia adalah suara ...",
+    "options": [
+      "Bel sekolah dan lonceng",
+      "Guntur halilintar",
+      "Kicau burung",
+      "Gemercik air hujan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bel dan lonceng dibunyikan oleh manusia."
+  },
+  {
+    "id": "sen-k1-m08",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Meniru Kupu-Kupu",
+    "level": "mudah",
+    "question": "Gerakan tari menirukan kupu-kupu terbang dilakukan dengan cara mengayunkan kedua tangan ke ...",
+    "options": [
+      "Atas dan ke bawah secara lembut",
+      "Depan secara kaku",
+      "Belakang punggung",
+      "Bawah lantai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mengayunkan kedua tangan lembut meniru kepakan sayap kupu-kupu."
+  },
+  {
+    "id": "sen-k1-m09",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Meniru Kelinci",
+    "level": "mudah",
+    "question": "Gerakan tari menirukan kelinci yang lincah dilakukan dengan cara melompat-lompat kecil sambil meletakkan kedua tangan di ...",
+    "options": [
+      "Atas kepala menirukan telinga kelinci",
+      "Saku celana",
+      "Belakang punggung",
+      "Lantai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Menaruh tangan di kepala menggambarkan telinga kelinci yang panjang."
+  },
+  {
+    "id": "sen-k1-m10",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bahan Alam Biji-Bijian",
+    "level": "mudah",
+    "question": "Contoh bahan alam yang dapat ditempelkan untuk membuat karya seni kolase hiasan adalah ...",
+    "options": [
+      "Biji jagung dan kacang hijau",
+      "Plastik kresek bekas",
+      "Kaca beling tajam",
+      "Kawat tembaga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biji jagung, beras, dan kacang hijau adalah bahan kolase alami."
+  },
+  {
+    "id": "sen-k1-s01",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Garis Lengkung Menggambar Bunga",
+    "level": "sedang",
+    "question": "Goresan garis yang meliuk menyerupai pelangi atau ombak dinamakan garis ...",
+    "options": [
+      "Lengkung",
+      "Lurus",
+      "Patah-patah",
+      "Putus-putus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Garis lengkung meliuk luwes meniru bentuk alami bunga dan ombak."
+  },
+  {
+    "id": "sen-k1-s02",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Garis Zig-Zag Petir",
+    "level": "sedang",
+    "question": "Garis patah-patah bersudut tajam yang menyerupai bentuk kilatan petir dinamakan garis ...",
+    "options": [
+      "Zig-zag",
+      "Lengkung",
+      "Lurus mendatar",
+      "Lingkaran"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Garis zig-zag adalah garis patah-patah bersudut tajam dinamis."
+  },
+  {
+    "id": "sen-k1-s03",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bidang Geometri Segitiga",
+    "level": "sedang",
+    "question": "Bentuk bidang datar yang dibatasi oleh tiga garis lurus yang saling terhubung dinamakan ...",
+    "options": [
+      "Segitiga",
+      "Lingkaran",
+      "Persegi panjang",
+      "Oval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segitiga dibentuk oleh tiga garis lurus yang berpotongan."
+  },
+  {
+    "id": "sen-k1-s04",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bidang Geometri Lingkaran",
+    "level": "sedang",
+    "question": "Bentuk bidang datar bundar yang tidak memiliki sudut sama sekali dinamakan ...",
+    "options": [
+      "Lingkaran",
+      "Segitiga",
+      "Persegi",
+      "Trapesium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lingkaran adalah bangun datar bundar bersudut nol."
+  },
+  {
+    "id": "sen-k1-s05",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Alat Menggambar Krayon",
+    "level": "sedang",
+    "question": "Pewarna gambar berbentuk batangan yang terbuat dari bahan lilin berwarna dinamakan ...",
+    "options": [
+      "Krayon (crayon)",
+      "Cat air",
+      "Spidol tinta",
+      "Pensil arang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Krayon terbuat dari lilin padat berpigmen warna."
+  },
+  {
+    "id": "sen-k1-s06",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Alat Mewarnai Pensil Warna",
+    "level": "sedang",
+    "question": "Pewarna yang ujungnya runcing berkayu dan sangat cocok untuk mewarnai bagian gambar yang sempit dan detail adalah ...",
+    "options": [
+      "Pensil warna",
+      "Kuas cat dinding",
+      "Krayon tebal",
+      "Kapur tulis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pensil warna memberikan arsiran presisi pada detail gambar."
+  },
+  {
+    "id": "sen-k1-s07",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bunyi Hewan Kucing",
+    "level": "sedang",
+    "question": "Bunyi suara hewan kucing yang mengeong lembut berbunyi ...",
+    "options": [
+      "Meong-meong",
+      "Kwek-kwek",
+      "Guk-guk",
+      "Kukuruyuk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kucing bersuara meong-meong."
+  },
+  {
+    "id": "sen-k1-s08",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bunyi Hewan Ayam Jantan",
+    "level": "sedang",
+    "question": "Bunyi kokok ayam jantan di pagi hari menyambut matahari terbit berbunyi ...",
+    "options": [
+      "Kukuruyuk",
+      "Petok-petok",
+      "Cicit-cuit",
+      "Moo-moo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kokok ayam jantan berbunyi kukuruyuk."
+  },
+  {
+    "id": "sen-k1-s09",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Panjang Pendek Bunyi Lagu",
+    "level": "sedang",
+    "question": "Dalam menyanyikan lagu anak, bunyi yang dinyanyikan lama dinamakan bunyi panjang, sedangkan yang dinyanyikan cepat dinamakan bunyi ...",
+    "options": [
+      "Pendek",
+      "Besar",
+      "Tinggi",
+      "Melengking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Irama musik tersusun dari variasi bunyi panjang dan bunyi pendek."
+  },
+  {
+    "id": "sen-k1-s10",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Tepuk Tangan Berirama",
+    "level": "sedang",
+    "question": "Menepuk kedua telapak tangan secara teratur mengikuti tempo ketukan lagu dinamakan ...",
+    "options": [
+      "Tepukan berirama (ritmik)",
+      "Sorak gaduh",
+      "Hentakan kaki",
+      "Siulan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tepukan berirama melatih kepekaan ritme ketukan birama."
+  },
+  {
+    "id": "sen-k1-s11",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Meniru Pohon Tertiyup Angin",
+    "level": "sedang",
+    "question": "Menirukan gerak pohon yang tertiup angin sepoi-sepoi dilakukan dengan meliukkan badan dan kedua lengan ke ...",
+    "options": [
+      "Kanan dan ke kiri secara gemulai",
+      "Depan membungkuk kaku",
+      "Bawah lantai",
+      "Atas melompat tinggi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Liukan tubuh gemulai meniru ranting dahan pohon melambai."
+  },
+  {
+    "id": "sen-k1-s12",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Meniru Katak Meloncat",
+    "level": "sedang",
+    "question": "Menirukan tarian gerak katak dilakukan dengan posisi awal jongkok lalu ...",
+    "options": [
+      "Meloncat ke depan dengan kedua kaki mengeper",
+      "Berjalan jinjit santai",
+      "Berlari kencang memutar",
+      "Tidur terlentang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loncat katak meniru gerak meloncat bertumpu dua kaki."
+  },
+  {
+    "id": "sen-k1-s13",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bahan Buatan Plastisin (Lilin Mainan)",
+    "level": "sedang",
+    "question": "Bahan lunak buatan berwarna-warni yang mudah dibentuk menjadi berbagai macam patung hewan kecil dinamakan ...",
+    "options": [
+      "Plastisin (lilin mainan)",
+      "Batu kali",
+      "Kayu jati",
+      "Besi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Plastisin adalah media lunak fleksibel untuk melatih motorik halus anak."
+  },
+  {
+    "id": "sen-k1-s14",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bahan Kolase Daun Kering",
+    "level": "sedang",
+    "question": "Daun-daun gugur yang berwarna kecokelatan di halaman sekolah dapat dikumpulkan dan digunting untuk membuat ...",
+    "options": [
+      "Kolase bahan alam",
+      "Mainan plastisin",
+      "Cat air",
+      "Krayon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kolase dedaunan kering memanfaatkan material rupa organik alami."
+  },
+  {
+    "id": "sen-k1-s15",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Lem Perekat Kertas",
+    "level": "sedang",
+    "question": "Bahan perekat yang digunakan untuk menempelkan potongan kertas atau biji-bijian pada gambar pola adalah ...",
+    "options": [
+      "Lem kertas",
+      "Minyak goreng",
+      "Air biasa",
+      "Bedak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lem merekatkan material kolase pada kertas gambar."
+  },
+  {
+    "id": "sen-k1-s16",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Alat Menggunting Kertas",
+    "level": "sedang",
+    "question": "Alat berbilah tajam dua sisi yang digunakan secara hati-hati untuk memotong pola kertas adalah ...",
+    "options": [
+      "Gunting",
+      "Penggaris",
+      "Penghapus",
+      "Pensil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gunting digunakan memotong bidang kertas dengan rapi."
+  },
+  {
+    "id": "sen-k1-s17",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Lagu Anak Kasih Ibu",
+    "level": "sedang",
+    "question": "Lagu anak 'Kasih Ibu' ciptaan SM Mochtar menceritakan tentang kasih sayang seorang ibu yang bagaikan ...",
+    "options": [
+      "Sang surya menyinari dunia",
+      "Bintang di langit tinggi",
+      "Bulan purnama",
+      "Air hujan lebat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Kasih ibu kepada beta, tak terhingga sepanjang masa, bagai sang surya menyinari dunia.'"
+  },
+  {
+    "id": "sen-k1-s18",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Lagu Anak Balonku",
+    "level": "sedang",
+    "question": "Dalam lagu anak 'Balonku Ada Lima', balon yang meletus dan membuat hatiku sangat kacau adalah balon berwarna ...",
+    "options": [
+      "Hijau",
+      "Kuning",
+      "Merah muda",
+      "Biru"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Meletus balon hijau, dor! Hatiku sangat kacau.'"
+  },
+  {
+    "id": "sen-k1-s19",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Sikap Tubuh Bernyanyi Santun",
+    "level": "sedang",
+    "question": "Saat menyanyikan lagu anak di depan kelas, sikap berdiri yang baik adalah ...",
+    "options": [
+      "Berdiri tegak, rileks, dan tersenyum ramah kepada penonton",
+      "Membelakangi penonton",
+      "Menunduk melihat lantai terus",
+      "Menutup wajah dengan tangan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sikap berdiri tegap percaya diri dan tersenyum memikat audiens."
+  },
+  {
+    "id": "sen-k1-s20",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Merapikan Alat Gambar Setelah Berkarya",
+    "level": "sedang",
+    "question": "Setelah selesai menggambar dan mewarnai dengan krayon, sikap anak yang tertib adalah ...",
+    "options": [
+      "Menyimpan krayon kembali ke kotaknya dan merapikan meja gambar",
+      "Membuang krayon ke lantai",
+      "Mencoret-coret meja sekolah",
+      "Meninggalkan sampah kertas berserakan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merapikan alat karya melatih kedisiplinan dan tanggung jawab."
+  },
+  {
+    "id": "sen-k1-u01",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Eksplorasi Gradasi Warna Primer ke Sekunder",
+    "level": "sulit",
+    "question": "Jika kamu menggoreskan krayon warna kuning lalu menimpanya tipis dengan krayon warna merah, maka pada bagian tindihan tersebut akan muncul warna baru yaitu warna ...",
+    "options": [
+      "Oranye (jingga)",
+      "Ungu tua",
+      "Hijau lumut",
+      "Hitam pekat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pencampuran mekanis krayon kuning dan merah menghasilkan efek gradasi oranye."
+  },
+  {
+    "id": "sen-k1-u02",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Perbedaan Bahan Alami dan Bahan Buatan",
+    "level": "sulit",
+    "question": "Perbedaan mendasar antara biji kedelai dan kancing baju plastik saat digunakan untuk menghias gambar adalah ...",
+    "options": [
+      "Biji kedelai berasal langsung dari alam ciptaan Tuhan, sedangkan kancing plastik buatan pabrik manusia",
+      "Biji kedelai harganya jutaan rupiah",
+      "Kancing plastik bisa dimakan",
+      "Keduanya berasal dari batu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bahan alam bersumber langsung dari tumbuhan/bumi, bahan sintetis dibuat pabrik."
+  },
+  {
+    "id": "sen-k1-u03",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Pola Ritme Birama Dua Ketukan",
+    "level": "sulit",
+    "question": "Pola ketukan teratur 'Prok - Prok - Dung, Prok - Prok - Dung' melatih kepekaan murid terhadap ritme ...",
+    "options": [
+      "Pola irama ketukan berulang",
+      "Kecepatan berlari",
+      "Kekuatan bernapas",
+      "Warna cat air"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pola ketukan berulang membentuk struktur irama lagu."
+  },
+  {
+    "id": "sen-k1-u04",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Ekspresi Emosi Wajah pada Gambar",
+    "level": "sulit",
+    "question": "Untuk menggambar wajah tokoh yang sedang tersenyum gembira, garis bentuk bibir yang tepat digambar adalah garis lengkung menghadap ke ...",
+    "options": [
+      "Atas melengkung tersenyum",
+      "Bawah cemberut",
+      "Garis lurus kaku",
+      "Garis zig-zag"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lengkungan bibir ke atas mengekspresikan senyuman bahagia."
+  },
+  {
+    "id": "sen-k1-u05",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Ekspresi Wajah Sedih pada Gambar",
+    "level": "sulit",
+    "question": "Garis lengkung bibir yang ditarik melengkung ke arah bawah mengekspresikan raut muka tokoh yang sedang ...",
+    "options": [
+      "Sedih atau kecewa",
+      "Tertawa gembira",
+      "Marah berteriak",
+      "Tidur pulas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bibir melengkung ke bawah menyimbolkan ekspresi sedih cemberut."
+  },
+  {
+    "id": "sen-k1-u06",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Teknik Mewarnai Satu Arah Rapi",
+    "level": "sulit",
+    "question": "Agar hasil goresan krayon pada gambar terlihat rata, padat, dan tidak berantakan keluar garis pola, teknik mewarnai yang dianjurkan adalah ...",
+    "options": [
+      "Mengarsir searah secara perlahan dan tidak menekan terlalu keras keluar garis tepi",
+      "Menggores acak ke segala arah",
+      "Mencoret-coret lembar kertas",
+      "Menekan krayon sampai patah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Goresan satu arah terkontrol menjaga kerapian bidang gambar."
+  },
+  {
+    "id": "sen-k1-u07",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Pewarnaan Bidang Gelap dan Terang",
+    "level": "sulit",
+    "question": "Memberikan warna biru tua pada bagian bawah dan biru muda pada bagian atas gambar langit menghasilkan kesan ...",
+    "options": [
+      "Gradasi warna kedalaman langit yang indah",
+      "Gambar menjadi rusak kotor",
+      "Kertas menjadi robek",
+      "Krayon habis sia-sia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gradasi gelap-terang memberikan dimensi visual dan kedalaman ruang artistik."
+  },
+  {
+    "id": "sen-k1-u08",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Tingkat Rendah Meniru Rumput",
+    "level": "sulit",
+    "question": "Gerakan tari yang dilakukan dengan posisi berlutut atau merendah di lantai sambil menggerakkan tubuh pelan meniru gerak rumput bergoyang termasuk gerakan level ...",
+    "options": [
+      "Rendah",
+      "Sedang",
+      "Tinggi",
+      "Melayang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gerak di dekat permukaan lantai dikategorikan sebagai level gerak rendah."
+  },
+  {
+    "id": "sen-k1-u09",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Tingkat Tinggi Melompat",
+    "level": "sulit",
+    "question": "Gerakan tari yang dilakukan dengan melompat ke udara atau berjinjit tinggi mengangkat kedua tangan ke atas tergolong gerak tari level ...",
+    "options": [
+      "Tinggi",
+      "Rendah",
+      "Sedang",
+      "Dasar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gerak jinjit atau melompat melayang adalah gerak tari level tinggi."
+  },
+  {
+    "id": "sen-k1-u10",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Bunyi Kuat dan Bunyi Lemah",
+    "level": "sulit",
+    "question": "Suara dentuman halilintar petir yang menggelegar termasuk contoh bunyi yang kuat, sedangkan suara hembusan nafas atau gesekan daun kering termasuk contoh bunyi yang ...",
+    "options": [
+      "Lemah (lembut)",
+      "Keras memekakkan",
+      "Sangat bising",
+      "Menyakitkan telinga"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dinamika bunyi membedakan intensitas kuat (loud) dan lemah (soft)."
+  },
+  {
+    "id": "sen-k1-u11",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Tekstur Halus Kertas Lipat",
+    "level": "sulit",
+    "question": "Permukaan kertas origami warna-warni saat diraba oleh telapak tangan terasa licin dan rata. Tekstur permukaan ini dinamakan tekstur ...",
+    "options": [
+      "Halus",
+      "Kasar bergerigi",
+      "Tajam",
+      "Berduri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kertas origami memiliki tekstur taktil yang halus dan rata."
+  },
+  {
+    "id": "sen-k1-u12",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Tekstur Kasar Kulit Buah Salak",
+    "level": "sulit",
+    "question": "Permukaan kulit buah salak yang bersisik tajam saat disentuh terasa tidak rata. Tekstur ini dinamakan tekstur ...",
+    "options": [
+      "Kasar",
+      "Halus lembut",
+      "Licin basah",
+      "Empuk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sisik buah salak memiliki tekstur taktil yang kasar berundak."
+  },
+  {
+    "id": "sen-k1-u13",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Kreasi Origami Melipat Kertas",
+    "level": "sulit",
+    "question": "Seni melipat selembar kertas persegi tanpa menggunakan gunting atau lem hingga membentuk burung bangau berasal dari tradisi ...",
+    "options": [
+      "Origami Jepang",
+      "Batik Indonesia",
+      "Kaligrafi Arab",
+      "Lukisan Barat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Origami adalah seni melipat kertas tradisional dari Jepang."
+  },
+  {
+    "id": "sen-k1-u14",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Pola Irama Lagu Burung Kakaktua",
+    "level": "sulit",
+    "question": "Lagu anak 'Burung Kakaktua' dinyanyikan dengan birama 3/4 yang memiliki tempo ketukan berirama ...",
+    "options": [
+      "Tiga ketukan dalam setiap ruas birama (1-2-3, 1-2-3)",
+      "Dua ketukan cepat",
+      "Empat ketukan mars",
+      "Satu ketukan saja"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Birama 3/4 memiliki 3 ketukan (waltz rhythm) per birama."
+  },
+  {
+    "id": "sen-k1-u15",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Lagu Nasional Bintang Kecil",
+    "level": "sulit",
+    "question": "Lagu anak 'Bintang Kecil' ciptaan R. Gerald Daljono dinyanyikan dengan tempo ceria yang melukiskan keindahan langit di ...",
+    "options": [
+      "Malam hari yang bertabur bintang gemerlap",
+      "Siang hari yang terik",
+      "Subuh yang gelap",
+      "Sore hari mendung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lagu 'Bintang Kecil di langit yang biru' menggambarkan indahnya langit malam."
+  },
+  {
+    "id": "sen-k1-u16",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Membuat Cap Cap Pelepah Pisang",
+    "level": "sulit",
+    "question": "Pelepah batang daun pisang dipotong melintang lalu dicelupkan ke piring berisi pewarna makanan dan dicapkan ke kertas gambar. Teknik berkarya seni rupa ini dinamakan teknik ...",
+    "options": [
+      "Mencetak cap (stempel grafis)",
+      "Mengukir batu",
+      "Menenun kain",
+      "Menyulam benang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cetak cap pelepah pisang menghasilkan cap pola tekstur alami berulang."
+  },
+  {
+    "id": "sen-k1-u17",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Teknik Cetak Sidik Jari (Fingerprint)",
+    "level": "sulit",
+    "question": "Ujung ibu jari yang ditempelkan ke bantalan cat air lalu dicapkan ke kertas putih dapat digambari kaki dan mata hingga membentuk hewan kura-kura kecil. Teknik ini dinamakan ...",
+    "options": [
+      "Cetak sidik jari (finger painting / fingerprint)",
+      "Menjiplak uang koin",
+      "Membatik tulis",
+      "Meronce manik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fingerprint art memanfaatkan motif alami cap sidik jari sebagai media rupa."
+  },
+  {
+    "id": "sen-k1-u18",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Seni Meronce Kalung Manik-Manik",
+    "level": "sulit",
+    "question": "Menyusun dan merangkai manik-manik atau bunga melati pada seutas benang menggunakan jarum tumpul hingga membentuk gelang atau kalung dinamakan seni ...",
+    "options": [
+      "Meronce",
+      "Menganyam",
+      "Membatik",
+      "Memahat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meronce adalah keterampilan menyusun benda berlubang pada seutas benang."
+  },
+  {
+    "id": "sen-k1-u19",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Seni Anyaman Kertas Sederhana",
+    "level": "sulit",
+    "question": "Menyusupkan bilah-bilah potongan kertas warna secara berselang-seling (atas-bawah) ke dalam kertas dasar berpola dinamakan seni ...",
+    "options": [
+      "Menganyam",
+      "Melukis cat minyak",
+      "Mencetak",
+      "Memahat patung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Anyaman kertas melatih koordinasi motorik memasukkan bilah berselang-seling."
+  },
+  {
+    "id": "sen-k1-u20",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Gerak Tari Meniru Gerak Ombak Beruntun",
+    "level": "sulit",
+    "question": "Sekelompok anak menari bersama dengan menggerakkan selendang biru naik turun secara bergantian menciptakan ilusi gerak alam berupa ...",
+    "options": [
+      "Gelombang ombak lautan yang bergulung",
+      "Api unggun berkobar",
+      "Gunung meletus",
+      "Mobil melaju kencang"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kain selendang biru yang digerakkan bergelombang menirukan riak ombak samudra."
+  },
+  {
+    "id": "sen-k1-u21",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Suara Tiruan Bunyi Hujan di Atas Genting",
+    "level": "sulit",
+    "question": "Dalam lagu anak 'Tik Tik Tik Bunyi Hujan', bunyi tetesan air hujan yang jatuh di atas genting ditirukan dengan bunyi ...",
+    "options": [
+      "Tik-tik-tik",
+      "Dor-dor-dor",
+      "Prok-prok-prok",
+      "Kring-kring-kring"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Tik tik tik bunyi hujan di atas genting, airnya turun tidak terkira.'"
+  },
+  {
+    "id": "sen-k1-u22",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Harmoni Warna pada Gambar Pemandangan",
+    "level": "sulit",
+    "question": "Untuk menggambar pemandangan alam sawah yang subur di kaki gunung, kombinasi warna yang paling serasi digunakan adalah warna ...",
+    "options": [
+      "Hijau muda padi, cokelat pematang, dan biru keabuan gunung",
+      "Hitam pekat, abu-abu, dan merah darah",
+      "Hanya satu warna putih polos",
+      "Kuning menyala di seluruh kertas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Harmoni warna alam hijau, cokelat, dan biru memancarkan kesejukan lanskap agraris."
+  },
+  {
+    "id": "sen-k1-u23",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Menjaga Kebersihan Tangan Saat Melukis Jari",
+    "level": "sulit",
+    "question": "Setelah selesai melakukan kegiatan finger painting (melukis dengan jari) menggunakan pasta warna, murid harus segera ...",
+    "options": [
+      "Mencuci tangan bersih dengan air mengalir dan sabun",
+      "Mengusap tangan kotor ke seragam sekolah",
+      "Menempelkan tangan kotor ke dinding kelas",
+      "Mengusap mata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mencuci tangan mencegah pasta pewarna mengotori pakaian atau tertelan."
+  },
+  {
+    "id": "sen-k1-u24",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Apresiasi Karya Gambar Teman Sebangku",
+    "level": "sulit",
+    "question": "Ketika melihat hasil lukisan teman sebangku yang indah dan rapi, sikap santun yang harus kita tunjukkan adalah ...",
+    "options": [
+      "Memuji keindahan karyanya dengan tulus dan memberikan semangat",
+      "Mencoret lukisan teman dengan spidol hitam",
+      "Merobek kertas gambar teman karena iri",
+      "Mengejek warna pilihannya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Apresiasi tulus memupuk rasa percaya diri dan persahabatan."
+  },
+  {
+    "id": "sen-k1-u25",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Pola Garis Tegak (Vertikal) Menggambar Pohon",
+    "level": "sulit",
+    "question": "Batang pohon kelapa yang menjulang tinggi ke atas digambar menggunakan unsur garis lurus arah ...",
+    "options": [
+      "Vertikal (tegak lurus)",
+      "Horizontal (mendatar)",
+      "Lingkaran bundar",
+      "Spiral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Garis vertikal melambangkan ketinggian, ketegasan, dan pertumbuhan kokoh ke atas."
+  },
+  {
+    "id": "sen-k1-u26",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Pola Garis Mendatar (Horizontal) Menggambar Laut",
+    "level": "sulit",
+    "question": "Garis batas air laut dengan langit di kejauhan (cakrawala/horizon) digambar menggunakan garis lurus ...",
+    "options": [
+      "Horizontal (mendatar)",
+      "Vertikal",
+      "Zig-zag",
+      "Lengkung patah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Garis horizontal memberikan kesan ketenangan, kedamaian, dan keluasan bentang alam."
+  },
+  {
+    "id": "sen-k1-u27",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Alat Musik Ritmis Triangle Besi",
+    "level": "sulit",
+    "question": "Alat musik ritmis sederhana dari batang besi berbentuk segitiga yang dipukul dengan stik pemukul logam menghasilkan suara gemerincing ting-ting dinamakan ...",
+    "options": [
+      "Triangle",
+      "Gendang besar",
+      "Rebana",
+      "Gong perunggu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangle adalah instrumen perkusi idiofon berbentuk segitiga besi."
+  },
+  {
+    "id": "sen-k1-u28",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Alat Musik Marakas Tabung Biji",
+    "level": "sulit",
+    "question": "Sepasang tabung berkepala bulat berisi butiran biji-bijian yang digoyang-goyangkan tangan menghasilkan suara berdesir dinamakan alat musik ...",
+    "options": [
+      "Marakas",
+      "Drum",
+      "Pianika",
+      "Seruling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Marakas menghasilkan bunyi berdesir saat partikel biji di dalam tabung bergetar."
+  },
+  {
+    "id": "sen-k1-u29",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Menyanyikan Lagu dengan Artikulasi Jelas",
+    "level": "sulit",
+    "question": "Agar lirik lagu anak yang kita nyanyikan dapat dipahami dan dinikmati dengan baik oleh pendengar, kita harus bernyanyi dengan artikulasi lafal yang ...",
+    "options": [
+      "Jelas dan membuka rongga mulut dengan baik",
+      "Bergumam menutup mulut rapat",
+      "Terlalu cepat tanpa henti",
+      "Berbisik sangat lirih"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Artikulasi vokal yang jelas dan bukaan mulut tepat menghasilkan nada yang merdu terdengar."
+  },
+  {
+    "id": "sen-k1-u30",
+    "grade": 1,
+    "subject": "seni-budaya",
+    "topic": "Keindahan Keseimbangan Simetri pada Gambar Kupu-Kupu",
+    "level": "sulit",
+    "question": "Sayap kiri dan sayap kanan kupu-kupu yang digambar memiliki bentuk pola dan warna yang sama persis di kedua sisi. Prinsip seni rupa ini dinamakan prinsip ...",
+    "options": [
+      "Keseimbangan simetris",
+      "Ketidakseimbangan acak",
+      "Kontras tajam",
+      "Gradasi gelap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Keseimbangan simetri (mirror symmetry) menciptakan keharmonisan visual yang seimbang."
+  }
+]

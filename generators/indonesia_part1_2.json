@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "bind-k1-m01",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Vokal",
+    "difficulty": "mudah",
+    "question": "Huruf vokal dalam abjad bahasa Indonesia adalah ...",
+    "options": [
+      "a, i, u, e, o",
+      "b, c, d, f, g",
+      "k, l, m, n, p",
+      "r, s, t, w, y"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huruf vokal (huruf hidup) ada 5 yaitu a, i, u, e, dan o."
+  },
+  {
+    "id": "bind-k1-m02",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Vokal pada Kata",
+    "difficulty": "mudah",
+    "question": "Huruf vokal pada kata 'buku' adalah ...",
+    "options": [
+      "b dan k",
+      "u",
+      "b dan u",
+      "k dan u"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huruf vokal pada b-u-k-u adalah huruf u."
+  },
+  {
+    "id": "bind-k1-m03",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Konsonan",
+    "difficulty": "mudah",
+    "question": "Huruf konsonan (huruf mati) yang terdapat pada kata 'meja' adalah ...",
+    "options": [
+      "m dan j",
+      "e dan a",
+      "m dan e",
+      "j dan a"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Huruf konsonan pada kata meja adalah m dan j."
+  },
+  {
+    "id": "bind-k1-m04",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Membaca Suku Kata",
+    "difficulty": "mudah",
+    "question": "Suku kata dari kata 'sekolah' jika dipenggal adalah ...",
+    "options": [
+      "se - ko - lah",
+      "sek - ol - ah",
+      "se - kol - ah",
+      "seko - lah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata sekolah dipenggal suku katanya menjadi se - ko - lah."
+  },
+  {
+    "id": "bind-k1-m05",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Membaca Suku Kata",
+    "difficulty": "mudah",
+    "question": "Gabungan huruf 'b - a' dan 'j - u' jika dibaca berbunyi ...",
+    "options": [
+      "Batu",
+      "Baju",
+      "Buku",
+      "Bolu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ba - ju dibaca baju."
+  },
+  {
+    "id": "bind-k1-m06",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Santun Tolong",
+    "difficulty": "mudah",
+    "question": "Saat membutuhkan bantuan orang lain, kata santun yang harus kita ucapkan adalah ...",
+    "options": [
+      "Tolong",
+      "Terima kasih",
+      "Maaf",
+      "Permisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata 'tolong' diucapkan saat meminta bantuan."
+  },
+  {
+    "id": "bind-k1-m07",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Santun Terima Kasih",
+    "difficulty": "mudah",
+    "question": "Setelah diberi hadiah atau ditolong teman, ucapan yang tepat adalah ...",
+    "options": [
+      "Maaf ya",
+      "Terima kasih",
+      "Tolong dong",
+      "Biar saja"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ucapan terima kasih adalah tanda syukur dan menghargai kebaikan orang lain."
+  },
+  {
+    "id": "bind-k1-m08",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Santun Maaf",
+    "difficulty": "mudah",
+    "question": "Jika kita tidak sengaja menyenggol pensil teman hingga jatuh, kita harus mengucapkan ...",
+    "options": [
+      "Terima kasih",
+      "Minta maaf",
+      "Tolong ambilkan",
+      "Tertawa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ucapkan maaf jika melakukan kesalahan tidak sengaja."
+  },
+  {
+    "id": "bind-k1-m09",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Santun Permisi",
+    "difficulty": "mudah",
+    "question": "Saat kita ingin berjalan lewat di depan guru yang sedang duduk, ucapan yang santun adalah ...",
+    "options": [
+      "Awas",
+      "Permisi",
+      "Minggir",
+      "Hai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ucapkan 'permisi' sambil membungkukkan badan."
+  },
+  {
+    "id": "bind-k1-m10",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Tanda Titik",
+    "difficulty": "mudah",
+    "question": "Kalimat berita yang menyatakan suatu peristiwa selalu diakhiri dengan tanda ...",
+    "options": [
+      "Titik (.)",
+      "Tanya (?)",
+      "Seru (!)",
+      "Koma (,)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalimat berita diakhiri dengan tanda baca titik."
+  },
+  {
+    "id": "bind-k1-s01",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Tanya",
+    "difficulty": "sedang",
+    "question": "Kalimat tanya selalu diakhiri dengan tanda baca ...",
+    "options": [
+      "Titik (.)",
+      "Tanya (?)",
+      "Seru (!)",
+      "Petik (\")"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kalimat tanya diakhiri dengan tanda tanya (?)."
+  },
+  {
+    "id": "bind-k1-s02",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Tanya 'Siapa'",
+    "difficulty": "sedang",
+    "question": "Kata tanya yang digunakan untuk menanyakan nama seseorang adalah ...",
+    "options": [
+      "Apa",
+      "Siapa",
+      "Di mana",
+      "Berapa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata 'siapa' digunakan untuk menanyakan orang/tokoh."
+  },
+  {
+    "id": "bind-k1-s03",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Tanya 'Di Mana'",
+    "difficulty": "sedang",
+    "question": "Kata tanya yang digunakan untuk menanyakan tempat keberadaan adalah ...",
+    "options": [
+      "Kapan",
+      "Di mana",
+      "Siapa",
+      "Mengapa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata 'di mana' digunakan untuk menanyakan tempat."
+  },
+  {
+    "id": "bind-k1-s04",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Kapital Awal Kalimat",
+    "difficulty": "sedang",
+    "question": "Huruf kapital (huruf besar) wajib digunakan pada ...",
+    "options": [
+      "Akhir kalimat",
+      "Awal kalimat",
+      "Tengah kata",
+      "Semua huruf"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Setiap awal kalimat harus diawali dengan huruf kapital."
+  },
+  {
+    "id": "bind-k1-s05",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Kapital Nama Orang",
+    "difficulty": "sedang",
+    "question": "Penulisan nama orang yang benar menggunakan huruf kapital adalah ...",
+    "options": [
+      "budi",
+      "Budi",
+      "bUdi",
+      "buDi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huruf pertama pada nama orang harus kapital (Budi)."
+  },
+  {
+    "id": "bind-k1-s06",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Menyusun Kata",
+    "difficulty": "sedang",
+    "question": "Susunan kata yang benar dari 'membaca - Doni - buku' adalah ...",
+    "options": [
+      "Buku membaca Doni",
+      "Doni membaca buku",
+      "Membaca Doni buku",
+      "Doni buku membaca"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Urutan subjek - predikat - objek: Doni membaca buku."
+  },
+  {
+    "id": "bind-k1-s07",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Menyusun Kata",
+    "difficulty": "sedang",
+    "question": "Susunan kata yang tepat dari 'menyiram - Siti - bunga' adalah ...",
+    "options": [
+      "Siti menyiram bunga",
+      "Bunga Siti menyiram",
+      "Menyiram bunga Siti",
+      "Siti bunga menyiram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Urutan yang bermakna tepat adalah: Siti menyiram bunga."
+  },
+  {
+    "id": "bind-k1-s08",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Lawan Kata Besar",
+    "difficulty": "sedang",
+    "question": "Lawan kata (antonim) dari kata 'besar' adalah ...",
+    "options": [
+      "Tinggi",
+      "Kecil",
+      "Luas",
+      "Panjang"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lawan kata besar adalah kecil."
+  },
+  {
+    "id": "bind-k1-s09",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Lawan Kata Bersih",
+    "difficulty": "sedang",
+    "question": "Lawan kata (antonim) dari kata 'bersih' adalah ...",
+    "options": [
+      "Rapi",
+      "Kotor",
+      "Indah",
+      "Wangi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lawan kata bersih adalah kotor."
+  },
+  {
+    "id": "bind-k1-s10",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Lawan Kata Tinggi",
+    "difficulty": "sedang",
+    "question": "Lawan kata (antonim) dari kata 'tinggi' adalah ...",
+    "options": [
+      "Besar",
+      "Pendek",
+      "Kecil",
+      "Jauh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lawan kata tinggi adalah pendek."
+  },
+  {
+    "id": "bind-k1-s11",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Sinonim Pintar",
+    "difficulty": "sedang",
+    "question": "Kata yang artinya sama (sinonim) dengan kata 'pintar' adalah ...",
+    "options": [
+      "Malas",
+      "Pandai",
+      "Lambat",
+      "Rajin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pintar bersinonim dengan pandai."
+  },
+  {
+    "id": "bind-k1-s12",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Sinonim Senang",
+    "difficulty": "sedang",
+    "question": "Kata yang artinya sama (sinonim) dengan kata 'senang' adalah ...",
+    "options": [
+      "Gembira",
+      "Sedih",
+      "Marah",
+      "Takut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Senang bersinonim dengan gembira."
+  },
+  {
+    "id": "bind-k1-s13",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Ajakan",
+    "difficulty": "sedang",
+    "question": "Kalimat ajakan biasanya diawali dengan kata ...",
+    "options": [
+      "Ayo atau Mari",
+      "Jangan",
+      "Tolong",
+      "Wah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata 'ayo' dan 'mari' digunakan untuk mengajak."
+  },
+  {
+    "id": "bind-k1-s14",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Contoh Kalimat Ajakan",
+    "difficulty": "sedang",
+    "question": "Manakah di bawah ini yang merupakan kalimat ajakan?",
+    "options": [
+      "Ayo kita bermain bola di lapangan!",
+      "Di mana rumahmu?",
+      "Budi sedang makan nasi goreng.",
+      "Tolong ambilkan penggaris itu."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diawali kata 'Ayo' yang mengajak teman bermain."
+  },
+  {
+    "id": "bind-k1-s15",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Membaca Gambar Benda",
+    "difficulty": "sedang",
+    "question": "Benda di kelas yang digunakan untuk menghapus tulisan pensil adalah ...",
+    "options": [
+      "Penggaris",
+      "Penghapus",
+      "Rautan",
+      "Gunting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penghapus digunakan membersihkan tulisan pensil."
+  },
+  {
+    "id": "bind-k1-s16",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Fungsi Panca Indra Mata",
+    "difficulty": "sedang",
+    "question": "Bagian tubuh panca indra yang kita gunakan untuk membaca buku adalah ...",
+    "options": [
+      "Telinga",
+      "Mata",
+      "Hidung",
+      "Lidah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mata berfungsi untuk melihat dan membaca."
+  },
+  {
+    "id": "bind-k1-s17",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Fungsi Panca Indra Telinga",
+    "difficulty": "sedang",
+    "question": "Kita mendengarkan penjelasan guru di kelas menggunakan ...",
+    "options": [
+      "Mata",
+      "Telinga",
+      "Hidung",
+      "Tangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telinga berfungsi untuk mendengar."
+  },
+  {
+    "id": "bind-k1-s18",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Merapikan Benda",
+    "difficulty": "sedang",
+    "question": "Setelah selesai belajar, buku dan pensil harus kita masukkan ke dalam ...",
+    "options": [
+      "Tempat sampah",
+      "Tas sekolah",
+      "Bawah kasur",
+      "Lantai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alat tulis dirapikan di dalam tas sekolah."
+  },
+  {
+    "id": "bind-k1-s19",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kegiatan di Sekolah",
+    "difficulty": "sedang",
+    "question": "Tempat di sekolah untuk membaca dan meminjam berbagai macam buku adalah ...",
+    "options": [
+      "Kantin",
+      "Perpustakaan",
+      "UKS",
+      "Lapangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Perpustakaan adalah tempat membaca dan meminjam buku."
+  },
+  {
+    "id": "bind-k1-s20",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Tanya Usia",
+    "difficulty": "sedang",
+    "question": "Kata tanya yang tepat untuk menanyakan jumlah umur adalah ...",
+    "options": [
+      "Siapa",
+      "Berapa",
+      "Apa",
+      "Ke mana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata 'berapa' digunakan untuk menanyakan jumlah/angka."
+  },
+  {
+    "id": "bind-k1-u01",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Pemahaman Bacaan Tokoh",
+    "difficulty": "sulit",
+    "question": "Bacalah: 'Kancil sedang minum di tepi sungai. Tiba-tiba Buaya muncul di depannya.' Tokoh yang sedang minum adalah ...",
+    "options": [
+      "Kancil",
+      "Buaya",
+      "Gajah",
+      "Kura-kura"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pada teks tertulis jelas bahwa Kancil sedang minum di sungai."
+  },
+  {
+    "id": "bind-k1-u02",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Pemahaman Bacaan Tempat",
+    "difficulty": "sulit",
+    "question": "Berdasarkan bacaan tadi (Kancil sedang minum di tepi sungai), di manakah tempat peristiwa terjadi?",
+    "options": [
+      "Di hutan belantara",
+      "Di tepi sungai",
+      "Di dalam gua",
+      "Di kebun mentimun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Peristiwa terjadi di tepi sungai."
+  },
+  {
+    "id": "bind-k1-u03",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Urutan Cerita 1",
+    "difficulty": "sulit",
+    "question": "Urutan kegiatan pagi: (1) Sarapan pagi, (2) Bangun tidur, (3) Mandi pagi. Urutan yang paling tepat adalah ...",
+    "options": [
+      "(1) - (2) - (3)",
+      "(2) - (3) - (1)",
+      "(3) - (2) - (1)",
+      "(2) - (1) - (3)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bangun tidur (2) -> Mandi pagi (3) -> Sarapan pagi (1)."
+  },
+  {
+    "id": "bind-k1-u04",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Urutan Menanam Biji",
+    "difficulty": "sulit",
+    "question": "Urutan menanam bunga: (1) Menyiram tanaman, (2) Memasukkan tanah ke pot, (3) Menanam biji. Urutan yang tepat adalah ...",
+    "options": [
+      "(2) - (3) - (1)",
+      "(1) - (2) - (3)",
+      "(3) - (2) - (1)",
+      "(2) - (1) - (3)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tanah dimasukkan (2) -> Biji ditanam (3) -> Disiram (1)."
+  },
+  {
+    "id": "bind-k1-u05",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Teka-teki Benda",
+    "difficulty": "sulit",
+    "question": "Benda ini berkaki empat, terbuat dari kayu, pasangannya meja, digunakan untuk duduk. Benda apakah itu?",
+    "options": [
+      "Lemari",
+      "Kursi",
+      "Pintu",
+      "Papan tulis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kursi digunakan untuk duduk dan pasangannya meja."
+  },
+  {
+    "id": "bind-k1-u06",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Teka-teki Benda Kelas",
+    "difficulty": "sulit",
+    "question": "Aku berwarna putih atau hitam, menempel di dinding depan kelas, digunakan guru untuk menulis. Aku adalah ...",
+    "options": [
+      "Jendela",
+      "Papan tulis",
+      "Pintu",
+      "Foto presiden"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Papan tulis berada di depan kelas untuk menulis materi pelajaran."
+  },
+  {
+    "id": "bind-k1-u07",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Membedakan Kalimat Perintah",
+    "difficulty": "sulit",
+    "question": "Kalimat yang berisi perintah atau suruhan diakhiri tanda seru adalah ...",
+    "options": [
+      "Tolong tutup pintu itu!",
+      "Apakah kamu sudah makan?",
+      "Hari ini cuaca sangat cerah.",
+      "Doni anak yang pintar."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalimat perintah meminta seseorang melakukan sesuatu dan diakhiri tanda seru (!)."
+  },
+  {
+    "id": "bind-k1-u08",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Membedakan Kalimat Larangan",
+    "difficulty": "sulit",
+    "question": "Kalimat larangan biasanya diawali dengan kata ...",
+    "options": [
+      "Ayo",
+      "Jangan",
+      "Silakan",
+      "Boleh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata 'jangan' digunakan untuk melarang melakukan sesuatu."
+  },
+  {
+    "id": "bind-k1-u09",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Contoh Kalimat Larangan",
+    "difficulty": "sulit",
+    "question": "Manakah di bawah ini yang merupakan kalimat larangan?",
+    "options": [
+      "Jangan membuang sampah sembarangan!",
+      "Mari kita bernyanyi bersama!",
+      "Di mana bukumu?",
+      "Ibu sedang memasak sup."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diawali kata 'Jangan' yang melarang membuang sampah sembarangan."
+  },
+  {
+    "id": "bind-k1-u10",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Pujian",
+    "difficulty": "sulit",
+    "question": "Ucapan pujian yang baik saat melihat lukisan teman yang sangat indah adalah ...",
+    "options": [
+      "Wah, lukisanmu bagus sekali!",
+      "Lukisanmu biasa saja.",
+      "Jangan melukis lagi ya.",
+      "Ambilkan cat itu!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pujian disampaikan dengan sopan dan memberi semangat."
+  },
+  {
+    "id": "bind-k1-u11",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Petunjuk",
+    "difficulty": "sulit",
+    "question": "'Cucilah tanganmu dengan sabun dan air mengalir.' Kalimat tersebut termasuk jenis kalimat ...",
+    "options": [
+      "Tanya",
+      "Petunjuk",
+      "Ajakan",
+      "Keluhan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Menunjukkan langkah atau cara menjaga kebersihan tangan."
+  },
+  {
+    "id": "bind-k1-u12",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Pemisahan Kata Berdasarkan Makna",
+    "difficulty": "sulit",
+    "question": "Kelompok kata yang semuanya merupakan nama-nama buah adalah ...",
+    "options": [
+      "Bayam, kangkung, wortel",
+      "Mangga, apel, pisang",
+      "Kucing, kambing, ayam",
+      "Meja, kursi, lemari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mangga, apel, dan pisang adalah jenis buah-buahan."
+  },
+  {
+    "id": "bind-k1-u13",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kelompok Sayuran",
+    "difficulty": "sulit",
+    "question": "Kelompok kata yang semuanya merupakan nama sayuran adalah ...",
+    "options": [
+      "Bayam, kangkung, wortel",
+      "Jeruk, apel, pepaya",
+      "Buku, pensil, tas",
+      "Sapi, kerbau, kambing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bayam, kangkung, dan wortel adalah jenis sayuran."
+  },
+  {
+    "id": "bind-k1-u14",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Bunyi Hewan Ayam",
+    "difficulty": "sulit",
+    "question": "Ayam jantan di pagi hari bersuara ...",
+    "options": [
+      "Kukuruyuk",
+      "Meong-meong",
+      "Mbeee-mbee",
+      "Kwek-kwek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ayam jantan berkokok berbunyi kukuruyuk."
+  },
+  {
+    "id": "bind-k1-u15",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Bunyi Hewan Kucing",
+    "difficulty": "sulit",
+    "question": "Hewan kucing mengeong dengan bunyi suara ...",
+    "options": [
+      "Mbeee-mbeee",
+      "Meong-meong",
+      "Kukuruyuk",
+      "Cit-cit-cit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kucing bersuara meong-meong."
+  },
+  {
+    "id": "bind-k1-u16",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Perasaan dalam Cerita",
+    "difficulty": "sulit",
+    "question": "Lani kehilangan boneka kesayangannya. Perasaan yang dirasakan Lani adalah ...",
+    "options": [
+      "Senang",
+      "Sedih",
+      "Gembira",
+      "Bangga"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kehilangan barang kesayangan menimbulkan rasa sedih."
+  },
+  {
+    "id": "bind-k1-u17",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Perasaan Mendapat Hadiah",
+    "difficulty": "sulit",
+    "question": "Edo mendapat nilai seratus dan dipuji guru. Perasaan Edo adalah ...",
+    "options": [
+      "Sedih",
+      "Gembira dan bangga",
+      "Takut",
+      "Marah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mendapat nilai bagus membuat hati gembira."
+  },
+  {
+    "id": "bind-k1-u18",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Melengkapi Kalimat",
+    "difficulty": "sulit",
+    "question": "'Ibu sedang ... sayur bayam di dapur.' Kata yang tepat untuk melengkapi adalah ...",
+    "options": [
+      "Menulis",
+      "Memasak",
+      "Mencuci piring",
+      "Menyiram"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ibu memasak sayur di dapur."
+  },
+  {
+    "id": "bind-k1-u19",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Melengkapi Kalimat",
+    "difficulty": "sulit",
+    "question": "'Ayah ... koran di teras rumah.' Kata yang tepat untuk melengkapi kalimat tersebut adalah ...",
+    "options": [
+      "Membaca",
+      "Memotong",
+      "Memasak",
+      "Menyapu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Koran adalah bahan bacaan, maka kata yang tepat membaca."
+  },
+  {
+    "id": "bind-k1-u20",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Melengkapi Kalimat",
+    "difficulty": "sulit",
+    "question": "'Budi menyikat ... sebelum tidur.' Kata yang tepat untuk melengkapi adalah ...",
+    "options": [
+      "Rambut",
+      "Gigi",
+      "Kaki",
+      "Tangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sebelum tidur kita wajib menyikat gigi agar tidak berlubang."
+  },
+  {
+    "id": "bind-k1-u21",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Diftong",
+    "difficulty": "sulit",
+    "question": "Gabungan huruf vokal 'ai' terdapat pada kata ...",
+    "options": [
+      "Pantai",
+      "Pulau",
+      "Kacau",
+      "Harimau"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata pan-tai memiliki diftong 'ai' di akhir kata."
+  },
+  {
+    "id": "bind-k1-u22",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Diftong 'au'",
+    "difficulty": "sulit",
+    "question": "Gabungan huruf vokal 'au' terdapat pada kata ...",
+    "options": [
+      "Sungai",
+      "Danau",
+      "Tupai",
+      "Rantai"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata da-nau diakhiri huruf diftong 'au'."
+  },
+  {
+    "id": "bind-k1-u23",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kosa Kata Kerabat",
+    "difficulty": "sulit",
+    "question": "Saudara laki-laki yang lebih tua dari kita dipanggil ...",
+    "options": [
+      "Adik",
+      "Kakak",
+      "Paman",
+      "Kakek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kakak adalah panggilan untuk saudara yang lebih tua."
+  },
+  {
+    "id": "bind-k1-u24",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kosa Kata Kerabat",
+    "difficulty": "sulit",
+    "question": "Orang tua laki-laki dari ayah atau ibu kita panggil dengan sebutan ...",
+    "options": [
+      "Paman",
+      "Kakek",
+      "Ayah",
+      "Abang"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayah dari orang tua kita adalah kakek."
+  },
+  {
+    "id": "bind-k1-u25",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Kosa Kata Kerabat",
+    "difficulty": "sulit",
+    "question": "Orang tua perempuan dari ayah atau ibu kita panggil dengan sebutan ...",
+    "options": [
+      "Bibi",
+      "Nenek",
+      "Ibu",
+      "Kakak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ibu dari orang tua kita adalah nenek."
+  },
+  {
+    "id": "bind-k1-u26",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Sikap Mendengarkan",
+    "difficulty": "sulit",
+    "question": "Saat teman sedang bercerita di depan kelas, sikap kita yang baik adalah ...",
+    "options": [
+      "Bercanda sendiri",
+      "Mendengarkan dengan tertib",
+      "Tidur di meja",
+      "Berlari ke luar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mendengarkan dengan tertib menghargai teman yang berbicara."
+  },
+  {
+    "id": "bind-k1-u27",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Penggunaan Huruf Kapital Nama Hari",
+    "difficulty": "sulit",
+    "question": "Penulisan nama hari yang benar adalah ...",
+    "options": [
+      "hari senin",
+      "Hari senin",
+      "hari Senin",
+      "Hari Senin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nama hari diawali huruf kapital: Senin."
+  },
+  {
+    "id": "bind-k1-u28",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Penggunaan Huruf Kapital Kota",
+    "difficulty": "sulit",
+    "question": "Penulisan nama kota asal yang benar adalah ...",
+    "options": [
+      "jakarta",
+      "Jakarta",
+      "jAkarta",
+      "jakartA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nama kota diawali huruf kapital: Jakarta."
+  },
+  {
+    "id": "bind-k1-u29",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Tanda Baca Seru",
+    "difficulty": "sulit",
+    "question": "Tanda seru (!) digunakan pada akhir kalimat ...",
+    "options": [
+      "Tanya",
+      "Perintah",
+      "Berita",
+      "Biasa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tanda seru digunakan untuk kalimat perintah atau ajakan berseru."
+  },
+  {
+    "id": "bind-k1-u30",
+    "grade": 1,
+    "subject": "bahasa-indonesia",
+    "topic": "Pesan Bersih Pangkal Pandai",
+    "difficulty": "sulit",
+    "question": "Arti dari ungkapan 'Kebersihan pangkal kesehatan' adalah ...",
+    "options": [
+      "Orang bersih pasti kaya",
+      "Jika lingkungan bersih badan akan sehat",
+      "Membersihkan rumah butuh uang",
+      "Sakit karena bersih"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lingkungan yang bersih menjauhkan kita dari penyakit sehingga badan sehat."
+  },
+  {
+    "id": "bind-k2-m01",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Kapital Awal",
+    "difficulty": "mudah",
+    "question": "Huruf kapital selalu digunakan pada huruf pertama ...",
+    "options": [
+      "Awal kalimat",
+      "Tengah kata",
+      "Akhir kalimat",
+      "Setiap huruf"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Awal kalimat wajib diawali huruf kapital."
+  },
+  {
+    "id": "bind-k2-m02",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Kapital Nama Orang",
+    "difficulty": "mudah",
+    "question": "Penulisan nama orang berikut yang paling tepat adalah ...",
+    "options": [
+      "siti nurhaliza",
+      "Siti Nurhaliza",
+      "siti Nurhaliza",
+      "Siti nurhaliza"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nama orang ditulis diawali huruf kapital di tiap katanya."
+  },
+  {
+    "id": "bind-k2-m03",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Tanda Tanya",
+    "difficulty": "mudah",
+    "question": "'Kapan paman datang dari Surabaya ...' Tanda baca yang tepat untuk mengakhiri kalimat tersebut adalah ...",
+    "options": [
+      "Titik (.)",
+      "Koma (,)",
+      "Tanya (?)",
+      "Seru (!)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kalimat tanya menanyakan waktu 'kapan' diakhiri tanda tanya (?)."
+  },
+  {
+    "id": "bind-k2-m04",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Hubung Dan",
+    "difficulty": "mudah",
+    "question": "Kata hubung yang digunakan untuk menggabungkan dua benda setara adalah ...",
+    "options": [
+      "Dan",
+      "Tetapi",
+      "Atau",
+      "Karena"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata 'dan' menyatakan penambahan yang setara."
+  },
+  {
+    "id": "bind-k2-m05",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Sinonim Cantik",
+    "difficulty": "mudah",
+    "question": "Sinonim (persamaan kata) dari kata 'cantik' adalah ...",
+    "options": [
+      "Elok / Indah",
+      "Kotor",
+      "Buruk",
+      "Kasar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cantik bermakna serupa dengan elok atau molek."
+  },
+  {
+    "id": "bind-k2-m06",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Sinonim Pandai",
+    "difficulty": "mudah",
+    "question": "Sinonim dari kata 'pandai' adalah ...",
+    "options": [
+      "Malas",
+      "Pintar",
+      "Lambat",
+      "Bodoh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pandai bersinonim dengan pintar."
+  },
+  {
+    "id": "bind-k2-m07",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Antonim Rajin",
+    "difficulty": "mudah",
+    "question": "Antonim (lawan kata) dari kata 'rajin' adalah ...",
+    "options": [
+      "Pintar",
+      "Malas",
+      "Giat",
+      "Tekun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lawan kata rajin adalah malas."
+  },
+  {
+    "id": "bind-k2-m08",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Antonim Cepat",
+    "difficulty": "mudah",
+    "question": "Antonim dari kata 'cepat' adalah ...",
+    "options": [
+      "Lambat",
+      "Lari",
+      "Gesit",
+      "Tangkas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lawan kata cepat adalah lambat."
+  },
+  {
+    "id": "bind-k2-m09",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Dongeng Fabel",
+    "difficulty": "mudah",
+    "question": "Cerita dongeng fiksi yang menceritakan kehidupan hewan yang bertingkah seperti manusia disebut cerita ...",
+    "options": [
+      "Fabel",
+      "Legenda",
+      "Mite",
+      "Sage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fabel adalah dongeng tentang binatang."
+  },
+  {
+    "id": "bind-k2-m10",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Dongeng Kancil",
+    "difficulty": "mudah",
+    "question": "Dongeng 'Kancil dan Buaya' termasuk jenis dongeng ...",
+    "options": [
+      "Fabel",
+      "Sejarah",
+      "Biografi",
+      "Puisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karena tokohnya hewan (kancil dan buaya), maka tergolong fabel."
+  },
+  {
+    "id": "bind-k2-s01",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Awalan me-",
+    "difficulty": "sedang",
+    "question": "Kata dasar 'siram' jika diberi awalan me- berubah menjadi ...",
+    "options": [
+      "Mesiram",
+      "Menyiram",
+      "Mengsiram",
+      "Mensiram"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Awalan me- bertemu huruf 's' meluluhkan 's' menjadi meny- (menyiram)."
+  },
+  {
+    "id": "bind-k2-s02",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Awalan me-",
+    "difficulty": "sedang",
+    "question": "Kata dasar 'sapu' jika diberi awalan me- berubah menjadi ...",
+    "options": [
+      "Mesapu",
+      "Mensapu",
+      "Menyapu",
+      "Mengsapu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Awalan me- bertemu huruf 's' menjadi meny- (menyapu)."
+  },
+  {
+    "id": "bind-k2-s03",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Awalan me-",
+    "difficulty": "sedang",
+    "question": "Kata dasar 'tulis' jika diberi awalan me- berubah menjadi ...",
+    "options": [
+      "Metulis",
+      "Menulis",
+      "Mentulis",
+      "Mengtulis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Awalan me- bertemu huruf 't' meluluhkan 't' menjadi men- (menulis)."
+  },
+  {
+    "id": "bind-k2-s04",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Awalan me-",
+    "difficulty": "sedang",
+    "question": "Kata dasar 'baca' jika diberi awalan me- berubah menjadi ...",
+    "options": [
+      "Membaca",
+      "Menbaca",
+      "Mengbaca",
+      "Mebaca"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Awalan me- bertemu huruf 'b' menjadi mem- (membaca)."
+  },
+  {
+    "id": "bind-k2-s05",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Depan di",
+    "difficulty": "sedang",
+    "question": "Penulisan kata depan 'di' penunjuk tempat yang benar adalah dipisah, contohnya ...",
+    "options": [
+      "di rumah",
+      "dirumah",
+      "di-rumah",
+      "dI rumah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata depan penunjuk tempat ditulis terpisah (di rumah, di sekolah)."
+  },
+  {
+    "id": "bind-k2-s06",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Awalan di-",
+    "difficulty": "sedang",
+    "question": "Penulisan awalan 'di-' kata kerja pasif yang benar adalah disambung, contohnya ...",
+    "options": [
+      "di tulis",
+      "ditulis",
+      "di - tulis",
+      "di.tulis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Awalan kata kerja pasif disambung serangkai (ditulis, dimakan)."
+  },
+  {
+    "id": "bind-k2-s07",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Pesan Moral Fabel",
+    "difficulty": "sedang",
+    "question": "Pesan kebaikan yang dapat kita tiru dari suatu cerita dinamakan ...",
+    "options": [
+      "Amanat / Pesan moral",
+      "Alur cerita",
+      "Latar tempat",
+      "Judul buku"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amanat adalah pesan moral dalam cerita."
+  },
+  {
+    "id": "bind-k2-s08",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Sifat Tokoh Kancil",
+    "difficulty": "sedang",
+    "question": "Dalam fabel Nusantara, Kancil biasanya digambarkan memiliki sifat yang ...",
+    "options": [
+      "Cerdik banyak akal",
+      "Bodoh dan malas",
+      "Jahat dan serakah",
+      "Pengecut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kancil dikenal sebagai tokoh cerdik yang lincah berpikir."
+  },
+  {
+    "id": "bind-k2-s09",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Huruf Kapital Nama Bulan",
+    "difficulty": "sedang",
+    "question": "Penulisan nama bulan berikut yang benar adalah ...",
+    "options": [
+      "bulan agustus",
+      "bulan Agustus",
+      "Bulan agustus",
+      "bulan AGUSTUS"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nama bulan diawali huruf kapital (Agustus)."
+  },
+  {
+    "id": "bind-k2-s10",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Tanda Titik Dua Jam",
+    "difficulty": "sedang",
+    "question": "Tanda titik digunakan untuk memisahkan jam dan menit, contoh penulisan yang tepat adalah ...",
+    "options": [
+      "Pukul 07.30",
+      "Pukul 07,30",
+      "Pukul 07-30",
+      "Pukul 07;30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemisah jam dan menit dalam bahasa Indonesia menggunakan tanda titik (07.30)."
+  },
+  {
+    "id": "bind-k2-s11",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Hubung Tetapi",
+    "difficulty": "sedang",
+    "question": "Kata hubung yang menyatakan perlawanan atau pertentangan adalah ...",
+    "options": [
+      "Dan",
+      "Tetapi",
+      "Atau",
+      "Serta"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata 'tetapi' menyatakan hal yang berlawanan."
+  },
+  {
+    "id": "bind-k2-s12",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Tanya 'Mengapa'",
+    "difficulty": "sedang",
+    "question": "Kata tanya yang digunakan untuk menanyakan sebab atau alasan adalah ...",
+    "options": [
+      "Siapa",
+      "Kapan",
+      "Mengapa",
+      "Di mana"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kata 'mengapa' menanyakan alasan terjadinya sesuatu."
+  },
+  {
+    "id": "bind-k2-s13",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Tanya 'Bagaimana'",
+    "difficulty": "sedang",
+    "question": "Kata tanya yang digunakan untuk menanyakan cara atau keadaan adalah ...",
+    "options": [
+      "Bagaimana",
+      "Berapa",
+      "Siapa",
+      "Kapan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kata 'bagaimana' menanyakan proses cara atau kabar keadaan."
+  },
+  {
+    "id": "bind-k2-s14",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Kutu Buku",
+    "difficulty": "sedang",
+    "question": "Ungkapan 'kutu buku' memiliki arti orang yang ...",
+    "options": [
+      "Memelihara kutu",
+      "Suka dan rajin membaca buku",
+      "Benci membaca",
+      "Menjual buku"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kutu buku adalah kiasan bagi orang yang gemar membaca."
+  },
+  {
+    "id": "bind-k2-s15",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Buah Tangan",
+    "difficulty": "sedang",
+    "question": "Ungkapan 'buah tangan' memiliki arti ...",
+    "options": [
+      "Buah yang dipetik tangan",
+      "Oleh-oleh",
+      "Hasil kerja keras",
+      "Anak kesayangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buah tangan artinya oleh-oleh dari bepergian."
+  },
+  {
+    "id": "bind-k2-s16",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Buah Hati",
+    "difficulty": "sedang",
+    "question": "Ungkapan 'buah hati' memiliki arti ...",
+    "options": [
+      "Buah berbentuk hati",
+      "Anak tercinta / kesayangan",
+      "Dokter jantung",
+      "Makanan manis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buah hati artinya anak kesayangan orang tua."
+  },
+  {
+    "id": "bind-k2-s17",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Rendah Hati",
+    "difficulty": "sedang",
+    "question": "Ungkapan 'rendah hati' bermakna memiliki sifat ...",
+    "options": [
+      "Sombong",
+      "Tidak sombong / ramah",
+      "Pengecut",
+      "Pemurung"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rendah hati artinya tawadhu, tidak sombong."
+  },
+  {
+    "id": "bind-k2-s18",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Besar Kepala",
+    "difficulty": "sedang",
+    "question": "Ungkapan 'besar kepala' bermakna memiliki sifat ...",
+    "options": [
+      "Sombong / angkuh",
+      "Pintar",
+      "Kepala pusing",
+      "Pemberani"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Besar kepala adalah kiasan untuk orang yang sombong."
+  },
+  {
+    "id": "bind-k2-s19",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Puisi Anak Tema",
+    "difficulty": "sedang",
+    "question": "Puisi yang menceritakan tentang indahnya sawah, gunung, dan sungai bertemakan ...",
+    "options": [
+      "Keluarga",
+      "Keindahan alam",
+      "Kesehatan",
+      "Perjuangan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sawah, gunung, dan sungai adalah unsur keindahan alam."
+  },
+  {
+    "id": "bind-k2-s20",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Rima Puisi",
+    "difficulty": "sedang",
+    "question": "Pengulangan bunyi yang teratur dan selaras di akhir baris puisi disebut ...",
+    "options": [
+      "Rima",
+      "Judul",
+      "Bait",
+      "Amanat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rima adalah keselarasan bunyi akhir pada bait puisi."
+  },
+  {
+    "id": "bind-k2-u01",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Amanat Dongeng Semut dan Belalang",
+    "difficulty": "sulit",
+    "question": "Dalam fabel 'Semut dan Belalang', semut rajin mengumpulkan makanan sedangkan belalang hanya bermalas-malasan bernyanyi. Saat musim dingin tiba, belalang kelaparan. Pesan moral dari cerita tersebut adalah ...",
+    "options": [
+      "Kita harus rajin bekerja mempersiapkan masa depan",
+      "Lebih baik bernyanyi daripada bekerja",
+      "Musim dingin sangat menyenangkan",
+      "Jangan berteman dengan semut"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amanatnya adalah rajin dan bersiap diri agar tidak sengsara di masa depan."
+  },
+  {
+    "id": "bind-k2-u02",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Informasi Tersurat Cerita",
+    "difficulty": "sulit",
+    "question": "Bacalah: 'Keluarga Budi pergi berlibur ke rumah nenek di Yogyakarta menggunakan kereta api pada hari Sabtu.' Kapan keluarga Budi berangkat berlibur?",
+    "options": [
+      "Hari Minggu",
+      "Hari Sabtu",
+      "Hari Jumat",
+      "Hari Senin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tertulis jelas di teks: pada hari Sabtu."
+  },
+  {
+    "id": "bind-k2-u03",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Informasi Tersurat Sarana",
+    "difficulty": "sulit",
+    "question": "Berdasarkan bacaan liburan keluarga Budi tadi, alat transportasi apakah yang mereka gunakan?",
+    "options": [
+      "Bus umum",
+      "Mobil pribadi",
+      "Kereta api",
+      "Pesawat terbang"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tertulis di teks menggunakan kereta api."
+  },
+  {
+    "id": "bind-k2-u04",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Menemukan Tokoh Antagonis",
+    "difficulty": "sulit",
+    "question": "Tokoh dalam cerita yang memiliki sifat jahat, curang, atau menentang tokoh utama dinamakan tokoh ...",
+    "options": [
+      "Protagonis",
+      "Antagonis",
+      "Tritagonis",
+      "Figuran"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Antagonis adalah tokoh penentang yang berwatak jahat/buruk."
+  },
+  {
+    "id": "bind-k2-u05",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Menemukan Tokoh Protagonis",
+    "difficulty": "sulit",
+    "question": "Tokoh dalam cerita yang memiliki sifat baik, jujur, dan berbudi luhur dinamakan tokoh ...",
+    "options": [
+      "Protagonis",
+      "Antagonis",
+      "Figuran",
+      "Sampingan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protagonis adalah tokoh utama berwatak baik."
+  },
+  {
+    "id": "bind-k2-u06",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Menyusun Paragraf Runtut",
+    "difficulty": "sulit",
+    "question": "Urutan kalimat acak: (1) Edo mencuci tangannya, (2) Edo mengambil piring dan nasi, (3) Edo berdoa sebelum makan, (4) Edo makan dengan tertib. Urutan yang paling tepat adalah ...",
+    "options": [
+      "(1) - (2) - (3) - (4)",
+      "(2) - (1) - (3) - (4)",
+      "(3) - (1) - (2) - (4)",
+      "(1) - (3) - (2) - (4)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mencuci tangan (1) -> Mengambil makanan (2) -> Berdoa (3) -> Makan (4)."
+  },
+  {
+    "id": "bind-k2-u07",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Menyusun Kalimat Acak Menjadi Cerita",
+    "difficulty": "sulit",
+    "question": "Perhatikan: (1) Ayam jantan berkokok, (2) Matahari terbit di ufuk timur, (3) Lani bersiap berangkat ke sekolah. Waktu yang digambarkan dalam kalimat tersebut adalah ...",
+    "options": [
+      "Pagi hari",
+      "Siang hari",
+      "Sore hari",
+      "Malam hari"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Matahari terbit dan kokok ayam menandakan pagi hari."
+  },
+  {
+    "id": "bind-k2-u08",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Makna Kata Denotasi",
+    "difficulty": "sulit",
+    "question": "Arti sebenarnya (makna denotasi) dari kata 'bunga' adalah ...",
+    "options": [
+      "Gadis tercantik",
+      "Bagian tumbuhan yang indah mekar dan beraroma",
+      "Keuntungan pinjaman bank",
+      "Uang simpanan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Makna denotasi adalah makna sebenarnya (bagian tumbuhan)."
+  },
+  {
+    "id": "bind-k2-u09",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Makna Kata Konotasi",
+    "difficulty": "sulit",
+    "question": "Dalam kalimat 'Siti adalah bunga desa di kampungnya', kata 'bunga desa' bermakna kiasan yaitu ...",
+    "options": [
+      "Tanaman mawar",
+      "Gadis tercantik di desa",
+      "Penjual bunga",
+      "Taman bermain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bunga desa adalah ungkapan untuk gadis tercantik di kampung."
+  },
+  {
+    "id": "bind-k2-u10",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Ringan Tangan",
+    "difficulty": "sulit",
+    "question": "Ungkapan 'ringan tangan' yang bermakna baik memiliki arti orang yang suka ...",
+    "options": [
+      "Memukul orang",
+      "Membantu atau menolong sesama",
+      "Mengambil barang orang",
+      "Bermain bulu tangkis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ringan tangan dalam makna positif adalah suka menolong."
+  },
+  {
+    "id": "bind-k2-u11",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Lapang Dada",
+    "difficulty": "sulit",
+    "question": "Menerima kekalahan dalam lomba dengan ikhlas dan sabar dinamakan sikap ...",
+    "options": [
+      "Besar kepala",
+      "Lapang dada",
+      "Keras kepala",
+      "Tinggi hati"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lapang dada artinya ikhlas dan berjiwa besar menerima kenyataan."
+  },
+  {
+    "id": "bind-k2-u12",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Penggunaan Huruf Kapital Bangsa",
+    "difficulty": "sulit",
+    "question": "Penulisan nama bangsa dan bahasa yang benar adalah ...",
+    "options": [
+      "bangsa indonesia",
+      "Bangsa Indonesia",
+      "bangsa Indonesia",
+      "Bangsa indonesia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Huruf awal nama negara/bangsa kapital: bangsa Indonesia, bahasa Indonesia."
+  },
+  {
+    "id": "bind-k2-u13",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Penggunaan Huruf Kapital Agama",
+    "difficulty": "sulit",
+    "question": "Penulisan nama agama yang benar sesuai ejaan adalah ...",
+    "options": [
+      "islam",
+      "kristen",
+      "Islam",
+      "hindu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nama agama diawali huruf kapital (Islam, Kristen, Katolik, Hindu, Buddha)."
+  },
+  {
+    "id": "bind-k2-u14",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Menemukan Gagasan Kalimat",
+    "difficulty": "sulit",
+    "question": "Bacalah: 'Setiap hari Minggu warga Desa Sukamaju bergotong royong membersihkan selokan agar tidak banjir.' Tujuan warga bergotong royong adalah ...",
+    "options": [
+      "Mencari ikan di selokan",
+      "Mencegah terjadinya banjir",
+      "Mendapat upah uang",
+      "Bermain air"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tujuannya membersihkan selokan agar tidak banjir."
+  },
+  {
+    "id": "bind-k2-u15",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Penyebab Banjir Teks",
+    "difficulty": "sulit",
+    "question": "Jika selokan tersumbat oleh sampah plastik, maka akibat yang akan terjadi saat hujan lebat adalah ...",
+    "options": [
+      "Udara menjadi sejuk",
+      "Terjadi banjir",
+      "Air menjadi jernih",
+      "Tanaman tumbuh subur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sampah menyumbat aliran air mengakibatkan banjir."
+  },
+  {
+    "id": "bind-k2-u16",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Melengkapi Pantun Rima",
+    "difficulty": "sulit",
+    "question": "Kalau ada jarum yang patah, jangan simpan di dalam peti. Kalau ada kata yang salah, jangan simpan di dalam ...",
+    "options": [
+      "Hati",
+      "Piring",
+      "Buku",
+      "Rumah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rima kata 'peti' bersajak sama dengan kata 'hati'."
+  },
+  {
+    "id": "bind-k2-u17",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Jumlah Baris Pantun",
+    "difficulty": "sulit",
+    "question": "Satu bait pantun empat baris memiliki ... baris sampiran dan ... baris isi.",
+    "options": [
+      "1 sampiran dan 3 isi",
+      "2 sampiran dan 2 isi",
+      "3 sampiran dan 1 isi",
+      "Semua baris adalah isi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Baris 1 dan 2 adalah sampiran, baris 3 dan 4 adalah isi."
+  },
+  {
+    "id": "bind-k2-u18",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Sajak Rima Pantun",
+    "difficulty": "sulit",
+    "question": "Pola persajakan akhir pada pantun yang lazim adalah bersajak ...",
+    "options": [
+      "a - a - a - a",
+      "a - b - a - b",
+      "a - a - b - b",
+      "a - b - b - a"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pantun pada umumnya bersajak silang a - b - a - b."
+  },
+  {
+    "id": "bind-k2-u19",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kalimat Pengumuman",
+    "difficulty": "sulit",
+    "question": "'Diberitahukan kepada seluruh siswa kelas 2 bahwa besok memakai seragam olahraga.' Kalimat tersebut termasuk teks ...",
+    "options": [
+      "Surat pribadi",
+      "Pengumuman",
+      "Fabel",
+      "Dongeng"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Teks pengumuman menyampaikan informasi penting kepada khalayak."
+  },
+  {
+    "id": "bind-k2-u20",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Maksud Kalimat Pengumuman",
+    "difficulty": "sulit",
+    "question": "Berdasarkan pengumuman di atas, apa yang harus dipakai siswa kelas 2 besok?",
+    "options": [
+      "Seragam putih merah",
+      "Seragam pramuka",
+      "Seragam olahraga",
+      "Baju bebas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diberitahukan untuk mengenakan seragam olahraga."
+  },
+  {
+    "id": "bind-k2-u21",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Depan 'ke'",
+    "difficulty": "sulit",
+    "question": "Penulisan kata depan 'ke' penunjuk tujuan tempat yang tepat adalah ...",
+    "options": [
+      "kesekolah",
+      "ke sekolah",
+      "ke-sekolah",
+      "keSekolah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kata depan 'ke' penunjuk tempat ditulis terpisah (ke sekolah)."
+  },
+  {
+    "id": "bind-k2-u22",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Depan 'dari'",
+    "difficulty": "sulit",
+    "question": "Penulisan kata depan 'dari' yang benar adalah ...",
+    "options": [
+      "darirumah",
+      "dari rumah",
+      "dari-rumah",
+      "da ri rumah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ditulis terpisah: dari rumah."
+  },
+  {
+    "id": "bind-k2-u23",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Membuat Kalimat Efektif",
+    "difficulty": "sulit",
+    "question": "Manakah kalimat yang susunannya paling padu dan tidak berbelit-belit?",
+    "options": [
+      "Budi kemarin kemarin sudah pergi",
+      "Budi pergi ke perpustakaan kemarin",
+      "Pergi perpustakaan Budi kemarin",
+      "Ke perpustakaan kemarin pergi Budi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Budi pergi ke perpustakaan kemarin adalah kalimat yang jelas dan efektif."
+  },
+  {
+    "id": "bind-k2-u24",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Tanda Baca Koma Perincian",
+    "difficulty": "sulit",
+    "question": "Penggunaan tanda koma yang benar untuk perincian tiga benda adalah ...",
+    "options": [
+      "Ibu membeli apel jeruk dan mangga.",
+      "Ibu membeli apel, jeruk, dan mangga.",
+      "Ibu membeli, apel jeruk dan mangga.",
+      "Ibu, membeli apel jeruk, dan mangga."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tanda koma diletakkan setelah tiap unsur perincian (apel, jeruk, dan mangga)."
+  },
+  {
+    "id": "bind-k2-u25",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Ganti Orang Pertama",
+    "difficulty": "sulit",
+    "question": "Kata ganti orang pertama tunggal yang digunakan untuk menyebut diri sendiri adalah ...",
+    "options": [
+      "Saya atau Aku",
+      "Kamu atau Anda",
+      "Dia atau Beliau",
+      "Mereka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Saya dan aku adalah kata ganti orang pertama tunggal."
+  },
+  {
+    "id": "bind-k2-u26",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Ganti Orang Kedua",
+    "difficulty": "sulit",
+    "question": "Kata ganti orang kedua yang digunakan untuk menyapa lawan bicara adalah ...",
+    "options": [
+      "Saya",
+      "Kamu atau Engkau",
+      "Dia",
+      "Mereka"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kamu dan engkau adalah kata ganti orang kedua."
+  },
+  {
+    "id": "bind-k2-u27",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Kata Ganti Orang Ketiga Jamak",
+    "difficulty": "sulit",
+    "question": "Kata ganti yang digunakan untuk menyebut banyak orang lain yang sedang dibicarakan adalah ...",
+    "options": [
+      "Kita",
+      "Kami",
+      "Mereka",
+      "Kalian"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mereka adalah kata ganti orang ketiga jamak."
+  },
+  {
+    "id": "bind-k2-u28",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Mengenal Cerita Pengalaman",
+    "difficulty": "sulit",
+    "question": "Karangan yang menceritakan peristiwa nyata yang pernah dialami sendiri oleh penulis disebut teks ...",
+    "options": [
+      "Pengalaman pribadi",
+      "Dongeng fabel",
+      "Babad sejarah",
+      "Teks drama"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Teks pengalaman menceritakan hal yang dialami sendiri."
+  },
+  {
+    "id": "bind-k2-u29",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Ungkapan Lurus Hati",
+    "difficulty": "sulit",
+    "question": "Orang yang 'lurus hati' adalah orang yang selalu bersikap ...",
+    "options": [
+      "Jujur dan dapat dipercaya",
+      "Curang dan licik",
+      "Suka berbohong",
+      "Mudah marah"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lurus hati artinya jujur."
+  },
+  {
+    "id": "bind-k2-u30",
+    "grade": 2,
+    "subject": "bahasa-indonesia",
+    "topic": "Membedakan Teks Fiksi dan Nonfiksi",
+    "difficulty": "sulit",
+    "question": "Cerita yang dibuat berdasarkan rekaan imajinasi pengarang (seperti dongeng putri duyung) tergolong karya ...",
+    "options": [
+      "Nonfiksi (faktual)",
+      "Fiksi (imajinatif)",
+      "Ilmiah",
+      "Berita koran"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karya imajinasi/rekaan disebut fiksi."
+  }
+]
