@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Kuis Pintar SD - Aplikasi web kuis edukasi interaktif untuk murid Sekolah Dasar kelas 1 sampai 6."
+    />
+    <meta name="theme-color" content="#2563EB" />
+    <title>Kuis Pintar SD — Belajar, Bermain, dan Jadi Lebih Pintar!</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+
+    <header class="app-header">
+      <div class="header-container">
+        <div class="brand-wrapper">
+          <div class="brand-mascot-icon" aria-hidden="true">🎒</div>
+          <div class="brand-text-col">
+            <span class="brand-title">Kuis Pintar SD</span>
+            <span class="brand-tagline"
+              >Belajar, bermain, dan jadi lebih pintar!</span
+            >
+          </div>
+        </div>
+        <div class="header-actions">
+          <button
+            type="button"
+            id="btn-audio-toggle"
+            class="btn-icon-label"
+            aria-label="Pengaturan Suara"
+          >
+            <span aria-hidden="true">🔊</span> <span>Suara: Hidup</span>
+          </button>
+          <button
+            type="button"
+            id="btn-nav-history"
+            class="btn-icon-label"
+            aria-label="Buka Riwayat Hasil Kuis"
+          >
+            <span aria-hidden="true">📜</span> <span>Riwayat</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-wrapper">
+
+      <section
+        id="view-home"
+        class="app-view active"
+        aria-labelledby="home-heading"
+      >
+        <div class="home-hero-banner">
+          <div class="hero-content">
+            <h1 id="home-heading">Selamat Datang di Kuis Pintar SD! 🌟</h1>
+            <p>
+              Pilih kelas dan mata pelajaran yang ingin kamu pelajari hari ini.
+              Uji kemampuanmu dan kumpulkan nilai terbaik!
+            </p>
+          </div>
+        </div>
+
+        <form id="form-quiz-config" onsubmit="return false;">
+
+          <div class="config-section-card">
+            <label for="input-student-name" class="section-label">
+              <span class="label-num">1</span>
+              <span>Nama Murid</span>
+            </label>
+            <div class="input-student-wrapper">
+              <input
+                type="text"
+                id="input-student-name"
+                class="input-student"
+                placeholder="Ketik namamu di sini (misal: Budi, Siti, Rani)..."
+                maxlength="40"
+                autocomplete="off"
+              />
+              <span class="input-hint"
+                >💡 Namamu akan dicantumkan pada sertifikat hasil kuis dan
+                riwayat belajar.</span
+              >
+            </div>
+          </div>
+
+          <div class="config-section-card">
+            <div class="section-label">
+              <span class="label-num">2</span>
+              <span>Pilih Jenjang Kelas SD</span>
+            </div>
+            <div class="grades-pill-grid" role="group" aria-label="Pilih Kelas">
+              <button type="button" class="grade-pill-btn" data-grade="1">
+                <span>Kelas 1</span>
+                <span class="grade-sub">Fase A</span>
+              </button>
+              <button type="button" class="grade-pill-btn" data-grade="2">
+                <span>Kelas 2</span>
+                <span class="grade-sub">Fase A</span>
+              </button>
+              <button
+                type="button"
+                class="grade-pill-btn active"
+                data-grade="3"
+              >
+                <span>Kelas 3</span>
+                <span class="grade-sub">Fase B</span>
+              </button>
+              <button type="button" class="grade-pill-btn" data-grade="4">
+                <span>Kelas 4</span>
+                <span class="grade-sub">Fase B</span>
+              </button>
+              <button type="button" class="grade-pill-btn" data-grade="5">
+                <span>Kelas 5</span>
+                <span class="grade-sub">Fase C</span>
+              </button>
+              <button type="button" class="grade-pill-btn" data-grade="6">
+                <span>Kelas 6</span>
+                <span class="grade-sub">Fase C</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="config-section-card">
+            <div class="section-label">
+              <span class="label-num">3</span>
+              <span>Pilih Mata Pelajaran</span>
+            </div>
+            <p class="input-hint" style="margin-bottom: 14px">
+              Hanya menampilkan mata pelajaran yang memiliki materi soal untuk
+              kelas yang dipilih:
+            </p>
+
+            <div
+              id="subjects-grid"
+              class="subjects-grid"
+              role="group"
+              aria-label="Daftar Mata Pelajaran"
+            >
+
+            </div>
+
+            <div
+              id="religion-selector-section"
+              class="religion-selector-section"
+              style="display: none"
+            >
+              <label for="select-religion" class="religion-title">
+                <span>🕌 Pilih Agama / Kepercayaan:</span>
+              </label>
+              <select id="select-religion" class="select-religion">
+
+              </select>
+              <div
+                id="religion-availability-notice"
+                class="religion-availability-notice"
+                style="display: none"
+              ></div>
+            </div>
+          </div>
+
+          <div class="config-section-card">
+            <div class="section-label">
+              <span class="label-num">4</span>
+              <span>Pilih Level Kuis</span>
+            </div>
+            <p class="input-hint" style="margin-bottom: 14px">
+              Pilih tingkat kesulitan yang kamu inginkan. Jumlah soal
+              disesuaikan otomatis dengan levelnya:
+            </p>
+            <div
+              class="levels-card-grid"
+              role="group"
+              aria-label="Pilih Level Kuis"
+            >
+              <button
+                type="button"
+                class="level-card-btn active"
+                data-level="mudah"
+                data-count="10"
+              >
+                <div class="level-card-header">
+                  <span class="level-card-icon">🟢</span>
+                  <span class="level-card-badge badge-easy">10 Soal</span>
+                </div>
+                <h3 class="level-card-title">Level Mudah</h3>
+                <p class="level-card-desc">
+                  Konsep dasar, pemahaman materi, santai & menyenangkan
+                </p>
+              </button>
+
+              <button
+                type="button"
+                class="level-card-btn"
+                data-level="sedang"
+                data-count="20"
+              >
+                <div class="level-card-header">
+                  <span class="level-card-icon">🟡</span>
+                  <span class="level-card-badge badge-medium">20 Soal</span>
+                </div>
+                <h3 class="level-card-title">Level Sedang</h3>
+                <p class="level-card-desc">
+                  Latihan standar, penerapan rumus & variasi kasus
+                </p>
+              </button>
+
+              <button
+                type="button"
+                class="level-card-btn"
+                data-level="sulit"
+                data-count="30"
+              >
+                <div class="level-card-header">
+                  <span class="level-card-icon">🔴</span>
+                  <span class="level-card-badge badge-hard">30 Soal</span>
+                </div>
+                <h3 class="level-card-title">Level Sulit</h3>
+                <p class="level-card-desc">
+                  Tantangan berpikir kritis, pemecahan masalah & HOTS
+                </p>
+              </button>
+            </div>
+
+            <div
+              id="selection-summary-notice"
+              class="selection-summary-notice"
+              style="display: none"
+            ></div>
+          </div>
+
+          <div class="home-start-wrapper">
+            <button
+              type="button"
+              id="btn-start-quiz"
+              class="btn-start-quiz"
+              disabled
+            >
+              <span>Mulai Kuis Sekarang</span>
+              <span aria-hidden="true">🚀</span>
+            </button>
+          </div>
+        </form>
+      </section>
+
+      <section id="view-quiz" class="app-view" aria-labelledby="question-text">
+        <div class="quiz-top-bar">
+          <button type="button" id="btn-exit-quiz" class="btn-exit-quiz">
+            <span aria-hidden="true">⬅️</span> <span>Keluar Kuis</span>
+          </button>
+          <span
+            id="quiz-student-greeting"
+            class="quiz-student-greeting"
+            style="display: none"
+          ></span>
+        </div>
+
+        <div class="progress-container">
+          <div class="progress-header-row">
+            <span id="progress-label">Soal 1 dari 10</span>
+            <span>Progres Belajar</span>
+          </div>
+          <div
+            class="progress-track"
+            role="progressbar"
+            aria-valuemin="0"
+            aria-valuemax="100"
+          >
+            <div id="progress-fill" class="progress-fill"></div>
+          </div>
+        </div>
+
+        <div id="quiz-card" class="quiz-card">
+          <div class="quiz-card-meta">
+            <span id="quiz-badge-grade" class="quiz-badge">Kelas 3 SD</span>
+            <span id="quiz-badge-subject" class="quiz-badge">Matematika</span>
+            <span id="quiz-badge-topic" class="quiz-badge">Topik Materi</span>
+            <span
+              id="quiz-badge-difficulty"
+              class="quiz-badge badge-difficulty sedang"
+              >SEDANG</span
+            >
+          </div>
+
+          <h2 id="question-text" class="question-text">
+            Teks pertanyaan akan dimuat di sini...
+          </h2>
+
+          <div
+            id="options-container"
+            class="options-grid"
+            role="group"
+            aria-label="Pilihan Jawaban"
+          >
+
+          </div>
+
+          <div
+            id="quiz-feedback-area"
+            class="feedback-box"
+            style="display: none"
+          ></div>
+
+          <div
+            id="quiz-action-area"
+            class="quiz-action-area"
+            style="display: none"
+          ></div>
+        </div>
+      </section>
+
+      <section
+        id="view-results"
+        class="app-view"
+        aria-labelledby="results-title"
+      >
+        <div class="results-hero-card">
+          <div class="results-identity-row">
+            <h2 id="results-title" style="display: none">Hasil Kuis</h2>
+            <div id="res-student-name" class="res-student-name">Nama Murid</div>
+            <div id="res-subject-grade" class="res-subject-grade">
+              Kelas 3 SD • Matematika
+            </div>
+            <div id="res-date-formatted" class="res-date-formatted">
+              22 Oktober 2026, pukul 10.00 WIB
+            </div>
+          </div>
+
+          <div class="results-score-wrapper">
+            <div class="results-score-circle">
+              <span id="res-score-number" class="res-score-number">100</span>
+              <span class="res-score-percent">DARI 100</span>
+            </div>
+            <span id="res-score-badge" class="results-score-badge badge-gold"
+              >SEMPURNA! 🏆</span
+            >
+          </div>
+
+          <div id="res-motivation-message" class="results-motivation-card">
+
+          </div>
+
+          <div class="results-stats-grid">
+            <div class="stat-box stat-correct">
+              <span id="res-count-correct" class="stat-val">10</span>
+              <span class="stat-lbl">Jawaban Benar</span>
+            </div>
+            <div class="stat-box stat-wrong">
+              <span id="res-count-wrong" class="stat-val">0</span>
+              <span class="stat-lbl">Jawaban Salah</span>
+            </div>
+            <div class="stat-box stat-total">
+              <span id="res-count-total" class="stat-val">10</span>
+              <span class="stat-lbl">Total Soal</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="results-actions-card">
+          <button
+            type="button"
+            id="btn-restart-quiz"
+            class="btn-action-primary"
+          >
+            <span>🔄 Ulangi Kuis Ini</span>
+          </button>
+          <button
+            type="button"
+            id="btn-choose-other"
+            class="btn-action-secondary"
+          >
+            <span>📚 Pilih Kelas / Mapel Lain</span>
+          </button>
+          <button
+            type="button"
+            id="btn-results-to-home"
+            class="btn-action-secondary"
+          >
+            <span>🏠 Kembali ke Beranda</span>
+          </button>
+        </div>
+
+        <div class="review-section">
+          <div class="review-section-header">
+            <h3 class="review-section-title">🔍 Pembahasan & Review Jawaban</h3>
+            <div
+              class="review-filter-buttons"
+              role="group"
+              aria-label="Filter Review"
+            >
+              <button
+                type="button"
+                id="btn-filter-review-all"
+                class="filter-btn active"
+              >
+                Semua Jawaban
+              </button>
+              <button
+                type="button"
+                id="btn-filter-review-wrong"
+                class="filter-btn"
+              >
+                Hanya Jawaban Salah
+              </button>
+            </div>
+          </div>
+
+          <div id="review-items-container" class="review-items-container">
+
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="view-history"
+        class="app-view"
+        aria-labelledby="history-heading"
+      >
+        <div class="history-header-card">
+          <div class="history-header-top">
+            <h2 id="history-heading">📜 Riwayat Hasil Kuis Murid</h2>
+            <div style="display: flex; gap: 8px">
+              <button
+                type="button"
+                id="btn-clear-all-history"
+                class="btn-danger-outline"
+                style="display: none"
+              >
+                <span>🗑️ Hapus Semua Riwayat</span>
+              </button>
+              <button
+                type="button"
+                id="btn-history-back-home"
+                class="btn-action-secondary"
+              >
+                <span>🏠 Kembali ke Beranda</span>
+              </button>
+            </div>
+          </div>
+
+          <div
+            id="history-stats-summary"
+            class="history-stats-summary"
+            style="display: none"
+          >
+            <div class="history-stat-box">
+              <span id="stat-total-attempts" class="history-stat-val">0</span>
+              <span class="history-stat-lbl">Kuis Dikerjakan</span>
+            </div>
+            <div class="history-stat-box">
+              <span id="stat-avg-score" class="history-stat-val">0</span>
+              <span class="history-stat-lbl">Rata-rata Nilai</span>
+            </div>
+            <div class="history-stat-box">
+              <span id="stat-best-score" class="history-stat-val">0</span>
+              <span class="history-stat-lbl">Nilai Tertinggi</span>
+            </div>
+          </div>
+
+          <p class="history-device-notice">
+            🔒 Riwayat disimpan secara aman di perangkat lokal ini melalui
+            LocalStorage.
+          </p>
+        </div>
+
+        <div id="history-items-container" class="history-items-container">
+
+        </div>
+
+        <div
+          id="history-empty-state"
+          class="history-empty-state"
+          style="display: none"
+        >
+          <span class="history-empty-icon" aria-hidden="true">📝</span>
+          <h3>Belum Ada Riwayat Kuis</h3>
+          <p>
+            Ayo mulai kerjakan kuis pertamamu dan catat prestasi belajarmu di
+            sini!
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <div
+      id="modal-confirm-exit"
+      class="modal-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modal-exit-title"
+    >
+      <div class="modal-card">
+        <span class="modal-icon" aria-hidden="true">⚠️</span>
+        <h3 id="modal-exit-title" class="modal-title">Keluar dari Kuis?</h3>
+        <p class="modal-desc">
+          Sesi kuis yang sedang berjalan akan dihentikan. Jawaban yang belum
+          selesai tidak akan tersimpan ke riwayat.
+        </p>
+        <div class="modal-actions">
+          <button type="button" id="btn-cancel-exit" class="btn-modal-cancel">
+            Lanjutkan Kuis
+          </button>
+          <button type="button" id="btn-confirm-exit" class="btn-modal-danger">
+            Ya, Keluar ke Beranda
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="modal-confirm-clear-history"
+      class="modal-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modal-clear-title"
+    >
+      <div class="modal-card">
+        <span class="modal-icon" aria-hidden="true">🗑️</span>
+        <h3 id="modal-clear-title" class="modal-title">
+          Hapus Seluruh Riwayat?
+        </h3>
+        <p class="modal-desc">
+          Seluruh catatan nilai dan review kuis pada perangkat ini akan dihapus
+          permanen. Tindakan ini tidak dapat dibatalkan.
+        </p>
+        <div class="modal-actions">
+          <button
+            type="button"
+            id="btn-cancel-clear-history"
+            class="btn-modal-cancel"
+          >
+            Batal
+          </button>
+          <button
+            type="button"
+            id="btn-confirm-clear-history"
+            class="btn-modal-danger"
+          >
+            Hapus Permanen
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="modal-history-detail"
+      class="modal-backdrop"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="history-detail-title"
+    >
+      <div class="modal-card modal-card-lg">
+        <div class="modal-header-lg">
+          <h3 id="history-detail-title" class="modal-title">
+            Detail Hasil Kuis
+          </h3>
+          <button
+            type="button"
+            id="btn-close-history-detail"
+            class="btn-modal-close"
+            aria-label="Tutup Detail"
+          >
+            ✕
+          </button>
+        </div>
+        <div id="history-detail-body" class="modal-body-scroll">
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      <p>
+        <strong>Kuis Pintar SD</strong> — Media Evaluasi dan Pembelajaran Ramah
+        Anak SD (Kelas 1 - 6).
+      </p>
+    </footer>
+
+    <script src="data/questions.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/results.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
